@@ -1,0 +1,23 @@
+{
+  "name": "derdiedas",
+  "version": "0.0.1",
+  "description": "A basic PWA starter app with manifest, service worker and push notifications.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "web-push": "^3.4.3"
+  },
+  "engines": {
+    "node": "12.14.1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

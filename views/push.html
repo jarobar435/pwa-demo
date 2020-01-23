@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PWA Starter Pack</title>
+    <meta
+      name="description"
+      content="A basic PWA starter app with manifest, service worker and push notifications."
+    />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>
+        PWA Starter Pack
+      </h1>
+    </header>
+
+    <main>
+      <section>
+        <h2>Including:</h2>
+        <ul>
+          <li>
+            Web Manifest (<a
+              href="https://developer.mozilla.org/en-US/docs/Web/Manifest"
+              >MDN</a
+            >)
+          </li>
+          <li>
+            ServiceWorker (<a
+              href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers"
+              >MDN</a
+            >)
+          </li>
+          <li>
+            Push Notifications (<a
+              href="https://developer.mozilla.org/en/docs/Web/API/Push_API"
+              >MDN</a
+            >)
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>
+          Test Push Notifications
+        </h2>
+        <form>
+          Notification delay:
+          <input id="notification-delay" type="number" value="5" /> seconds
+          Notification Time-To-Live:
+          <input id="notification-ttl" type="number" value="0" />seconds
+        </form>
+        <div>
+          <button id="doIt">Send Push Notification</button>
+        </div>
+      </section>
+
+      <section>
+        <h2>
+          Thanks!
+        </h2>
+        <ul>
+          <li>
+            ServiceWorker push notification code from
+            <a href="https://serviceworke.rs">The Service Worker Cookbook</a>
+          </li>
+          <li>
+            ServiceWorker offline code from
+            <a href="https://offline-with-serviceworker.glitch.me"
+              >jennschiffer and kosamari's glitch</a
+            >
+          </li>
+          <li>
+            Icons made with PWA Icons Generator by
+            <a href="https://pwa-icons-generator.herokuapp.com/"
+              >Tyler Crammond</a
+            >
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <a href="https://glitch.com">
+        Remix this in Glitch
+      </a>
+    </footer>
+
+    <script src="/client.js"></script>
+  </body>
+</html>

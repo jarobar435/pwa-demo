@@ -1,0 +1,4562 @@
+{
+  "c670d809-236a-960d-f742-61a0c939920d": {
+    "id": "c670d809-236a-960d-f742-61a0c939920d",
+    "de": "Angebot",
+    "en": "offer",
+    "article": "das",
+    "exampleDE": "Heute sind Bananen im Angebot.",
+    "exampleEN": "Today bananas are on offer."
+  },
+  "187ccd80-cbda-42b5-5e5c-d5213888dd54": {
+    "id": "187ccd80-cbda-42b5-5e5c-d5213888dd54",
+    "de": "Adresse",
+    "en": "address",
+    "article": "die",
+    "exampleDE": "Können Sie mir Ihre Adresse geben?",
+    "exampleEN": "Can you give me your address?"
+  },
+  "c61b2519-9e1d-4120-faf6-85215b9cdb80": {
+    "id": "c61b2519-9e1d-4120-faf6-85215b9cdb80",
+    "de": "Anfang",
+    "en": "Beginning",
+    "article": "der",
+    "exampleDE": "Sie wohnt am Anfang der Straße.",
+    "exampleEN": "She lives at the beginning of the street."
+  },
+  "b26c89a2-6e41-626b-7a70-1b25e7836480": {
+    "id": "b26c89a2-6e41-626b-7a70-1b25e7836480",
+    "de": "Angst",
+    "en": "anxiety / fear",
+    "article": "die",
+    "exampleDE": "Hab keine Angst!",
+    "exampleEN": "Have no fear!"
+  },
+  "2d830486-9e55-a7c0-eb1f-18e5957d8101": {
+    "id": "2d830486-9e55-a7c0-eb1f-18e5957d8101",
+    "de": "Ahnung",
+    "en": "idea",
+    "article": "die",
+    "exampleDE": "Ich hatte keine Ahnung, dass du heute Geburtstag hast.",
+    "exampleEN": "I had no idea you had a birthday today."
+  },
+  "4ab70b67-2b11-95e4-9685-9ea55a4ae20c": {
+    "id": "4ab70b67-2b11-95e4-9685-9ea55a4ae20c",
+    "de": "Ankunft",
+    "en": "Arrival",
+    "article": "die",
+    "exampleDE": "Auf diesem Fahrplan steht nur die Ankunft der Züge.",
+    "exampleEN": "On this timetable is only the arrival of the trains."
+  },
+  "96e650f0-3397-a36e-2cf8-c26384505876": {
+    "id": "96e650f0-3397-a36e-2cf8-c26384505876",
+    "de": "Anmeldung",
+    "en": "registration",
+    "article": "die",
+    "exampleDE": "Wo bekomme ich das Formular für die Anmeldung?",
+    "exampleEN": "Where can I get the registration form?"
+  },
+  "a329624e-b7fc-a6c9-7904-85c3b92a264a": {
+    "id": "a329624e-b7fc-a6c9-7904-85c3b92a264a",
+    "de": "Anrufbeantworter",
+    "en": "Answering machine",
+    "article": "der",
+    "exampleDE": "Wir sind im Moment nicht da, sprechen Sie bitte auf den Anrufbeantworter.",
+    "exampleEN": "We are not there at the moment, please talk to the answering machine."
+  },
+  "94030e9a-6df2-5126-ba0a-cd71f665f4e2": {
+    "id": "94030e9a-6df2-5126-ba0a-cd71f665f4e2",
+    "de": "Anruf",
+    "en": "Call",
+    "article": "der",
+    "exampleDE": "Eva bekommt viele Anrufe von ihrem Freund Juan.",
+    "exampleEN": "Eva gets a lot of calls from her boyfriend Juan."
+  },
+  "f74e16ca-eb0c-7a25-61ec-14b8cbc5d293": {
+    "id": "f74e16ca-eb0c-7a25-61ec-14b8cbc5d293",
+    "de": "Anschluss",
+    "en": "connection",
+    "article": "der",
+    "exampleDE": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+    "exampleEN": "In Mannheim you have connections to Saarbrücken."
+  },
+  "04e46a26-37de-bea9-00fe-78ea09d184cf": {
+    "id": "04e46a26-37de-bea9-00fe-78ea09d184cf",
+    "de": "Antwort",
+    "en": "answer",
+    "article": "die",
+    "exampleDE": "Er gibt leider keine Antwort.",
+    "exampleEN": "Unfortunately, he does not answer."
+  },
+  "f7202443-03e5-76b8-be14-b8b7ebb12a6f": {
+    "id": "f7202443-03e5-76b8-be14-b8b7ebb12a6f",
+    "de": "Alter",
+    "en": "age",
+    "article": "das",
+    "exampleDE": "Alter: 18 Jahre.",
+    "exampleEN": "Age: 18 years."
+  },
+  "1dd84608-d620-a0f2-8c9d-32de4915c781": {
+    "id": "1dd84608-d620-a0f2-8c9d-32de4915c781",
+    "de": "Ampel",
+    "en": "traffic light",
+    "article": "die",
+    "exampleDE": "Du kannst fahren, die Ampel ist grün.",
+    "exampleEN": "You can drive, the traffic light is green."
+  },
+  "bbce961c-beea-4f95-723d-66e6a8cbceac": {
+    "id": "bbce961c-beea-4f95-723d-66e6a8cbceac",
+    "de": "Anzeige",
+    "en": "display",
+    "article": "die",
+    "exampleDE": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+    "exampleEN": "I read your ad in the newspaper."
+  },
+  "b4395a32-60a7-20ab-3c38-11263db7c141": {
+    "id": "b4395a32-60a7-20ab-3c38-11263db7c141",
+    "de": "Anzug",
+    "en": "suit",
+    "article": "der",
+    "exampleDE": "Mein Mann muss sich einen neuen Anzug kaufen.",
+    "exampleEN": "My husband needs to buy a new suit."
+  },
+  "f180681e-88e4-9942-a01e-3af8673475cd": {
+    "id": "f180681e-88e4-9942-a01e-3af8673475cd",
+    "de": "Apfel",
+    "en": "Apple",
+    "article": "der",
+    "exampleDE": "Ein Kilo Äpfel, bitte.",
+    "exampleEN": "One pound of apples, please."
+  },
+  "fc2946c9-3995-1959-eaa7-fad274e3198b": {
+    "id": "fc2946c9-3995-1959-eaa7-fad274e3198b",
+    "de": "Apotheke",
+    "en": "pharmacy",
+    "article": "die",
+    "exampleDE": "Das Medikament bekommen Sie in der Apotheke.",
+    "exampleEN": "The medicine is given to you in the pharmacy."
+  },
+  "acd29a8d-93d4-92cd-e3ef-9873b54f702f": {
+    "id": "acd29a8d-93d4-92cd-e3ef-9873b54f702f",
+    "de": "Apparat",
+    "en": "device / machine",
+    "article": "der",
+    "exampleDE": "Was machen wir mit deinem alten Apparat?",
+    "exampleEN": "What do we do with your old apparatus?"
+  },
+  "8abb7901-dbc6-7805-76ba-b0aef9e460cb": {
+    "id": "8abb7901-dbc6-7805-76ba-b0aef9e460cb",
+    "de": "Arbeit",
+    "en": "job",
+    "article": "die",
+    "exampleDE": "Mein Bruder sucht Arbeit.",
+    "exampleEN": "My brother is looking for work."
+  },
+  "0d839cb0-eff8-9cb0-f6e8-cfcd870ea557": {
+    "id": "0d839cb0-eff8-9cb0-f6e8-cfcd870ea557",
+    "de": "Ausbildung",
+    "en": "education",
+    "article": "die",
+    "exampleDE": "Ich möchte eine Ausbildung zum Krankenpfleger machen.",
+    "exampleEN": "I would like to become a nurse."
+  },
+  "017233be-f43f-e3ba-bacf-0c1c65b1c1e1": {
+    "id": "017233be-f43f-e3ba-bacf-0c1c65b1c1e1",
+    "de": "Ausflug",
+    "en": "Excursion",
+    "article": "der",
+    "exampleDE": "Morgen machen wir einen Ausflug nach Heidelberg.",
+    "exampleEN": "Tomorrow we will make a trip to Heidelberg."
+  },
+  "f04d4d90-41d8-b9aa-9a2d-27777becebbf": {
+    "id": "f04d4d90-41d8-b9aa-9a2d-27777becebbf",
+    "de": "Arm",
+    "en": "arm",
+    "article": "der",
+    "exampleDE": "Mein Arm tut weh.",
+    "exampleEN": "My arm hurts."
+  },
+  "f318cb4f-b886-c129-c99a-930f6b970673": {
+    "id": "f318cb4f-b886-c129-c99a-930f6b970673",
+    "de": "Ausgang",
+    "en": "exit",
+    "article": "der",
+    "exampleDE": "Entschuldigung, wo ist der Ausgang?",
+    "exampleEN": "Excuse me, where is the exit?"
+  },
+  "97352826-a1b2-cc24-8dec-1a2e9a973faf": {
+    "id": "97352826-a1b2-cc24-8dec-1a2e9a973faf",
+    "de": "Artikel",
+    "en": "item",
+    "article": "der",
+    "exampleDE": "Im Deutschen gibt es drei Artikel: der, die und das.",
+    "exampleEN": "In German there are three articles: die, die und das."
+  },
+  "5f2de022-0e26-c842-83b3-744b8635dee9": {
+    "id": "5f2de022-0e26-c842-83b3-744b8635dee9",
+    "de": "Auskunft",
+    "en": "information desk",
+    "article": "die",
+    "exampleDE": "Wo ist die Auskunft?",
+    "exampleEN": "Where is the information?"
+  },
+  "936b228e-2ac0-bdaa-0bc6-3c51c98ef628": {
+    "id": "936b228e-2ac0-bdaa-0bc6-3c51c98ef628",
+    "de": "Ausland",
+    "en": "foreign country",
+    "article": "das",
+    "exampleDE": "Fahren Sie ins Ausland?",
+    "exampleEN": "Are you traveling abroad?"
+  },
+  "e45230ea-1564-e1bb-3311-84aa0ee71b9b": {
+    "id": "e45230ea-1564-e1bb-3311-84aa0ee71b9b",
+    "de": "Ausstellung",
+    "en": "exhibition",
+    "article": "die",
+    "exampleDE": "Gehen wir morgen zusammen in die Ausstellung?",
+    "exampleEN": "Will we go to the exhibition tomorrow?"
+  },
+  "9edb3910-4fba-87eb-0a06-2d5331bdc8eb": {
+    "id": "9edb3910-4fba-87eb-0a06-2d5331bdc8eb",
+    "de": "Ausweis",
+    "en": "ID card",
+    "article": "der",
+    "exampleDE": "Darf ich bitte mal Ihren Ausweis sehen? - Hier ist mein Ausweis.",
+    "exampleEN": "May I please see your identity card? - This is my identification."
+  },
+  "6cff34c9-d3f0-a880-2fd3-3aa0c561398b": {
+    "id": "6cff34c9-d3f0-a880-2fd3-3aa0c561398b",
+    "de": "Aufzug",
+    "en": "elevator",
+    "article": "der",
+    "exampleDE": "In diesem Haus gibt es keinen Aufzug.",
+    "exampleEN": "There is no elevator in this house."
+  },
+  "56bc50d2-909b-6ef0-2bc5-7ceaaa8be1ad": {
+    "id": "56bc50d2-909b-6ef0-2bc5-7ceaaa8be1ad",
+    "de": "Auge",
+    "en": "eye",
+    "article": "das",
+    "exampleDE": "Er hat blaue Augen.",
+    "exampleEN": "He has blue eyes."
+  },
+  "8268645b-6cd3-91f7-33c6-d6cd82027df0": {
+    "id": "8268645b-6cd3-91f7-33c6-d6cd82027df0",
+    "de": "Auto",
+    "en": "automobile",
+    "article": "das",
+    "exampleDE": "Er fährt mit dem Auto.",
+    "exampleEN": "He travels by car."
+  },
+  "f8323cca-048a-842a-84be-a9379e444021": {
+    "id": "f8323cca-048a-842a-84be-a9379e444021",
+    "de": "Autobahn",
+    "en": "Highway",
+    "article": "die",
+    "exampleDE": "Das Dorf liegt direkt an der Autobahn.",
+    "exampleEN": "The village is located directly on the highway."
+  },
+  "4f94f90e-6588-4767-da5f-312275876f09": {
+    "id": "4f94f90e-6588-4767-da5f-312275876f09",
+    "de": "Automat",
+    "en": "machine / automat / vending machine",
+    "article": "der",
+    "exampleDE": "Fahrkarten gibt es nur am Automaten.",
+    "exampleEN": "Tickets are only available at the ticket machine."
+  },
+  "424a2ac2-1327-1691-7537-e11510ce695a": {
+    "id": "424a2ac2-1327-1691-7537-e11510ce695a",
+    "de": "Baby",
+    "en": "baby",
+    "article": "das",
+    "exampleDE": "Wir haben ein Baby. Es ist sechs Wochen alt.",
+    "exampleEN": "We have a baby. It is six weeks old."
+  },
+  "85ee1602-7681-4691-70b1-2190c6844c65": {
+    "id": "85ee1602-7681-4691-70b1-2190c6844c65",
+    "de": "Babysitter",
+    "en": "baby-sitter",
+    "article": "der",
+    "exampleDE": "Meine Tochter arbeitet als Babysitter bei einer Familie mit vier Kindern.",
+    "exampleEN": "My daughter works as a babysitter in a family with four children."
+  },
+  "abe9e093-305a-a643-e8ce-4d72444cb53b": {
+    "id": "abe9e093-305a-a643-e8ce-4d72444cb53b",
+    "de": "Bäckerei",
+    "en": "bakery",
+    "article": "die",
+    "exampleDE": "Ich geh mal schnell zur Bäckerei.",
+    "exampleEN": "I'll go to the bakery soon."
+  },
+  "3091ddac-d0ca-0072-8f81-714fbc228e77": {
+    "id": "3091ddac-d0ca-0072-8f81-714fbc228e77",
+    "de": "Bad",
+    "en": "bath",
+    "article": "das",
+    "exampleDE": "Das Haus ist sehr alt, es hat kein Bad.",
+    "exampleEN": "The house is very old, it has no bathroom."
+  },
+  "674e94be-e0b4-2ff3-8f29-9d3f6a3a5a01": {
+    "id": "674e94be-e0b4-2ff3-8f29-9d3f6a3a5a01",
+    "de": "Bahn",
+    "en": "train",
+    "article": "die",
+    "exampleDE": "Wir fahren lieber mit der Bahn als mit dem Bus.",
+    "exampleEN": "We prefer to go by train than by bus."
+  },
+  "612eb898-7544-2cb8-c877-ff948616161d": {
+    "id": "612eb898-7544-2cb8-c877-ff948616161d",
+    "de": "Bekannte (weiblich)",
+    "en": "female friend / female acquaintance",
+    "article": "die",
+    "exampleDE": "Meine Bekannte heißt Anna.",
+    "exampleEN": "My friend is Anna."
+  },
+  "ba972609-1019-1ff1-db54-ab030dafc337": {
+    "id": "ba972609-1019-1ff1-db54-ab030dafc337",
+    "de": "Bekannte (männlich)",
+    "en": "male friend / male acquaintance",
+    "article": "der",
+    "exampleDE": "Ein Bekannter von mir heißt Klaus.",
+    "exampleEN": "An acquaintance of mine is Klaus."
+  },
+  "759acdbd-aa17-c5c9-f149-53cca5ff2401": {
+    "id": "759acdbd-aa17-c5c9-f149-53cca5ff2401",
+    "de": "Bahnhof",
+    "en": "railway station",
+    "article": "der",
+    "exampleDE": "Entschuldigung, komme ich hier zum Bahnhof?",
+    "exampleEN": "Excuse me, do I come to the train station?"
+  },
+  "f53e3412-f723-9fca-eb51-0bf239a5c00c": {
+    "id": "f53e3412-f723-9fca-eb51-0bf239a5c00c",
+    "de": "Bahnsteig",
+    "en": "platform",
+    "article": "der",
+    "exampleDE": "Auf Hauptbahnhöfen gibt es meist viele Bahnsteige.",
+    "exampleEN": "On main railway stations there are usually many platforms."
+  },
+  "7a851c7c-83a8-72f9-b833-4ad671758ba0": {
+    "id": "7a851c7c-83a8-72f9-b833-4ad671758ba0",
+    "de": "Balkon",
+    "en": "balcony",
+    "article": "der",
+    "exampleDE": "Die Wohnung hat auch einen kleinen Balkon.",
+    "exampleEN": "The apartment also has a small balcony."
+  },
+  "df6906c5-8772-8b97-1891-8bab40c0c279": {
+    "id": "df6906c5-8772-8b97-1891-8bab40c0c279",
+    "de": "Ball",
+    "en": "ball",
+    "article": "der",
+    "exampleDE": "Meine Kinder spielen gern Ball.",
+    "exampleEN": "My children like to play ball."
+  },
+  "2aa38852-821f-68b5-8677-bd20697dbf54": {
+    "id": "2aa38852-821f-68b5-8677-bd20697dbf54",
+    "de": "Banane",
+    "en": "banana",
+    "article": "die",
+    "exampleDE": "Drei Bananen, bitte!",
+    "exampleEN": "Three bananas, please!"
+  },
+  "68f4e3f5-a483-be26-c604-e76ecdff31aa": {
+    "id": "68f4e3f5-a483-be26-c604-e76ecdff31aa",
+    "de": "Band",
+    "en": "(music) band",
+    "article": "die",
+    "exampleDE": "Was ist deine Lieblingsband?",
+    "exampleEN": "What's your favorite Band?"
+  },
+  "76b1e186-601e-71f8-0624-778c0ea23e46": {
+    "id": "76b1e186-601e-71f8-0624-778c0ea23e46",
+    "de": "Bank (Geldinstitut)",
+    "en": "Bank (Money Institution)",
+    "article": "die",
+    "exampleDE": "Bei welcher Bank haben Sie Ihr Konto?",
+    "exampleEN": "Which bank do you have your account with?"
+  },
+  "cf99972d-4ab6-dfeb-de87-5153f41b72a5": {
+    "id": "cf99972d-4ab6-dfeb-de87-5153f41b72a5",
+    "de": "Bank (Sitzgelegenheit)",
+    "en": "Bank (seating)",
+    "article": "die",
+    "exampleDE": "Kommt, wir setzen uns auf diese Bank.",
+    "exampleEN": "Come on, we sit down on this bench."
+  },
+  "52f5036a-53c1-aab9-f480-3d259f17ca46": {
+    "id": "52f5036a-53c1-aab9-f480-3d259f17ca46",
+    "de": "Basketball",
+    "en": "basketball",
+    "article": "der",
+    "exampleDE": "Yannick spielt lieber Basketball als Fußball.",
+    "exampleEN": "Yannick likes to play basketball rather than football."
+  },
+  "ef0cf1d5-c342-6b5c-39b8-9472ecd77b3e": {
+    "id": "ef0cf1d5-c342-6b5c-39b8-9472ecd77b3e",
+    "de": "Berg",
+    "en": "mountain",
+    "article": "der",
+    "exampleDE": "Die Zugspitze ist der höchste Berg in Deutschland.",
+    "exampleEN": "The Zugspitze is the highest mountain in Germany."
+  },
+  "2980587d-7c70-bfb7-974c-1b7ead9e9bee": {
+    "id": "2980587d-7c70-bfb7-974c-1b7ead9e9bee",
+    "de": "Bauch",
+    "en": "belly",
+    "article": "der",
+    "exampleDE": "Seit gestern tut mir der Bauch weh.",
+    "exampleEN": "Since yesterday my stomach hurts."
+  },
+  "16f4c58e-ba0b-9854-326c-9ba0e572671c": {
+    "id": "16f4c58e-ba0b-9854-326c-9ba0e572671c",
+    "de": "Beruf",
+    "en": "job",
+    "article": "der",
+    "exampleDE": "Was bist du von Beruf?",
+    "exampleEN": "What is your profession?"
+  },
+  "a369cf90-694a-7d26-9bf7-3712e4c301a1": {
+    "id": "a369cf90-694a-7d26-9bf7-3712e4c301a1",
+    "de": "Baum",
+    "en": "tree",
+    "article": "der",
+    "exampleDE": "Der Baum ist über hundert Jahre alt.",
+    "exampleEN": "The tree is over a hundred years old."
+  },
+  "00145bae-00dd-cb81-e03a-990c2ac6ea29": {
+    "id": "00145bae-00dd-cb81-e03a-990c2ac6ea29",
+    "de": "Bescheid",
+    "en": "answer / decision / information",
+    "article": "der",
+    "exampleDE": "Kann Lisa in Heidelberg studieren? - Sie weiß es noch nicht. Sie bekommt erst nächste Woche Bescheid.",
+    "exampleEN": "Can Lisa study in Heidelberg? - She does not know yet. She will not know until next week."
+  },
+  "bc0fbb96-ca33-ef68-7877-58cd1c07bafa": {
+    "id": "bc0fbb96-ca33-ef68-7877-58cd1c07bafa",
+    "de": "Baustelle",
+    "en": "Building site / construction site",
+    "article": "die",
+    "exampleDE": "Vor unserem Haus ist eine große Baustelle.",
+    "exampleEN": "In front of our house is a large construction site."
+  },
+  "69c427bf-bf9b-2f1e-af17-25298b5610a5": {
+    "id": "69c427bf-bf9b-2f1e-af17-25298b5610a5",
+    "de": "Bleistift",
+    "en": "pencil",
+    "article": "der",
+    "exampleDE": "Hast du einen Bleistift?",
+    "exampleEN": "Do you have a pencil?"
+  },
+  "ecd4f638-d52d-e630-2da7-9797791eea47": {
+    "id": "ecd4f638-d52d-e630-2da7-9797791eea47",
+    "de": "Blog",
+    "en": "blog",
+    "article": "der",
+    "exampleDE": "Ich schreibe einen Blog über Mode.",
+    "exampleEN": "I am writing a blog about fashion."
+  },
+  "6e456cca-ad19-fc85-e1ef-6ab6b6bf994c": {
+    "id": "6e456cca-ad19-fc85-e1ef-6ab6b6bf994c",
+    "de": "Blume",
+    "en": "flower",
+    "article": "die",
+    "exampleDE": "Gefallen dir die Blumen?",
+    "exampleEN": "Do you like the flowers?"
+  },
+  "3b3714d5-6800-1eaf-a44a-1d33f0927090": {
+    "id": "3b3714d5-6800-1eaf-a44a-1d33f0927090",
+    "de": "Bluse",
+    "en": "blouse",
+    "article": "die",
+    "exampleDE": "Ich suche eine weiße Bluse.",
+    "exampleEN": "I'm looking for a white blouse."
+  },
+  "fa046008-2d70-51fc-1e88-c674d9031a00": {
+    "id": "fa046008-2d70-51fc-1e88-c674d9031a00",
+    "de": "Bohne",
+    "en": "Bean",
+    "article": "die",
+    "exampleDE": "Hans isst nicht gern Bohnen.",
+    "exampleEN": "Hans does not like to eat beans."
+  },
+  "ec7c3807-c9c3-5f7a-8239-fd8ec84c50c8": {
+    "id": "ec7c3807-c9c3-5f7a-8239-fd8ec84c50c8",
+    "de": "Besuch",
+    "en": "visit",
+    "article": "der",
+    "exampleDE": "Wir bekommen am Wochenende Besuch.",
+    "exampleEN": "We get a visit on the weekend."
+  },
+  "dcd1b206-185a-3875-4fe3-07b14011a71f": {
+    "id": "dcd1b206-185a-3875-4fe3-07b14011a71f",
+    "de": "Bett",
+    "en": "bed",
+    "article": "das",
+    "exampleDE": "Sie ist krank und muss heute im Bett bleiben.",
+    "exampleEN": "She is sick and has to stay in bed today."
+  },
+  "9983a23f-b268-e9ce-04b3-561ceb0b5ceb": {
+    "id": "9983a23f-b268-e9ce-04b3-561ceb0b5ceb",
+    "de": "Bewerbung",
+    "en": "application / canditature",
+    "article": "die",
+    "exampleDE": "Kannst du mir bei meiner Bewerbung helfen?",
+    "exampleEN": "Can you help me with my application?"
+  },
+  "de4cd0ac-fed9-f64e-d577-9e2fba0370b0": {
+    "id": "de4cd0ac-fed9-f64e-d577-9e2fba0370b0",
+    "de": "Brief",
+    "en": "letter",
+    "article": "der",
+    "exampleDE": "Haben Sie einen Brief für mich?",
+    "exampleEN": "Do you have a letter for me?"
+  },
+  "96535835-48a5-a128-81da-ec6e4504f769": {
+    "id": "96535835-48a5-a128-81da-ec6e4504f769",
+    "de": "Briefmarke",
+    "en": "Stamp",
+    "article": "die",
+    "exampleDE": "Bitte die Briefmarke nicht vergessen!",
+    "exampleEN": "Please do not forget the stamp!"
+  },
+  "31482f8d-f447-67fb-a2e6-d1b24f2a6135": {
+    "id": "31482f8d-f447-67fb-a2e6-d1b24f2a6135",
+    "de": "Brille",
+    "en": "glasses",
+    "article": "die",
+    "exampleDE": "Wo ist meine Brille?",
+    "exampleEN": "Where are my glasses?"
+  },
+  "37b926e0-7f06-0a70-d70e-0f5d7ccdd234": {
+    "id": "37b926e0-7f06-0a70-d70e-0f5d7ccdd234",
+    "de": "Bibliothek",
+    "en": "library",
+    "article": "die",
+    "exampleDE": "Sie lernt jeden Tag in der Bibliothek.",
+    "exampleEN": "She learns in the library every day."
+  },
+  "06bf0fcf-f234-85ee-24ae-24fdf3d2853b": {
+    "id": "06bf0fcf-f234-85ee-24ae-24fdf3d2853b",
+    "de": "Brot",
+    "en": "bread",
+    "article": "das",
+    "exampleDE": "Nimm doch noch ein Brot für das Abendessen.",
+    "exampleEN": "Take another bread for dinner."
+  },
+  "8c499c2c-e3ed-de3f-83e3-faa63fc9a169": {
+    "id": "8c499c2c-e3ed-de3f-83e3-faa63fc9a169",
+    "de": "Bier",
+    "en": "beer",
+    "article": "das",
+    "exampleDE": "Noch ein Bier, bitte.",
+    "exampleEN": "Another beer please."
+  },
+  "00b430e4-26a9-64bf-4ab0-6dfb0e1ab64a": {
+    "id": "00b430e4-26a9-64bf-4ab0-6dfb0e1ab64a",
+    "de": "Bild",
+    "en": "image",
+    "article": "das",
+    "exampleDE": "Hast du ein Bild von deinem Sohn?",
+    "exampleEN": "Do you have a picture of your son?"
+  },
+  "2bbede68-3da4-7409-4a33-fadaf37e2c49": {
+    "id": "2bbede68-3da4-7409-4a33-fadaf37e2c49",
+    "de": "Brötchen",
+    "en": "bun / small bread",
+    "article": "das",
+    "exampleDE": "Möchtest du Brot oder Brötchen zum Frühstück?",
+    "exampleEN": "Would you like bread or bread for breakfast?"
+  },
+  "219a777b-e4ad-afee-c436-209dce5a152b": {
+    "id": "219a777b-e4ad-afee-c436-209dce5a152b",
+    "de": "Brücke",
+    "en": "bridge",
+    "article": "die",
+    "exampleDE": "Fahren Sie über die nächste Brücke und dann nach links.",
+    "exampleEN": "Drive over the next bridge and then left."
+  },
+  "cc886c35-75b8-494c-47c9-aa0ec3a79ead": {
+    "id": "cc886c35-75b8-494c-47c9-aa0ec3a79ead",
+    "de": "Birne",
+    "en": "pear",
+    "article": "die",
+    "exampleDE": "Ein Kilo Birnen, bitte!",
+    "exampleEN": "A kilo of pears, please!"
+  },
+  "bba32d30-8085-ecbd-1888-8d39c185bebe": {
+    "id": "bba32d30-8085-ecbd-1888-8d39c185bebe",
+    "de": "Buch",
+    "en": "book",
+    "article": "das",
+    "exampleDE": "Was kostet das Buch, bitte?",
+    "exampleEN": "What does the book cost, please?"
+  },
+  "b60cbc99-21a3-3ba3-8e3f-fa28620d3db9": {
+    "id": "b60cbc99-21a3-3ba3-8e3f-fa28620d3db9",
+    "de": "Buchstabe",
+    "en": "letter / character",
+    "article": "der",
+    "exampleDE": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
+    "exampleEN": "This letter does not exist in my language."
+  },
+  "9d5feee8-ece3-9469-2514-d076d9afccac": {
+    "id": "9d5feee8-ece3-9469-2514-d076d9afccac",
+    "de": "Bitte",
+    "en": "Request / Appeal / You're welcome",
+    "article": "die",
+    "exampleDE": "Ich habe noch eine Bitte.",
+    "exampleEN": "I have another request."
+  },
+  "71a58970-a56e-9488-2d4c-7e0481715e2c": {
+    "id": "71a58970-a56e-9488-2d4c-7e0481715e2c",
+    "de": "Büro",
+    "en": "office",
+    "article": "das",
+    "exampleDE": "Ich arbeite in einem Büro.",
+    "exampleEN": "I work in an office."
+  },
+  "9964c14f-b373-caf8-1886-641cb03e3941": {
+    "id": "9964c14f-b373-caf8-1886-641cb03e3941",
+    "de": "Blatt",
+    "en": "sheet",
+    "article": "das",
+    "exampleDE": "Haben Sie ein Blatt Papier für mich?",
+    "exampleEN": "Do you have a piece of paper for me?"
+  },
+  "f22724aa-1f5d-bdeb-d62d-13b090027fc0": {
+    "id": "f22724aa-1f5d-bdeb-d62d-13b090027fc0",
+    "de": "Bus",
+    "en": "bus",
+    "article": "der",
+    "exampleDE": "Wann kommt der nächste Bus?",
+    "exampleEN": "When comes the next bus?"
+  },
+  "989404a2-120e-3863-867b-27af3dbe5488": {
+    "id": "989404a2-120e-3863-867b-27af3dbe5488",
+    "de": "Butter",
+    "en": "butter",
+    "article": "die",
+    "exampleDE": "Möchtest du Butter aufs Brot oder nur Käse?",
+    "exampleEN": "Do you want butter on bread or just cheese?"
+  },
+  "09c5d19f-0713-6d7c-ca41-7602814d21d0": {
+    "id": "09c5d19f-0713-6d7c-ca41-7602814d21d0",
+    "de": "Café",
+    "en": "Coffee shop",
+    "article": "das",
+    "exampleDE": "Kommst du mit ins Café? Ich möchte gern einen Kaffee trinken.",
+    "exampleEN": "Are you coming to the cafe? I'd like to have a coffee."
+  },
+  "6cf6c155-4cbb-bb68-1698-c3e77392c35d": {
+    "id": "6cf6c155-4cbb-bb68-1698-c3e77392c35d",
+    "de": "Cafeteria",
+    "en": "cafeteria",
+    "article": "die",
+    "exampleDE": "Ich gehe jetzt in die Cafeteria. Soll ich dir etwas mitbringen?",
+    "exampleEN": "I'm going to the cafeteria now. Should I bring you something?"
+  },
+  "f70bdd55-681f-2477-c4e5-b0988185ad7a": {
+    "id": "f70bdd55-681f-2477-c4e5-b0988185ad7a",
+    "de": "Datum",
+    "en": "date",
+    "article": "das",
+    "exampleDE": "Bitte Datum und Unterschrift nicht vergessen!",
+    "exampleEN": "Please do not forget the date and signature!"
+  },
+  "2f55a578-445a-90cf-c559-e9ee0c691998": {
+    "id": "2f55a578-445a-90cf-c559-e9ee0c691998",
+    "de": "Chef",
+    "en": "male boss",
+    "article": "der",
+    "exampleDE": "Wir haben einen neuen Chef.",
+    "exampleEN": "We have a new boss."
+  },
+  "59142fd3-d93c-d4be-c334-4a87c36fe051": {
+    "id": "59142fd3-d93c-d4be-c334-4a87c36fe051",
+    "de": "Chefin",
+    "en": "female boss",
+    "article": "die",
+    "exampleDE": "Wir haben eine neue Chefin.",
+    "exampleEN": "We have a new boss."
+  },
+  "0a03653a-f8ed-a0b3-6ff6-1aba22f84c89": {
+    "id": "0a03653a-f8ed-a0b3-6ff6-1aba22f84c89",
+    "de": "Club",
+    "en": "club",
+    "article": "der",
+    "exampleDE": "Gibt es hier einen Tennis-Club?",
+    "exampleEN": "Is there a tennis club?"
+  },
+  "199b143e-fe42-c1d6-140c-d709fe50e86a": {
+    "id": "199b143e-fe42-c1d6-140c-d709fe50e86a",
+    "de": "Comic",
+    "en": "comic",
+    "article": "das",
+    "exampleDE": "Mein Sohn liest immer nur Comics.",
+    "exampleEN": "My son always reads comics."
+  },
+  "2b4d2e75-7504-40f1-0e30-170d78eed9ef": {
+    "id": "2b4d2e75-7504-40f1-0e30-170d78eed9ef",
+    "de": "Computer",
+    "en": "computer",
+    "article": "der",
+    "exampleDE": "Wann bekommst du deinen neuen Computer?",
+    "exampleEN": "When will you get your new computer?"
+  },
+  "f60d0e4c-5acc-227b-fe60-ae84a80dbf26": {
+    "id": "f60d0e4c-5acc-227b-fe60-ae84a80dbf26",
+    "de": "Creme",
+    "en": "cream",
+    "article": "die",
+    "exampleDE": "Ich suche eine Creme für die Hände.",
+    "exampleEN": "I'm looking for a cream for the hands."
+  },
+  "61b037d1-9193-3c90-a59b-bd2d50b2ab04": {
+    "id": "61b037d1-9193-3c90-a59b-bd2d50b2ab04",
+    "de": "Ding",
+    "en": "thing",
+    "article": "das",
+    "exampleDE": "Gib mir bitte mal das Ding da drüben!",
+    "exampleEN": "Please give me the thing over there!"
+  },
+  "27e85c93-1e89-c45f-ecd2-2e5206ecf778": {
+    "id": "27e85c93-1e89-c45f-ecd2-2e5206ecf778",
+    "de": "Disco",
+    "en": "Disco",
+    "article": "die",
+    "exampleDE": "Wir gehen heute Abend in die Disco.",
+    "exampleEN": "We go to the disco tonight."
+  },
+  "9e4acde9-4395-c3ba-b34a-e07d23cde54e": {
+    "id": "9e4acde9-4395-c3ba-b34a-e07d23cde54e",
+    "de": "Doppelzimmer",
+    "en": "double room",
+    "article": "das",
+    "exampleDE": "Möchten Sie ein Doppelzimmer oder ein Einzelzimmer?",
+    "exampleEN": "Would you like a double or a single room?"
+  },
+  "5f6ed115-16db-3542-f4d0-5bd8f380d996": {
+    "id": "5f6ed115-16db-3542-f4d0-5bd8f380d996",
+    "de": "Dame",
+    "en": "lady",
+    "article": "die",
+    "exampleDE": "Damen (an der Toilette)",
+    "exampleEN": "Women (at the toilet)"
+  },
+  "c3f758fd-c470-99ec-65cc-3b640082d13f": {
+    "id": "c3f758fd-c470-99ec-65cc-3b640082d13f",
+    "de": "Dank",
+    "en": "thanks",
+    "article": "der",
+    "exampleDE": "Vielen Dank!",
+    "exampleEN": "Many Thanks!"
+  },
+  "243ce52f-ff6e-e674-8ab4-5f5b9f27113f": {
+    "id": "243ce52f-ff6e-e674-8ab4-5f5b9f27113f",
+    "de": "Dorf",
+    "en": "village",
+    "article": "das",
+    "exampleDE": "Unser Dorf liegt direkt an der Autobahn.",
+    "exampleEN": "Our village is located directly on the highway."
+  },
+  "fd74da7f-53c3-b027-ef37-8e941de47e70": {
+    "id": "fd74da7f-53c3-b027-ef37-8e941de47e70",
+    "de": "Datei",
+    "en": "file",
+    "article": "die",
+    "exampleDE": "Wo hast du die Datei gespeichert?",
+    "exampleEN": "Where did you save the file?"
+  },
+  "3d47a0b9-fc50-9acf-60e2-516d444c2d93": {
+    "id": "3d47a0b9-fc50-9acf-60e2-516d444c2d93",
+    "de": "Einkaufszentrum",
+    "en": "shopping mall",
+    "article": "das",
+    "exampleDE": "Kommst du morgen mit ins Einkaufszentrum?",
+    "exampleEN": "Are you coming to the shopping center tomorrow?"
+  },
+  "2a712ccf-50b7-8bb8-c1fa-deff90ef0bab": {
+    "id": "2a712ccf-50b7-8bb8-c1fa-deff90ef0bab",
+    "de": "Drucker",
+    "en": "printer",
+    "article": "der",
+    "exampleDE": "Mein Drucker ist kaputt.",
+    "exampleEN": "My printer is broken."
+  },
+  "fd90f170-05d7-ed34-567d-8f21d93b1781": {
+    "id": "fd90f170-05d7-ed34-567d-8f21d93b1781",
+    "de": "Einladung",
+    "en": "invitation",
+    "article": "die",
+    "exampleDE": "Danke für die Einladung zu deinem Geburtstag!",
+    "exampleEN": "Thank you for the invitation to your birthday!"
+  },
+  "c78e64b8-8dd9-8f40-ea9d-78f738e426c1": {
+    "id": "c78e64b8-8dd9-8f40-ea9d-78f738e426c1",
+    "de": "Durst",
+    "en": "thirst",
+    "article": "der",
+    "exampleDE": "Hast du etwas zu trinken? Ich habe großen Durst.",
+    "exampleEN": "Do you have something to drink? I am very thirsty."
+  },
+  "fb6bd52f-edf7-9dac-cca6-972d6c9249a5": {
+    "id": "fb6bd52f-edf7-9dac-cca6-972d6c9249a5",
+    "de": "Dusche",
+    "en": "shower",
+    "article": "die",
+    "exampleDE": "Unsere Wohnung hat nur eine Dusche.",
+    "exampleEN": "Our apartment has only one shower."
+  },
+  "1b07344d-8139-84ed-3ea4-e079f2f0d4fa": {
+    "id": "1b07344d-8139-84ed-3ea4-e079f2f0d4fa",
+    "de": "Eintritt",
+    "en": "entry",
+    "article": "der",
+    "exampleDE": "Der Eintritt kostet fünf Euro.",
+    "exampleEN": "Admission costs € 5."
+  },
+  "142d81d9-6826-7ff4-8f11-e49279c1421c": {
+    "id": "142d81d9-6826-7ff4-8f11-e49279c1421c",
+    "de": "E-Book",
+    "en": "E-Book",
+    "article": "das",
+    "exampleDE": "Liest du lieber E-Books oder Bücher aus Papier?",
+    "exampleEN": "Do you prefer reading e-books or paper books?"
+  },
+  "bf193469-1bff-c5dc-51ac-f0cfe63a5424": {
+    "id": "bf193469-1bff-c5dc-51ac-f0cfe63a5424",
+    "de": "Einzelkind",
+    "en": "the only child",
+    "article": "das",
+    "exampleDE": "Florian ist ein Einzelkind. Er hat keine Geschwister.",
+    "exampleEN": "Florian is a single child. He has no siblings."
+  },
+  "01b2a59d-a553-7866-8ff8-eb1aefc2b255": {
+    "id": "01b2a59d-a553-7866-8ff8-eb1aefc2b255",
+    "de": "Einzelzimmer",
+    "en": "single room",
+    "article": "das",
+    "exampleDE": "Ein Einzelzimmer ist noch frei.",
+    "exampleEN": "A single room is still free."
+  },
+  "2b512001-f2f9-25df-39d6-c69b03e8afd2": {
+    "id": "2b512001-f2f9-25df-39d6-c69b03e8afd2",
+    "de": "Ecke",
+    "en": "corner",
+    "article": "die",
+    "exampleDE": "Gehen Sie an der nächsten Ecke links, dann kommen Sie zur Apotheke.",
+    "exampleEN": "Go left at the next corner, then go to the pharmacy."
+  },
+  "63fb93cc-ca3f-2944-2079-1bdbf194578f": {
+    "id": "63fb93cc-ca3f-2944-2079-1bdbf194578f",
+    "de": "Eis",
+    "en": "ice cream",
+    "article": "das",
+    "exampleDE": "Möchtest du auch ein Eis?",
+    "exampleEN": "Would you like an ice cream?"
+  },
+  "6019bd4b-b821-f64c-6257-8bd081dff9a3": {
+    "id": "6019bd4b-b821-f64c-6257-8bd081dff9a3",
+    "de": "E-Mail",
+    "en": "e-mail",
+    "article": "die",
+    "exampleDE": "Ich schreibe dir eine E-Mail.",
+    "exampleEN": "I'll write you an e-mail."
+  },
+  "707f6f01-abcc-39cf-b347-21f2b701c953": {
+    "id": "707f6f01-abcc-39cf-b347-21f2b701c953",
+    "de": "Ehefrau",
+    "en": "wife",
+    "article": "die",
+    "exampleDE": "Das ist mein Ehemann.",
+    "exampleEN": "This is my husband."
+  },
+  "7d2a1b0e-5c11-2763-fbd8-12559005ab7a": {
+    "id": "7d2a1b0e-5c11-2763-fbd8-12559005ab7a",
+    "de": "Ehepartner",
+    "en": "spouse",
+    "article": "der",
+    "exampleDE": "Das ist mein Ehepartner.",
+    "exampleEN": "This is my spouse."
+  },
+  "e4d99361-8d4a-9986-5dc0-f98d4a44ce58": {
+    "id": "e4d99361-8d4a-9986-5dc0-f98d4a44ce58",
+    "de": "Ehemann",
+    "en": "husband",
+    "article": "der",
+    "exampleDE": "Das ist meine Ehefrau.",
+    "exampleEN": "This is my wife."
+  },
+  "5c383ba8-0741-c946-0e7f-77c0551aae5d": {
+    "id": "5c383ba8-0741-c946-0e7f-77c0551aae5d",
+    "de": "Ei",
+    "en": "egg",
+    "article": "das",
+    "exampleDE": "Möchtest du ein Ei zum Frühstück?",
+    "exampleEN": "Would you like an egg for breakfast?"
+  },
+  "0b9e296c-fc3c-84b1-5cff-2bb5b7738a13": {
+    "id": "0b9e296c-fc3c-84b1-5cff-2bb5b7738a13",
+    "de": "Empfänger",
+    "en": "receiver",
+    "article": "der",
+    "exampleDE": "Auf dem Brief steht dein Name, also bist du der Empfänger.",
+    "exampleEN": "On the letter is your name, so you are the recipient."
+  },
+  "a2040dcc-95ad-7630-6d27-44b5b811ce1a": {
+    "id": "a2040dcc-95ad-7630-6d27-44b5b811ce1a",
+    "de": "Ende",
+    "en": "the End",
+    "article": "das",
+    "exampleDE": "Sie wohnt am Ende der Straße.",
+    "exampleEN": "She lives at the end of the street."
+  },
+  "28ce841d-d5a8-3662-b4c0-0bdfbae032dc": {
+    "id": "28ce841d-d5a8-3662-b4c0-0bdfbae032dc",
+    "de": "Eingang",
+    "en": "entrance",
+    "article": "der",
+    "exampleDE": "Der Eingang ist um die Ecke.",
+    "exampleEN": "The entrance is around the corner."
+  },
+  "ef4f385a-c7bf-10cf-ce6d-893c331a5d04": {
+    "id": "ef4f385a-c7bf-10cf-ce6d-893c331a5d04",
+    "de": "Entschuldigung",
+    "en": "excuse / apology",
+    "article": "die",
+    "exampleDE": "Oh, Entschuldigung! - Macht nichts. Kein Problem.",
+    "exampleEN": "Oh sorry! - Do not worry. No problem."
+  },
+  "8227e760-5c48-c1e5-1004-632529bd029d": {
+    "id": "8227e760-5c48-c1e5-1004-632529bd029d",
+    "de": "Erdgeschoss",
+    "en": "ground floor",
+    "article": "das",
+    "exampleDE": "Ich wohne im Erdgeschoss.",
+    "exampleEN": "I live on the ground floor."
+  },
+  "a0a3dbd9-d404-407e-f73c-13ac366abfdc": {
+    "id": "a0a3dbd9-d404-407e-f73c-13ac366abfdc",
+    "de": "Erfahrung",
+    "en": "experience",
+    "article": "die",
+    "exampleDE": "Ich habe zehn Jahre Erfahrung in diesem Beruf.",
+    "exampleEN": "I have ten years of experience in this profession."
+  },
+  "8c397133-491d-ce14-5315-6ef9c8214e34": {
+    "id": "8c397133-491d-ce14-5315-6ef9c8214e34",
+    "de": "Familie",
+    "en": "family",
+    "article": "die",
+    "exampleDE": "Meine Familie lebt in Spanien.",
+    "exampleEN": "My family lives in Spain."
+  },
+  "a74376d7-dad1-48a0-a09d-a6367aa99887": {
+    "id": "a74376d7-dad1-48a0-a09d-a6367aa99887",
+    "de": "Familienname",
+    "en": "family name",
+    "article": "der",
+    "exampleDE": "Mein Familienname ist González.",
+    "exampleEN": "My family name is González."
+  },
+  "d3451a22-6d25-06ff-03fc-42d07caacf5d": {
+    "id": "d3451a22-6d25-06ff-03fc-42d07caacf5d",
+    "de": "Fan",
+    "en": "fan",
+    "article": "der",
+    "exampleDE": "Er ist ein großer Fußballfan.",
+    "exampleEN": "He is a big football fan."
+  },
+  "a3efcb2d-f78b-30e2-f33e-b9d5b3afe188": {
+    "id": "a3efcb2d-f78b-30e2-f33e-b9d5b3afe188",
+    "de": "Farbe",
+    "en": "Colour",
+    "article": "die",
+    "exampleDE": "Die Farbe gefällt mir gut.",
+    "exampleEN": "I like the color."
+  },
+  "e44b66a3-5e00-bb04-5c1a-6c0a5b313ea0": {
+    "id": "e44b66a3-5e00-bb04-5c1a-6c0a5b313ea0",
+    "de": "Erlaubnis",
+    "en": "permission",
+    "article": "die",
+    "exampleDE": "Haben Sie eine Arbeitserlaubnis?",
+    "exampleEN": "Do you have a work permit?"
+  },
+  "f3412142-5cc2-9ae0-21f4-511c5c75759a": {
+    "id": "f3412142-5cc2-9ae0-21f4-511c5c75759a",
+    "de": "Ermäßigung",
+    "en": "discount",
+    "article": "die",
+    "exampleDE": "Für Schüler, Studenten und Rentner gibt es eine Ermäßigung.",
+    "exampleEN": "There is a discount for pupils, students and pensioners."
+  },
+  "72f33153-54e2-9aad-c66f-a72f6a4401d5": {
+    "id": "72f33153-54e2-9aad-c66f-a72f6a4401d5",
+    "de": "Fehler",
+    "en": "error",
+    "article": "der",
+    "exampleDE": "Diesen Fehler mache ich immer wieder.",
+    "exampleEN": "I make this mistake again and again."
+  },
+  "3f335049-5760-cc0f-257c-5104979c07e9": {
+    "id": "3f335049-5760-cc0f-257c-5104979c07e9",
+    "de": "Feier",
+    "en": "celebration",
+    "article": "die",
+    "exampleDE": "Die Feier war sehr schön.",
+    "exampleEN": "The celebration was very nice."
+  },
+  "463a3de6-a546-4d92-82c8-db2fe277a21e": {
+    "id": "463a3de6-a546-4d92-82c8-db2fe277a21e",
+    "de": "Feierabend",
+    "en": "end of working day",
+    "article": "der",
+    "exampleDE": "Wann hast du Feierabend?",
+    "exampleEN": "When do you have a party"
+  },
+  "32fac9af-4c8f-0b34-2502-73938a92cdc7": {
+    "id": "32fac9af-4c8f-0b34-2502-73938a92cdc7",
+    "de": "Feiertag",
+    "en": "holiday",
+    "article": "der",
+    "exampleDE": "Am ersten Mai ist ein Feiertag.",
+    "exampleEN": "On the first of May is a holiday."
+  },
+  "c338d7fa-0dee-6a41-04f1-ebd077894eb1": {
+    "id": "c338d7fa-0dee-6a41-04f1-ebd077894eb1",
+    "de": "Erwachsene",
+    "en": "adult",
+    "article": "der",
+    "exampleDE": "Erwachsene zahlen zehn Euro, für Kinder ist der Eintritt frei.",
+    "exampleEN": "Adults pay ten euros, for children admission is free."
+  },
+  "bdc3e26b-b7a2-f0b3-f942-4aaa9bf7935c": {
+    "id": "bdc3e26b-b7a2-f0b3-f942-4aaa9bf7935c",
+    "de": "Fenster",
+    "en": "window",
+    "article": "das",
+    "exampleDE": "Kannst du bitte das Fenster öffnen?",
+    "exampleEN": "Can you please open the window?"
+  },
+  "95cb5c1d-bfc8-505d-3f9a-a92b20b846a6": {
+    "id": "95cb5c1d-bfc8-505d-3f9a-a92b20b846a6",
+    "de": "Ferien",
+    "en": "vacation",
+    "article": "die",
+    "exampleDE": "Bald haben wir Ferien.",
+    "exampleEN": "Soon we will have holidays."
+  },
+  "f0bbef93-2a19-ed61-0203-e5a64e87ab0d": {
+    "id": "f0bbef93-2a19-ed61-0203-e5a64e87ab0d",
+    "de": "Essen",
+    "en": "food / meal",
+    "article": "das",
+    "exampleDE": "Das Essen in der Cafeteria ist meistens ganz gut.",
+    "exampleEN": "The food in the cafeteria is mostly quite good."
+  },
+  "5dfb331d-2acb-cb17-61f9-dd220e8db035": {
+    "id": "5dfb331d-2acb-cb17-61f9-dd220e8db035",
+    "de": "Fernseher",
+    "en": "TV",
+    "article": "der",
+    "exampleDE": "Der Fernseher ist kaputt.",
+    "exampleEN": "The tv is broken."
+  },
+  "0d5b8624-83d7-dcd3-a37f-2f4d05aaf51c": {
+    "id": "0d5b8624-83d7-dcd3-a37f-2f4d05aaf51c",
+    "de": "Fest",
+    "en": "celebration / feast / party",
+    "article": "das",
+    "exampleDE": "Am Wochenende feiern wir ein Fest. Meine Tochter hat Geburtstag.",
+    "exampleEN": "On the weekend we celebrate a party. My daughter's birthday."
+  },
+  "8ce7c22f-a97d-efcf-e8fc-a520cb84f0f1": {
+    "id": "8ce7c22f-a97d-efcf-e8fc-a520cb84f0f1",
+    "de": "Fach",
+    "en": "subject",
+    "article": "das",
+    "exampleDE": "Welches Fach magst du in der Schule am liebsten?",
+    "exampleEN": "What is your favorite subject in school?"
+  },
+  "2e76e66e-60ea-a118-bee6-f34d7c7496a2": {
+    "id": "2e76e66e-60ea-a118-bee6-f34d7c7496a2",
+    "de": "Abfahrt",
+    "en": "Departure",
+    "article": "die",
+    "exampleDE": "Wir haben noch zwanzig Minuten bis zur Abfahrt.",
+    "exampleEN": "We still have twenty minutes to go."
+  },
+  "3285bf18-c056-ed1b-7cc3-45eef9474fc4": {
+    "id": "3285bf18-c056-ed1b-7cc3-45eef9474fc4",
+    "de": "Fahrkarte",
+    "en": "ticket",
+    "article": "die",
+    "exampleDE": "Hast du schon eine Fahrkarte?",
+    "exampleEN": "Do you already have a ticket?"
+  },
+  "4c271edf-93a8-0803-3e62-03aca4881c86": {
+    "id": "4c271edf-93a8-0803-3e62-03aca4881c86",
+    "de": "Festival",
+    "en": "festival",
+    "article": "das",
+    "exampleDE": "Am Wochenende ist in der Stadt ein Musik-Festival.",
+    "exampleEN": "At the weekend is a music festival in the city."
+  },
+  "6ae42edb-0151-60e2-c822-79c890e4b403": {
+    "id": "6ae42edb-0151-60e2-c822-79c890e4b403",
+    "de": "Fieber",
+    "en": "fever",
+    "article": "das",
+    "exampleDE": "Sie hat hohes Fieber.",
+    "exampleEN": "She has high fever."
+  },
+  "d46d2d1b-e5ab-bf63-2af3-b1b062821dc9": {
+    "id": "d46d2d1b-e5ab-bf63-2af3-b1b062821dc9",
+    "de": "Film",
+    "en": "movie",
+    "article": "der",
+    "exampleDE": "Ich möchte gern diesen Film sehen.",
+    "exampleEN": "I'd like to see this movie."
+  },
+  "030f8d23-e188-4502-b304-d8234fc0b741": {
+    "id": "030f8d23-e188-4502-b304-d8234fc0b741",
+    "de": "Fahrplan",
+    "en": "timetable",
+    "article": "der",
+    "exampleDE": "Ist das der neue Fahrplan?",
+    "exampleEN": "Is this the new roadmap?"
+  },
+  "6b5cb970-64e1-e6fd-dd35-83b3237aa3e2": {
+    "id": "6b5cb970-64e1-e6fd-dd35-83b3237aa3e2",
+    "de": "Firma",
+    "en": "company",
+    "article": "die",
+    "exampleDE": "Er arbeitet jetzt bei einer anderen Firma.",
+    "exampleEN": "He is now working for another company."
+  },
+  "78020e98-8581-e9a9-e1dc-e642ac526a92": {
+    "id": "78020e98-8581-e9a9-e1dc-e642ac526a92",
+    "de": "Fahrrad",
+    "en": "bicycle",
+    "article": "das",
+    "exampleDE": "Wenn es nicht regnet, fahre ich mit dem Fahrrad.",
+    "exampleEN": "If it is not raining, I will go by bicycle."
+  },
+  "f7d2efda-bd09-3e22-9d1a-fa65f37b86f9": {
+    "id": "f7d2efda-bd09-3e22-9d1a-fa65f37b86f9",
+    "de": "Fisch",
+    "en": "fish",
+    "article": "der",
+    "exampleDE": "Fisch mag ich lieber als Fleisch.",
+    "exampleEN": "I like fish rather than meat."
+  },
+  "0bad9c83-6b79-ff1c-1414-87952db8feaa": {
+    "id": "0bad9c83-6b79-ff1c-1414-87952db8feaa",
+    "de": "Flasche",
+    "en": "bottle",
+    "article": "die",
+    "exampleDE": "Eine Flasche Mineralwasser, bitte!",
+    "exampleEN": "A bottle of mineral water, please!"
+  },
+  "7a560b9f-844e-6a05-b32d-88f3f49e726b": {
+    "id": "7a560b9f-844e-6a05-b32d-88f3f49e726b",
+    "de": "Fleisch",
+    "en": "meat",
+    "article": "das",
+    "exampleDE": "Fleisch mag ich nicht.",
+    "exampleEN": "I do not like meat."
+  },
+  "bc175cf0-832e-355d-36c7-069ad4e3a736": {
+    "id": "bc175cf0-832e-355d-36c7-069ad4e3a736",
+    "de": "Frühstück",
+    "en": "breakfast",
+    "article": "das",
+    "exampleDE": "Möchtest du ein Ei zum Frühstück?",
+    "exampleEN": "Would you like an egg for breakfast?"
+  },
+  "724a5178-6c7a-cd2a-e4fa-1472f92cc826": {
+    "id": "724a5178-6c7a-cd2a-e4fa-1472f92cc826",
+    "de": "Flohmarkt",
+    "en": "flea market",
+    "article": "der",
+    "exampleDE": "Ich gehe gern auf den Flohmarkt.",
+    "exampleEN": "I like to go to the flea market."
+  },
+  "b6590b84-3b4e-b885-7e0a-97693abb046b": {
+    "id": "b6590b84-3b4e-b885-7e0a-97693abb046b",
+    "de": "Führerschein",
+    "en": "driver's license",
+    "article": "der",
+    "exampleDE": "Hast du den Führerschein?",
+    "exampleEN": "Do you have a driving license?"
+  },
+  "df0a28a3-1bf3-fc68-df58-810ca4419724": {
+    "id": "df0a28a3-1bf3-fc68-df58-810ca4419724",
+    "de": "Flug",
+    "en": "flight",
+    "article": "der",
+    "exampleDE": "Ich möchte einen Flug nach Kanada buchen.",
+    "exampleEN": "I would like to book a flight to Canada."
+  },
+  "91a349d9-ed80-cfb6-4f26-d0e17788bbcd": {
+    "id": "91a349d9-ed80-cfb6-4f26-d0e17788bbcd",
+    "de": "Führung",
+    "en": "guidance / leadership / conducted tour",
+    "article": "die",
+    "exampleDE": "Die nächste Führung beginnt um 15 Uhr.",
+    "exampleEN": "The next guided tour starts at 3 pm."
+  },
+  "2ef14c02-1107-4273-db77-cb7d53cd0a02": {
+    "id": "2ef14c02-1107-4273-db77-cb7d53cd0a02",
+    "de": "Fundsachen",
+    "en": "Lost property",
+    "article": "die",
+    "exampleDE": "Haben Sie meinen Schirm gefunden? - Sie können dort bei den Fundsachen schauen.",
+    "exampleEN": "Did you find my screen? - You can look at the objects there."
+  },
+  "006f5084-6a29-9fd6-267f-8b79b1af6630": {
+    "id": "006f5084-6a29-9fd6-267f-8b79b1af6630",
+    "de": "Flughafen",
+    "en": "airport",
+    "article": "der",
+    "exampleDE": "Kannst du mich zum Flughafen bringen?",
+    "exampleEN": "Can you take me to the airport?"
+  },
+  "dfbaa29b-00d1-061d-cbda-1b2e19596151": {
+    "id": "dfbaa29b-00d1-061d-cbda-1b2e19596151",
+    "de": "Flugzeug",
+    "en": "plane",
+    "article": "das",
+    "exampleDE": "Das Flugzeug aus Berlin hat Verspätung.",
+    "exampleEN": "The plane from Berlin is late."
+  },
+  "9122dd63-150f-4750-8f3c-9a113dd5b8c9": {
+    "id": "9122dd63-150f-4750-8f3c-9a113dd5b8c9",
+    "de": "Fluss",
+    "en": "river",
+    "article": "der",
+    "exampleDE": "Der Rhein ist ein großer Fluss.",
+    "exampleEN": "The Rhine is a great river."
+  },
+  "b3528705-a45f-588c-0cd0-6ee900f8d3c7": {
+    "id": "b3528705-a45f-588c-0cd0-6ee900f8d3c7",
+    "de": "Formular",
+    "en": "form",
+    "article": "das",
+    "exampleDE": "Sie müssen dieses Formular ausfüllen.",
+    "exampleEN": "You must complete this form."
+  },
+  "a139db92-48bd-59c0-a67a-0ce4400273ad": {
+    "id": "a139db92-48bd-59c0-a67a-0ce4400273ad",
+    "de": "Fotoapparat",
+    "en": "camera",
+    "article": "der",
+    "exampleDE": "Ich möchte mir einen Fotoapparat kaufen.",
+    "exampleEN": "I want to buy a camera."
+  },
+  "2a9e1ad6-933f-9b9b-4069-2a02c5aa2937": {
+    "id": "2a9e1ad6-933f-9b9b-4069-2a02c5aa2937",
+    "de": "Fuß",
+    "en": "foot",
+    "article": "der",
+    "exampleDE": "Der linke Fuß tut mir weh.",
+    "exampleEN": "The left foot hurts."
+  },
+  "baff7460-2880-de9f-c859-75d96c61d06d": {
+    "id": "baff7460-2880-de9f-c859-75d96c61d06d",
+    "de": "Fußball",
+    "en": "soccer",
+    "article": "der",
+    "exampleDE": "Spielt ihr gern Fußball?",
+    "exampleEN": "Do you like football?"
+  },
+  "37d15492-2d1b-bcb0-2f41-a468a2c31f02": {
+    "id": "37d15492-2d1b-bcb0-2f41-a468a2c31f02",
+    "de": "Foto",
+    "en": "photo",
+    "article": "das",
+    "exampleDE": "Darf ich ein Foto machen?",
+    "exampleEN": "May I take a photo?"
+  },
+  "30c0e9f2-20a6-6e54-63a3-42ff8da56f21": {
+    "id": "30c0e9f2-20a6-6e54-63a3-42ff8da56f21",
+    "de": "Frage",
+    "en": "question",
+    "article": "die",
+    "exampleDE": "Ich habe eine Frage.",
+    "exampleEN": "I have a question."
+  },
+  "976f2227-5c0e-7315-3cda-adba831658fd": {
+    "id": "976f2227-5c0e-7315-3cda-adba831658fd",
+    "de": "Frau",
+    "en": "Mrs",
+    "article": "die",
+    "exampleDE": "Das ist Frau Becker.",
+    "exampleEN": "This is Mrs. Becker."
+  },
+  "4fdbf8f8-8b26-f60a-cf7c-ee9123b4f3df": {
+    "id": "4fdbf8f8-8b26-f60a-cf7c-ee9123b4f3df",
+    "de": "Gabel",
+    "en": "fork",
+    "article": "die",
+    "exampleDE": "Kann ich bitte eine Gabel haben?",
+    "exampleEN": "Can I have a fork please?"
+  },
+  "83e14c49-d1dc-8165-42e4-6b60bbf29c08": {
+    "id": "83e14c49-d1dc-8165-42e4-6b60bbf29c08",
+    "de": "Freizeit",
+    "en": "leisure",
+    "article": "die",
+    "exampleDE": "In meiner Freizeit spiele ich oft Fußball.",
+    "exampleEN": "In my spare time I often play football."
+  },
+  "2271b6c0-e5dd-0bed-cb37-eeb895ef14da": {
+    "id": "2271b6c0-e5dd-0bed-cb37-eeb895ef14da",
+    "de": "Garage",
+    "en": "garage",
+    "article": "die",
+    "exampleDE": "Hier ist eine Garage für dein Auto.",
+    "exampleEN": "Here is a garage for your car."
+  },
+  "48e4bfa9-8c34-24aa-5298-baf4bdae9933": {
+    "id": "48e4bfa9-8c34-24aa-5298-baf4bdae9933",
+    "de": "Garten",
+    "en": "garden",
+    "article": "der",
+    "exampleDE": "Wir haben leider keinen Garten.",
+    "exampleEN": "We have unfortunately no garden."
+  },
+  "1c7eefbf-ff97-5547-1bf3-9693c0d897ce": {
+    "id": "1c7eefbf-ff97-5547-1bf3-9693c0d897ce",
+    "de": "Gast",
+    "en": "guest",
+    "article": "der",
+    "exampleDE": "Heute Abend haben wir Gäste.",
+    "exampleEN": "Tonight we have guests."
+  },
+  "5c9d4927-728f-a8e5-78cc-7f2f0bd4ebe9": {
+    "id": "5c9d4927-728f-a8e5-78cc-7f2f0bd4ebe9",
+    "de": "Geburtstag",
+    "en": "birthday",
+    "article": "der",
+    "exampleDE": "Herzlichen Glückwunsch zum Geburtstag!",
+    "exampleEN": "Happy Birthday!"
+  },
+  "12fb0983-fa54-c49b-83ce-a1dde44aaee4": {
+    "id": "12fb0983-fa54-c49b-83ce-a1dde44aaee4",
+    "de": "Geburtsort",
+    "en": "place of birth",
+    "article": "der",
+    "exampleDE": "Bitte tragen Sie Ihren Geburtsort noch ein.",
+    "exampleEN": "Please enter your place of birth."
+  },
+  "2b6e3eeb-d870-ae8b-5a19-9fbfb81694dd": {
+    "id": "2b6e3eeb-d870-ae8b-5a19-9fbfb81694dd",
+    "de": "Geburtsjahr",
+    "en": "year of birth",
+    "article": "das",
+    "exampleDE": "Das Geburtsjahr Ihres Sohnes, bitte?",
+    "exampleEN": "Your son's birth year, please?"
+  },
+  "e44ef2fe-fa4d-9c0e-f75d-9339af6f211d": {
+    "id": "e44ef2fe-fa4d-9c0e-f75d-9339af6f211d",
+    "de": "Freund",
+    "en": "friend, boyfriend",
+    "article": "der",
+    "exampleDE": "Das ist ein Freund von mir.",
+    "exampleEN": "Thats a friend of mine."
+  },
+  "97f528e0-99c7-ce74-e27e-3b5b68c66149": {
+    "id": "97f528e0-99c7-ce74-e27e-3b5b68c66149",
+    "de": "Freundin",
+    "en": "female friend, girlfriend",
+    "article": "die",
+    "exampleDE": "Das ist meine Freundin Susanne.",
+    "exampleEN": "This is my friend Susanne."
+  },
+  "bc353e13-928c-79cb-1fd7-81a734314201": {
+    "id": "bc353e13-928c-79cb-1fd7-81a734314201",
+    "de": "Gegenteil",
+    "en": "opposite",
+    "article": "das",
+    "exampleDE": "Das Gegenteil von „klein“ ist „groß“.",
+    "exampleEN": "The opposite of \"small\" is \"big\"."
+  },
+  "5b3f3258-8e2d-0dc5-afc0-9e408c6c7bff": {
+    "id": "5b3f3258-8e2d-0dc5-afc0-9e408c6c7bff",
+    "de": "Gehalt",
+    "en": "salary",
+    "article": "das",
+    "exampleDE": "Sie ist mit ihrem Gehalt zufrieden.",
+    "exampleEN": "She is satisfied with her salary."
+  },
+  "20f631ee-19bf-df91-a5d5-84a54c38b6d0": {
+    "id": "20f631ee-19bf-df91-a5d5-84a54c38b6d0",
+    "de": "Gewitter",
+    "en": "thunderstorm",
+    "article": "das",
+    "exampleDE": "Ich glaube, es gibt heute ein Gewitter.",
+    "exampleEN": "I think there is a thunderstorm today."
+  },
+  "a0b32101-d67e-1aad-c846-9e7b602d3cdc": {
+    "id": "a0b32101-d67e-1aad-c846-9e7b602d3cdc",
+    "de": "Gitarre",
+    "en": "guitar",
+    "article": "die",
+    "exampleDE": "Er kann gut Gitarre spielen.",
+    "exampleEN": "He can play guitar."
+  },
+  "0bb25e03-fb71-8e6d-7c23-d399d684c396": {
+    "id": "0bb25e03-fb71-8e6d-7c23-d399d684c396",
+    "de": "Glas",
+    "en": "Glass",
+    "article": "das",
+    "exampleDE": "Bitte noch ein Glas Apfelsaft!",
+    "exampleEN": "Please have another glass of apple juice!"
+  },
+  "fc1c33cf-71c7-ec12-5f60-884c8db29e4b": {
+    "id": "fc1c33cf-71c7-ec12-5f60-884c8db29e4b",
+    "de": "Geld",
+    "en": "money",
+    "article": "das",
+    "exampleDE": "Hast du noch Geld?",
+    "exampleEN": "Do you still have money?"
+  },
+  "87eaf9b7-89db-ebdf-7c7e-9dac0419df64": {
+    "id": "87eaf9b7-89db-ebdf-7c7e-9dac0419df64",
+    "de": "Gleis",
+    "en": "track",
+    "article": "das",
+    "exampleDE": "Der ICE nach Berlin hält heute an Gleis zwölf.",
+    "exampleEN": "The ICE to Berlin today stops on track twelve."
+  },
+  "cd5f8242-1ae3-8cbb-ff37-a26f17c0103e": {
+    "id": "cd5f8242-1ae3-8cbb-ff37-a26f17c0103e",
+    "de": "Glück",
+    "en": "happiness",
+    "article": "das",
+    "exampleDE": "Oh, es regnet. Zum Glück habe ich meinen Schirm dabei.",
+    "exampleEN": "Oh, it's raining. Luckily I have my umbrella."
+  },
+  "0fbed36f-7a34-cbd2-c7d4-37809790e960": {
+    "id": "0fbed36f-7a34-cbd2-c7d4-37809790e960",
+    "de": "Geldbörse",
+    "en": "Purse",
+    "article": "die",
+    "exampleDE": "Sie hat ihre Geldbörse verloren.",
+    "exampleEN": "She has lost her wallet."
+  },
+  "81f9855a-cedf-aeba-fd29-e65fb9a16a15": {
+    "id": "81f9855a-cedf-aeba-fd29-e65fb9a16a15",
+    "de": "Gemüse",
+    "en": "vegetables",
+    "article": "das",
+    "exampleDE": "Wir kaufen das Gemüse immer auf dem Markt.",
+    "exampleEN": "We always buy the vegetables on the market."
+  },
+  "9b378747-e2de-6e34-280c-36b94cfaf524": {
+    "id": "9b378747-e2de-6e34-280c-36b94cfaf524",
+    "de": "Glückwunsch",
+    "en": "congratulation",
+    "article": "der",
+    "exampleDE": "Herzlichen Glückwunsch zum Geburtstag!",
+    "exampleEN": "Happy Birthday!"
+  },
+  "0a31ef78-c6cc-cbb2-c717-d4b7dbaba62e": {
+    "id": "0a31ef78-c6cc-cbb2-c717-d4b7dbaba62e",
+    "de": "Gepäck",
+    "en": "Luggage",
+    "article": "das",
+    "exampleDE": "Wollen Sie Ihr Gepäck mitnehmen?",
+    "exampleEN": "Do you want to take your luggage with you?"
+  },
+  "7b77ce82-68cd-102b-a218-6d482250fa32": {
+    "id": "7b77ce82-68cd-102b-a218-6d482250fa32",
+    "de": "Grippe",
+    "en": "flu",
+    "article": "die",
+    "exampleDE": "Ich habe eine Grippe und kann leider nicht kommen.",
+    "exampleEN": "I have a flu and can not come unfortunately."
+  },
+  "9b1fccd8-6d95-8731-a18a-bdba0341abfa": {
+    "id": "9b1fccd8-6d95-8731-a18a-bdba0341abfa",
+    "de": "Größe",
+    "en": "size",
+    "article": "die",
+    "exampleDE": "Haben Sie das T-Shirt auch in Größe M?",
+    "exampleEN": "Do you have the shirt in size M?"
+  },
+  "3643550a-320c-80d6-7423-ae1390eb0743": {
+    "id": "3643550a-320c-80d6-7423-ae1390eb0743",
+    "de": "Gerät",
+    "en": "device",
+    "article": "das",
+    "exampleDE": "Elektrogeräte finden Sie im dritten Stock.",
+    "exampleEN": "Electrical appliances can be found on the third floor."
+  },
+  "89901fc9-8ee6-59f2-bebd-515174484b31": {
+    "id": "89901fc9-8ee6-59f2-bebd-515174484b31",
+    "de": "Gruppe",
+    "en": "group",
+    "article": "die",
+    "exampleDE": "Die erste Gruppe beginnt um 16 Uhr.",
+    "exampleEN": "The first group starts at 4 pm."
+  },
+  "c7fd4350-06fc-39d3-38e5-16bc6ab24e8d": {
+    "id": "c7fd4350-06fc-39d3-38e5-16bc6ab24e8d",
+    "de": "Gericht",
+    "en": "dish",
+    "article": "das",
+    "exampleDE": "Mein Lieblingsgericht ist Pizza.",
+    "exampleEN": "My favorite dish is pizza."
+  },
+  "a0ffe9bb-e584-8223-884a-5112bb0660ee": {
+    "id": "a0ffe9bb-e584-8223-884a-5112bb0660ee",
+    "de": "Gruß",
+    "en": "greeting",
+    "article": "der",
+    "exampleDE": "Viele Grüße an Ihre Frau.",
+    "exampleEN": "Many greetings to your wife."
+  },
+  "97763d77-116f-617e-b8a3-e70d3e93382e": {
+    "id": "97763d77-116f-617e-b8a3-e70d3e93382e",
+    "de": "Geschäft",
+    "en": "shop / business",
+    "article": "das",
+    "exampleDE": "Die Geschäfte schließen um 18.30 Uhr.",
+    "exampleEN": "The shops close at 18.30."
+  },
+  "dd84f73f-9189-f174-b73d-6ea3a7b8db0c": {
+    "id": "dd84f73f-9189-f174-b73d-6ea3a7b8db0c",
+    "de": "Geschenk",
+    "en": "present",
+    "article": "das",
+    "exampleDE": "Danke für das schöne Geschenk.",
+    "exampleEN": "Thank you for the lovely present."
+  },
+  "9c18fdb7-0fb8-d106-948d-ac517aa23688": {
+    "id": "9c18fdb7-0fb8-d106-948d-ac517aa23688",
+    "de": "Geschichte",
+    "en": "story",
+    "article": "die",
+    "exampleDE": "Erzählst du mir eine Geschichte?",
+    "exampleEN": "Do you tell me a story?"
+  },
+  "5a9efd17-8ae0-090c-1352-ebbc53cc63b2": {
+    "id": "5a9efd17-8ae0-090c-1352-ebbc53cc63b2",
+    "de": "Geschirr",
+    "en": "dishes",
+    "article": "das",
+    "exampleDE": "Stellst du bitte das Geschirr in den Schrank?",
+    "exampleEN": "Do you put the dishes in the cupboard?"
+  },
+  "9c589e81-04bd-6c70-fc7f-71a9f65c79c3": {
+    "id": "9c589e81-04bd-6c70-fc7f-71a9f65c79c3",
+    "de": "Gesicht",
+    "en": "face",
+    "article": "das",
+    "exampleDE": "Wasch dir bitte das Gesicht.",
+    "exampleEN": "Please wash your face."
+  },
+  "3fa2d6d2-5ba3-2650-b0ba-2e667e1c72f4": {
+    "id": "3fa2d6d2-5ba3-2650-b0ba-2e667e1c72f4",
+    "de": "Gespräch",
+    "en": "talk",
+    "article": "das",
+    "exampleDE": "Sie hören ein Gespräch. Zu diesem Gespräch gibt es fünf Aufgaben.",
+    "exampleEN": "You hear a conversation. There are five tasks for this conversation."
+  },
+  "79992017-854f-e5b1-0e3e-a70b1cf0e8a1": {
+    "id": "79992017-854f-e5b1-0e3e-a70b1cf0e8a1",
+    "de": "Gesundheit",
+    "en": "health",
+    "article": "die",
+    "exampleDE": "Gesundheit! Sind Sie erkältet?",
+    "exampleEN": "Health! Are you caught a cold?"
+  },
+  "dc5fcd37-2f2c-80b8-36bd-487f7de01192": {
+    "id": "dc5fcd37-2f2c-80b8-36bd-487f7de01192",
+    "de": "Getränk",
+    "en": "drink",
+    "article": "das",
+    "exampleDE": "Mein Lieblingsgetränk ist Tomatensaft.",
+    "exampleEN": "My favorite drink is tomato juice."
+  },
+  "3246af61-0798-8832-206c-85e14b9196df": {
+    "id": "3246af61-0798-8832-206c-85e14b9196df",
+    "de": "Haar",
+    "en": "hair",
+    "article": "das",
+    "exampleDE": "Sie hat lange Haare.",
+    "exampleEN": "She has long hair."
+  },
+  "eda962b5-c003-ebed-cd63-d92ea12b9365": {
+    "id": "eda962b5-c003-ebed-cd63-d92ea12b9365",
+    "de": "Hähnchen",
+    "en": "chicken",
+    "article": "das",
+    "exampleDE": "Ein Hähnchen mit Pommes frites, bitte!",
+    "exampleEN": "A chicken with french fries, please!"
+  },
+  "90a2c8eb-9bd4-0c4c-c0bf-197d6b1096a7": {
+    "id": "90a2c8eb-9bd4-0c4c-c0bf-197d6b1096a7",
+    "de": "Halle",
+    "en": "hall",
+    "article": "die",
+    "exampleDE": "Wir treffen uns in Halle B.",
+    "exampleEN": "We meet in Hall B."
+  },
+  "be050039-8bbe-6e6b-1a33-0c5c40a96ed8": {
+    "id": "be050039-8bbe-6e6b-1a33-0c5c40a96ed8",
+    "de": "Hals",
+    "en": "neck",
+    "article": "der",
+    "exampleDE": "Mir tut der Hals weh.",
+    "exampleEN": "My neck hurts."
+  },
+  "25cd8927-3e07-6d43-0eb2-33f3750ab1b2": {
+    "id": "25cd8927-3e07-6d43-0eb2-33f3750ab1b2",
+    "de": "Herd",
+    "en": "stove / cooker",
+    "article": "der",
+    "exampleDE": "In der neuen Küche fehlt noch der Herd.",
+    "exampleEN": "In the new kitchen is missing the stove."
+  },
+  "567cdc0d-8a20-123c-fa17-733ec363a1ea": {
+    "id": "567cdc0d-8a20-123c-fa17-733ec363a1ea",
+    "de": "Herr",
+    "en": "Sir",
+    "article": "der",
+    "exampleDE": "Guten Tag, Herr Sommer!",
+    "exampleEN": "Good morning, Mr. Summer!"
+  },
+  "92cd522e-d891-4345-eb5b-3830c80d5c6b": {
+    "id": "92cd522e-d891-4345-eb5b-3830c80d5c6b",
+    "de": "Hamburger",
+    "en": "hamburger",
+    "article": "der",
+    "exampleDE": "Einen Hamburger ohne Salat, bitte.",
+    "exampleEN": "A hamburger without salad, please."
+  },
+  "d6b1cfb7-9364-10fb-38e3-6f1f5434e635": {
+    "id": "d6b1cfb7-9364-10fb-38e3-6f1f5434e635",
+    "de": "Haltestelle",
+    "en": "stop",
+    "article": "die",
+    "exampleDE": "An der nächsten Haltestelle müssen Sie aussteigen.",
+    "exampleEN": "At the next stop you have to get off."
+  },
+  "29466b74-c823-21f8-e179-7dcaa6556323": {
+    "id": "29466b74-c823-21f8-e179-7dcaa6556323",
+    "de": "Hand",
+    "en": "hand",
+    "article": "die",
+    "exampleDE": "Wasch dir bitte die Hände vor dem Essen.",
+    "exampleEN": "Please wash your hands before eating."
+  },
+  "af6ea44f-84dd-bd7f-1631-0a75af767ff8": {
+    "id": "af6ea44f-84dd-bd7f-1631-0a75af767ff8",
+    "de": "Handtuch",
+    "en": "towel",
+    "article": "das",
+    "exampleDE": "Gibst du mir bitte ein frisches Handtuch?",
+    "exampleEN": "Will you give me a fresh towel, please?"
+  },
+  "aa16e661-64d9-9bd1-55f5-bcd7c5a17569": {
+    "id": "aa16e661-64d9-9bd1-55f5-bcd7c5a17569",
+    "de": "Handy",
+    "en": "mobile",
+    "article": "das",
+    "exampleDE": "In der Schule bitte die Handys ausmachen!",
+    "exampleEN": "At school, please check the phones!"
+  },
+  "da8b8451-9bc6-f98f-de55-baa8f377b24b": {
+    "id": "da8b8451-9bc6-f98f-de55-baa8f377b24b",
+    "de": "Hilfe",
+    "en": "Help",
+    "article": "die",
+    "exampleDE": "Hilfe! Bitte helfen Sie mir!",
+    "exampleEN": "Help! Please help me!"
+  },
+  "3b1f98e7-c44f-d811-0f5e-23c3f4cad5ec": {
+    "id": "3b1f98e7-c44f-d811-0f5e-23c3f4cad5ec",
+    "de": "Hauptstadt",
+    "en": "capital",
+    "article": "die",
+    "exampleDE": "Berlin ist die Hauptstadt von Deutschland.",
+    "exampleEN": "Berlin is the capital city of Germany."
+  },
+  "a4c06951-8a8d-e4e2-dbd4-131ccaa6e14b": {
+    "id": "a4c06951-8a8d-e4e2-dbd4-131ccaa6e14b",
+    "de": "Himmel",
+    "en": "sky",
+    "article": "der",
+    "exampleDE": "Heute ist so tolles Wetter: Der Himmel ist blau und es gibt keine Wolken.",
+    "exampleEN": "Today is so great weather: The sky is blue and there are no clouds."
+  },
+  "c058c058-2119-c21f-13f1-88598eb36a62": {
+    "id": "c058c058-2119-c21f-13f1-88598eb36a62",
+    "de": "Haus",
+    "en": "house",
+    "article": "das",
+    "exampleDE": "In welchem Haus wohnst du?",
+    "exampleEN": "In which house do you live?"
+  },
+  "24bc17ab-e8d5-463b-0bb4-8e9dba4aa78c": {
+    "id": "24bc17ab-e8d5-463b-0bb4-8e9dba4aa78c",
+    "de": "Haushalt",
+    "en": "household",
+    "article": "der",
+    "exampleDE": "Wer macht bei euch den Haushalt? - Meine Frau und ich machen den Haushalt zusammen: Ich wasche die Wäsche und sie putzt und räumt auf.",
+    "exampleEN": "Who is doing the budget with you? - My wife and I make the household together: I wash the laundry and it cleans and cleans up."
+  },
+  "7483bc02-20cc-25fa-4ce9-4e1e8e0ea6f1": {
+    "id": "7483bc02-20cc-25fa-4ce9-4e1e8e0ea6f1",
+    "de": "Heft",
+    "en": "notebook",
+    "article": "das",
+    "exampleDE": "Hast du dein Heft dabei?",
+    "exampleEN": "Do you have your notebook?"
+  },
+  "c16e1707-3be6-32bf-270b-e84741f36d70": {
+    "id": "c16e1707-3be6-32bf-270b-e84741f36d70",
+    "de": "Heimat",
+    "en": "homeland",
+    "article": "die",
+    "exampleDE": "Ich komme aus der Schweiz. Das ist meine Heimat.",
+    "exampleEN": "I come from Switzerland. That's my home."
+  },
+  "30749431-dd90-6ad8-131d-c231b21519d4": {
+    "id": "30749431-dd90-6ad8-131d-c231b21519d4",
+    "de": "Hobby",
+    "en": "hobby",
+    "article": "das",
+    "exampleDE": "Meine Hobbys sind Joggen und Schwimmen.",
+    "exampleEN": "My hobbies are jogging and swimming."
+  },
+  "18c30cd8-d6f7-3879-12a0-2354b704644e": {
+    "id": "18c30cd8-d6f7-3879-12a0-2354b704644e",
+    "de": "Hochzeit",
+    "en": "wedding",
+    "article": "die",
+    "exampleDE": "Zu seiner Hochzeit kommen mehr als einhundert Gäste.",
+    "exampleEN": "More than one hundred guests come to his wedding."
+  },
+  "cc2d2617-0e89-a272-5301-9e1815928186": {
+    "id": "cc2d2617-0e89-a272-5301-9e1815928186",
+    "de": "Heizung",
+    "en": "heater",
+    "article": "die",
+    "exampleDE": "Es ist kalt. Ist die Heizung kaputt?",
+    "exampleEN": "It is cold. Is the heater broken?"
+  },
+  "f5181fd8-a889-85fd-09da-896d72ec2a1f": {
+    "id": "f5181fd8-a889-85fd-09da-896d72ec2a1f",
+    "de": "Homepage",
+    "en": "homepage",
+    "article": "die",
+    "exampleDE": "Auf der Homepage von Freiburg gibt es alle wichtigen Informationen über die Stadt.",
+    "exampleEN": "On the homepage of Freiburg there is all important information about the city."
+  },
+  "62d50142-d6c1-ec03-942d-04b25e7a04aa": {
+    "id": "62d50142-d6c1-ec03-942d-04b25e7a04aa",
+    "de": "Hose",
+    "en": "trousers",
+    "article": "die",
+    "exampleDE": "Kann ich die Hose waschen?",
+    "exampleEN": "Can I wash the pants?"
+  },
+  "94a56e5d-a06e-7a8c-3514-676a5bed0c26": {
+    "id": "94a56e5d-a06e-7a8c-3514-676a5bed0c26",
+    "de": "Hemd",
+    "en": "shirt",
+    "article": "das",
+    "exampleDE": "Nick trägt heute ein neues Hemd.",
+    "exampleEN": "Nick is wearing a new shirt today."
+  },
+  "612efd4d-fa1b-578c-9ef0-3c9966472be7": {
+    "id": "612efd4d-fa1b-578c-9ef0-3c9966472be7",
+    "de": "Hotel",
+    "en": "hotel",
+    "article": "das",
+    "exampleDE": "Im Urlaub sind wir in einem Hotel am Meer.",
+    "exampleEN": "On vacation we are in a hotel by the sea."
+  },
+  "4406f2f1-5da5-4550-4925-26be19918498": {
+    "id": "4406f2f1-5da5-4550-4925-26be19918498",
+    "de": "Hund",
+    "en": "dog",
+    "article": "der",
+    "exampleDE": "Magst du Hunde?",
+    "exampleEN": "Do you like dogs?"
+  },
+  "021c39de-6f15-7e6f-1140-5b111b4b4f38": {
+    "id": "021c39de-6f15-7e6f-1140-5b111b4b4f38",
+    "de": "Hunger",
+    "en": "hunger",
+    "article": "der",
+    "exampleDE": "Ich habe Hunger! Wann können wir endlich essen?",
+    "exampleEN": "I'm hungry! When can we finally eat?"
+  },
+  "8692ed6f-9d73-3a33-7ced-a6d7cb4e0416": {
+    "id": "8692ed6f-9d73-3a33-7ced-a6d7cb4e0416",
+    "de": "Idee",
+    "en": "idea",
+    "article": "die",
+    "exampleDE": "Was machen wir heute Abend? Hast du eine gute Idee?",
+    "exampleEN": "What are we going to do this evening? Do you have a good idea?"
+  },
+  "8079fe32-0d17-f68c-ad09-b522ad02fd16": {
+    "id": "8079fe32-0d17-f68c-ad09-b522ad02fd16",
+    "de": "Junge",
+    "en": "Boy",
+    "article": "der",
+    "exampleDE": "In der Klasse von meiner Tochter sind 13 Jungen und 15 Mädchen.",
+    "exampleEN": "In the class of my daughter are 13 boys and 15 girls."
+  },
+  "d13bb30e-171b-5e13-0666-361d65569ba5": {
+    "id": "d13bb30e-171b-5e13-0666-361d65569ba5",
+    "de": "Information",
+    "en": "information",
+    "article": "die",
+    "exampleDE": "Wir haben hier einige wichtige Informationen für Sie.",
+    "exampleEN": "We have some important information for you here."
+  },
+  "c9640e83-4c2e-a757-f610-af674f31c9a0": {
+    "id": "c9640e83-4c2e-a757-f610-af674f31c9a0",
+    "de": "Kaffee",
+    "en": "coffee",
+    "article": "der",
+    "exampleDE": "Zum Frühstück trinke ich immer Kaffee.",
+    "exampleEN": "For breakfast, I always drink coffee."
+  },
+  "1a7f0a87-a026-62b5-42ab-25642f69a515": {
+    "id": "1a7f0a87-a026-62b5-42ab-25642f69a515",
+    "de": "Kalender",
+    "en": "calendar",
+    "article": "der",
+    "exampleDE": "Haben Sie am Montag Zeit? - Einen Moment, ich schaue in meinem Kalender.",
+    "exampleEN": "Do you have time on Monday? - One moment, I look in my calendar."
+  },
+  "25558c9f-e110-5aa5-120a-dd533b61d7c8": {
+    "id": "25558c9f-e110-5aa5-120a-dd533b61d7c8",
+    "de": "Insel",
+    "en": "island",
+    "article": "die",
+    "exampleDE": "Ich möchte im Sommer auf einer Insel Urlaub machen.",
+    "exampleEN": "I would like to spend the summer on an island holiday."
+  },
+  "34ce6f2e-0ff6-8a08-5da6-7ee7c26234f7": {
+    "id": "34ce6f2e-0ff6-8a08-5da6-7ee7c26234f7",
+    "de": "Instrument",
+    "en": "instrument",
+    "article": "das",
+    "exampleDE": "Ich spiele Klavier. Spielen Sie auch ein Instrument?",
+    "exampleEN": "I play piano. Do you also play an instrument?"
+  },
+  "2de30309-8198-734c-8423-aafb4213de00": {
+    "id": "2de30309-8198-734c-8423-aafb4213de00",
+    "de": "Kamera",
+    "en": "camera",
+    "article": "die",
+    "exampleDE": "Hannes hat eine neue Kamera. Er kann mit der Kamera Fotos und Filme machen.",
+    "exampleEN": "Hannes has a new camera. He can take pictures and movies with the camera."
+  },
+  "64f34b6c-3e09-f923-aa70-e2c75fb3d933": {
+    "id": "64f34b6c-3e09-f923-aa70-e2c75fb3d933",
+    "de": "Interesse",
+    "en": "interest",
+    "article": "das",
+    "exampleDE": "Ich habe viele Interessen: Sport, Lesen, Kultur, Reisen.",
+    "exampleEN": "I have many interests: sports, reading, culture, travel."
+  },
+  "76c81e35-6dff-009d-97ed-639829628ecc": {
+    "id": "76c81e35-6dff-009d-97ed-639829628ecc",
+    "de": "Karte",
+    "en": "map",
+    "article": "die",
+    "exampleDE": "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.",
+    "exampleEN": "I am writing a card from my holiday to my friend."
+  },
+  "1edaf643-4a84-52ed-4987-94416fb16bba": {
+    "id": "1edaf643-4a84-52ed-4987-94416fb16bba",
+    "de": "Internet",
+    "en": "internet",
+    "article": "das",
+    "exampleDE": "Das findest du im Internet.",
+    "exampleEN": "You can find this on the Internet."
+  },
+  "23c6c314-67a7-f8fc-4fb7-864a331acaaa": {
+    "id": "23c6c314-67a7-f8fc-4fb7-864a331acaaa",
+    "de": "Kartoffel",
+    "en": "potato",
+    "article": "die",
+    "exampleDE": "Für Pommes frites braucht man Kartoffeln.",
+    "exampleEN": "For potato fries you need potatoes."
+  },
+  "2b0e95ad-0545-be39-0e52-4d27d95b6705": {
+    "id": "2b0e95ad-0545-be39-0e52-4d27d95b6705",
+    "de": "Käse",
+    "en": "cheese",
+    "article": "der",
+    "exampleDE": "Isst du lieber Käse oder Wurst?",
+    "exampleEN": "Do you prefer cheese or sausage?"
+  },
+  "807baac8-24c5-ef64-755e-3baa80372078": {
+    "id": "807baac8-24c5-ef64-755e-3baa80372078",
+    "de": "Kasse",
+    "en": "cash register",
+    "article": "die",
+    "exampleDE": "Zahlen Sie bitte an der Kasse.",
+    "exampleEN": "Please pay at the cash register."
+  },
+  "818c970e-0861-a8d6-6ed3-ce0ebc61b3cd": {
+    "id": "818c970e-0861-a8d6-6ed3-ce0ebc61b3cd",
+    "de": "Katze",
+    "en": "cat",
+    "article": "die",
+    "exampleDE": "Meine Tochter wünscht sich eine Katze.",
+    "exampleEN": "My daughter wants a cat."
+  },
+  "d090850b-dba8-80f4-7cec-ea555f347038": {
+    "id": "d090850b-dba8-80f4-7cec-ea555f347038",
+    "de": "Interview",
+    "en": "interview",
+    "article": "das",
+    "exampleDE": "Komm schnell! Im Radio kommt ein Interview mit deinem Lieblingssänger.",
+    "exampleEN": "Come quickly! On the radio comes an interview with your favorite singer."
+  },
+  "26cb6b59-b8d6-7f77-3633-2f22582c5ca0": {
+    "id": "26cb6b59-b8d6-7f77-3633-2f22582c5ca0",
+    "de": "Kaufhaus",
+    "en": "department store",
+    "article": "das",
+    "exampleDE": "Meine Pullover kaufe ich immer im Kaufhaus Hertie.",
+    "exampleEN": "I always buy my sweaters at the Hertie store."
+  },
+  "dd8e0911-fc58-2db8-85aa-f30feecbaba5": {
+    "id": "dd8e0911-fc58-2db8-85aa-f30feecbaba5",
+    "de": "Jacke",
+    "en": "jacket",
+    "article": "die",
+    "exampleDE": "Zieh dir eine Jacke an. Es ist kalt.",
+    "exampleEN": "Put on a jacket. It is cold."
+  },
+  "75044086-f48a-f0e0-1ffa-04c9d540acc7": {
+    "id": "75044086-f48a-f0e0-1ffa-04c9d540acc7",
+    "de": "Jeans",
+    "en": "Jeans",
+    "article": "die",
+    "exampleDE": "Ich mag Jeans lieber als Röcke.",
+    "exampleEN": "I like jeans rather than skirts."
+  },
+  "984b8cfc-2c60-4a20-4d5c-1e30d1f3cd3b": {
+    "id": "984b8cfc-2c60-4a20-4d5c-1e30d1f3cd3b",
+    "de": "Keller",
+    "en": "basement, cellar",
+    "article": "der",
+    "exampleDE": "Bitte bring die Kartoffeln in den Keller!",
+    "exampleEN": "Please bring the potatoes to the cellar!"
+  },
+  "f486514d-56fa-ce81-03f9-da68f501c0bf": {
+    "id": "f486514d-56fa-ce81-03f9-da68f501c0bf",
+    "de": "Job",
+    "en": "job",
+    "article": "der",
+    "exampleDE": "Jenny hat einen neuen Job bei der Post.",
+    "exampleEN": "Jenny has a new job at the post office."
+  },
+  "21a57d79-03e3-fdd3-b8df-194203a2dc9a": {
+    "id": "21a57d79-03e3-fdd3-b8df-194203a2dc9a",
+    "de": "Kenntnisse",
+    "en": "expertise",
+    "article": "die",
+    "exampleDE": "Deine Deutschkenntnisse sind sehr gut!",
+    "exampleEN": "Your German skills are very good!"
+  },
+  "7bf26bcf-df7d-ecf3-1f53-d0d21f0bd26f": {
+    "id": "7bf26bcf-df7d-ecf3-1f53-d0d21f0bd26f",
+    "de": "Kette",
+    "en": "chain",
+    "article": "die",
+    "exampleDE": "Meine Mutter bekommt eine schöne Kette zum Geburtstag.",
+    "exampleEN": "My mother gets a nice necklace for her birthday."
+  },
+  "4246fcd3-ac78-b245-c5c5-8fe19502918f": {
+    "id": "4246fcd3-ac78-b245-c5c5-8fe19502918f",
+    "de": "Jugendherberge",
+    "en": "youth hostel",
+    "article": "die",
+    "exampleDE": "Wir übernachten in einer Jugendherberge.",
+    "exampleEN": "We stay in a youth hostel."
+  },
+  "7020c3a9-bbc8-9923-8c35-bf9903a5c67f": {
+    "id": "7020c3a9-bbc8-9923-8c35-bf9903a5c67f",
+    "de": "Kind",
+    "en": "child",
+    "article": "das",
+    "exampleDE": "Wie viele Kinder haben Sie?",
+    "exampleEN": "How many children do you have?"
+  },
+  "6d8b1cd4-1987-fc1a-3f00-ff74ef9687d5": {
+    "id": "6d8b1cd4-1987-fc1a-3f00-ff74ef9687d5",
+    "de": "Jugendliche (männlich)",
+    "en": "Youth (male)",
+    "article": "der",
+    "exampleDE": "Viele Jugendliche hören den ganzen Tag Musik.",
+    "exampleEN": "Many teenagers listen to music all day."
+  },
+  "9dcc675b-6358-642a-46c0-eff3ba5cb622": {
+    "id": "9dcc675b-6358-642a-46c0-eff3ba5cb622",
+    "de": "Jugendliche (weiblich)",
+    "en": "Youth (female)",
+    "article": "die",
+    "exampleDE": "Der Eintritt für Kinder und Jugendliche bis 16 Jahre ist frei.",
+    "exampleEN": "Admission for children up to 16 years is free."
+  },
+  "882de6c9-e0c7-bb41-872f-a9331cb20029": {
+    "id": "882de6c9-e0c7-bb41-872f-a9331cb20029",
+    "de": "Kindergarten",
+    "en": "kindergarten",
+    "article": "der",
+    "exampleDE": "Die kleine Laura geht schon in den Kindergarten.",
+    "exampleEN": "Little Laura is already going to kindergarten."
+  },
+  "c9c235f4-751a-452a-0dc5-cbf167ba4ad5": {
+    "id": "c9c235f4-751a-452a-0dc5-cbf167ba4ad5",
+    "de": "Kino",
+    "en": "movie theater",
+    "article": "das",
+    "exampleDE": "Gehen wir heute Abend zusammen ins Kino?",
+    "exampleEN": "Are we going to the cinema tonight?"
+  },
+  "103eeeb8-9365-c186-7d03-edd17cc750ec": {
+    "id": "103eeeb8-9365-c186-7d03-edd17cc750ec",
+    "de": "Kiosk",
+    "en": "kiosk",
+    "article": "der",
+    "exampleDE": "Zeitungen kannst du am Kiosk kaufen.",
+    "exampleEN": "You can buy newspapers at the kiosk."
+  },
+  "56f8ae1d-27ad-76b8-f58b-eb2a4a095a07": {
+    "id": "56f8ae1d-27ad-76b8-f58b-eb2a4a095a07",
+    "de": "Kirche",
+    "en": "church",
+    "article": "die",
+    "exampleDE": "Diese Kirche ist fast 800 Jahre alt.",
+    "exampleEN": "This church is almost 800 years old."
+  },
+  "2123ee6c-2f07-df23-cd16-b32da4834a52": {
+    "id": "2123ee6c-2f07-df23-cd16-b32da4834a52",
+    "de": "Krankenhaus",
+    "en": "hospital",
+    "article": "das",
+    "exampleDE": "Meine Tante ist im Krankenhaus.",
+    "exampleEN": "My aunt is in the hospital."
+  },
+  "a975a10a-2cb6-9f4e-85ee-aa3ea995d837": {
+    "id": "a975a10a-2cb6-9f4e-85ee-aa3ea995d837",
+    "de": "Krankenkasse",
+    "en": "health insurance",
+    "article": "die",
+    "exampleDE": "Bei welcher Krankenkasse sind Sie?",
+    "exampleEN": "What is your health insurance?"
+  },
+  "6b07025a-1599-c55c-240d-9f185de263a4": {
+    "id": "6b07025a-1599-c55c-240d-9f185de263a4",
+    "de": "Krankheit",
+    "en": "illness",
+    "article": "die",
+    "exampleDE": "Welche Krankheit hat Herr Brandner?",
+    "exampleEN": "What disease does Mr. Brandner have?"
+  },
+  "be07e2bd-259b-9eb4-ae42-6525b328b0c3": {
+    "id": "be07e2bd-259b-9eb4-ae42-6525b328b0c3",
+    "de": "Kredit",
+    "en": "credit",
+    "article": "der",
+    "exampleDE": "Ich brauche einen Kredit von der Bank.",
+    "exampleEN": "I need a credit from the bank."
+  },
+  "d368f9f5-12a2-9066-a120-7a6940101669": {
+    "id": "d368f9f5-12a2-9066-a120-7a6940101669",
+    "de": "Klavier",
+    "en": "piano",
+    "article": "das",
+    "exampleDE": "Jakob kann sehr gut Klavier spielen.",
+    "exampleEN": "Jakob can play the piano very well."
+  },
+  "c3a43935-4a5e-73ab-fd61-a6220a61a17d": {
+    "id": "c3a43935-4a5e-73ab-fd61-a6220a61a17d",
+    "de": "Kleid",
+    "en": "dress",
+    "article": "das",
+    "exampleDE": "Julia möchte ein rotes Kleid kaufen.",
+    "exampleEN": "Julia wants to buy a red dress."
+  },
+  "db658891-bae3-79cb-1049-7eac3e526c5c": {
+    "id": "db658891-bae3-79cb-1049-7eac3e526c5c",
+    "de": "Kreuzung",
+    "en": "crossing",
+    "article": "die",
+    "exampleDE": "Fahren Sie an der nächsten Kreuzung rechts.",
+    "exampleEN": "At the next intersection turn right."
+  },
+  "d74d69ee-37af-4cf6-ac06-6b882c95c0e4": {
+    "id": "d74d69ee-37af-4cf6-ac06-6b882c95c0e4",
+    "de": "Kleidung",
+    "en": "cloths / outfit",
+    "article": "die",
+    "exampleDE": "Wo finde ich Kleidung? - Hosen im ersten, Kleider und Röcke im zweiten Stock.",
+    "exampleEN": "Where can I find clothes? - pants in the first, clothes and skirts on the second floor."
+  },
+  "d3f0d57a-0d3d-bbc3-086b-caa1ed1158e7": {
+    "id": "d3f0d57a-0d3d-bbc3-086b-caa1ed1158e7",
+    "de": "Krimi",
+    "en": "thriller",
+    "article": "der",
+    "exampleDE": "Miriam liest gern spannende Krimis.",
+    "exampleEN": "Miriam likes to read exciting thrillers."
+  },
+  "0db5f77e-8369-a713-9ab0-81294945872b": {
+    "id": "0db5f77e-8369-a713-9ab0-81294945872b",
+    "de": "Küche",
+    "en": "kitchen",
+    "article": "die",
+    "exampleDE": "Ich suche eine neue Wohnung mit drei Zimmern, Küche und Bad.",
+    "exampleEN": "I am looking for a new apartment with three rooms, kitchen and bathroom."
+  },
+  "5d4cb0bd-f8ce-dddc-ab57-0f5de5d0559e": {
+    "id": "5d4cb0bd-f8ce-dddc-ab57-0f5de5d0559e",
+    "de": "Kuchen",
+    "en": "cake",
+    "article": "der",
+    "exampleDE": "Er ißt sonntags ein Stück Kuchen.",
+    "exampleEN": "He eats a piece of cake on Sundays."
+  },
+  "daea9337-8bb4-3aef-18ed-1ec1d0bceaa6": {
+    "id": "daea9337-8bb4-3aef-18ed-1ec1d0bceaa6",
+    "de": "Koffer",
+    "en": "suitcase",
+    "article": "der",
+    "exampleDE": "Hast du den Koffer schon gepackt?",
+    "exampleEN": "Have you already packed the suitcase?"
+  },
+  "7a632bbb-5310-8e51-bf94-fa1d6e6e600a": {
+    "id": "7a632bbb-5310-8e51-bf94-fa1d6e6e600a",
+    "de": "Kühlschrank",
+    "en": "fridge",
+    "article": "der",
+    "exampleDE": "Haben wir noch Milch? - Ja, im Kühlschrank.",
+    "exampleEN": "Do we still have milk? - Yes, in the fridge."
+  },
+  "06e9bcc9-793a-3260-565e-da617b8e8a05": {
+    "id": "06e9bcc9-793a-3260-565e-da617b8e8a05",
+    "de": "Kollege",
+    "en": "male colleague / co-worker",
+    "article": "der",
+    "exampleDE": "Wie heißt der neue Kollege?",
+    "exampleEN": "What is the name of the new colleague?"
+  },
+  "d5fcbd3e-75e3-d708-14dd-0579b65c05df": {
+    "id": "d5fcbd3e-75e3-d708-14dd-0579b65c05df",
+    "de": "Kollegin",
+    "en": "female colleague / co-worker",
+    "article": "die",
+    "exampleDE": "Wie heißt die neue Kollegin?",
+    "exampleEN": "What is the name of the new colleague?"
+  },
+  "1e1ca70c-054a-4f03-be65-1770c95f24f8": {
+    "id": "1e1ca70c-054a-4f03-be65-1770c95f24f8",
+    "de": "Kultur",
+    "en": "culture",
+    "article": "die",
+    "exampleDE": "Ich finde fremde Länder und Kulturen sehr interessant.",
+    "exampleEN": "I find foreign countries and cultures very interesting."
+  },
+  "b6bf9726-5356-bef0-7c85-18abebbe93b1": {
+    "id": "b6bf9726-5356-bef0-7c85-18abebbe93b1",
+    "de": "Kunde",
+    "en": "male customer",
+    "article": "der",
+    "exampleDE": "Einen Moment, bitte. Ich habe einen Kunden.",
+    "exampleEN": "One moment please. I have a customer."
+  },
+  "42640d70-7a87-c160-6fc5-0797dfba4165": {
+    "id": "42640d70-7a87-c160-6fc5-0797dfba4165",
+    "de": "Kundin",
+    "en": "female customer",
+    "article": "die",
+    "exampleDE": "Einen Moment, bitte. Ich habe eine Kundin.",
+    "exampleEN": "One moment please. I have a customer."
+  },
+  "85f8a32a-1773-0b46-3c16-21c64cef5491": {
+    "id": "85f8a32a-1773-0b46-3c16-21c64cef5491",
+    "de": "Kunst",
+    "en": "art",
+    "article": "die",
+    "exampleDE": "Ich verstehe nichts von moderner Kunst.",
+    "exampleEN": "I do not understand modern art."
+  },
+  "4c2283c1-4ab7-3490-397a-e173a5904b06": {
+    "id": "4c2283c1-4ab7-3490-397a-e173a5904b06",
+    "de": "Kontakt",
+    "en": "contact",
+    "article": "der",
+    "exampleDE": "Ich habe wenig Kontakt zu meinen Kollegen.",
+    "exampleEN": "I have little contact with my colleagues."
+  },
+  "8365e6e2-5455-815b-2cc2-a422e6c3dcb9": {
+    "id": "8365e6e2-5455-815b-2cc2-a422e6c3dcb9",
+    "de": "Konto",
+    "en": "account",
+    "article": "das",
+    "exampleDE": "Das Geld überweisen wir am ersten März auf Ihr Konto.",
+    "exampleEN": "The money will be transferred to your account on the first of March."
+  },
+  "c5356c23-7d6b-57fd-9a8b-8adc954ef8bb": {
+    "id": "c5356c23-7d6b-57fd-9a8b-8adc954ef8bb",
+    "de": "Kurs",
+    "en": "course",
+    "article": "der",
+    "exampleDE": "Der Deutschkurs dauert zwei Monate.",
+    "exampleEN": "The German course lasts two months."
+  },
+  "26c3af99-9780-65f9-735f-6034dcf72269": {
+    "id": "26c3af99-9780-65f9-735f-6034dcf72269",
+    "de": "Konzert",
+    "en": "concert",
+    "article": "das",
+    "exampleDE": "Für das Konzert am Sonntag gibt es noch Karten.",
+    "exampleEN": "There are still tickets for the concert on Sunday."
+  },
+  "ec4cb405-fd0e-f1ec-3a52-5bfcc0ca588f": {
+    "id": "ec4cb405-fd0e-f1ec-3a52-5bfcc0ca588f",
+    "de": "Kopf",
+    "en": "head",
+    "article": "der",
+    "exampleDE": "Mein Kopf tut weh!",
+    "exampleEN": "My head hurts!"
+  },
+  "30e9f590-70da-3c17-4ea6-5c1c22a21063": {
+    "id": "30e9f590-70da-3c17-4ea6-5c1c22a21063",
+    "de": "Laden",
+    "en": "small shop",
+    "article": "der",
+    "exampleDE": "Ich kaufe meine Kleider immer in einem kleinen Laden im Zentrum.",
+    "exampleEN": "I always buy my clothes in a small shop in the center."
+  },
+  "3890116a-7b69-14d8-8b04-c1c2f758e3b6": {
+    "id": "3890116a-7b69-14d8-8b04-c1c2f758e3b6",
+    "de": "Körper",
+    "en": "body",
+    "article": "der",
+    "exampleDE": "Der Arzt sagt, ich muss etwas für meinen Körper tun, zum Beispiel schwimmen oder Fahrrad fahren.",
+    "exampleEN": "The doctor says I have to do something for my body, like swimming or cycling."
+  },
+  "33bb1fe1-8284-63b6-9f74-7f1202ad205b": {
+    "id": "33bb1fe1-8284-63b6-9f74-7f1202ad205b",
+    "de": "Lampe",
+    "en": "lamp",
+    "article": "die",
+    "exampleDE": "Mach bitte die Lampe an. Es ist so dunkel.",
+    "exampleEN": "Please turn on the lamp. It is so dark."
+  },
+  "b804d042-b6d8-2288-8fdb-84d1a14dc0f8": {
+    "id": "b804d042-b6d8-2288-8fdb-84d1a14dc0f8",
+    "de": "Land",
+    "en": "country",
+    "article": "das",
+    "exampleDE": "Deutschland ist ein schönes Land.",
+    "exampleEN": "Germany is a beautiful country."
+  },
+  "2b5324c6-100b-6581-cc16-2822a5ff09fd": {
+    "id": "2b5324c6-100b-6581-cc16-2822a5ff09fd",
+    "de": "Kosmetik",
+    "en": "cosmetics",
+    "article": "die",
+    "exampleDE": "Kosmetik können Sie im Erdgeschoss kaufen.",
+    "exampleEN": "You can buy cosmetics on the ground floor."
+  },
+  "90d3b50a-65fd-ce69-224a-39a49d4192ec": {
+    "id": "90d3b50a-65fd-ce69-224a-39a49d4192ec",
+    "de": "Landschaft",
+    "en": "landscape",
+    "article": "die",
+    "exampleDE": "Die Landschaft ist sehr schön.",
+    "exampleEN": "The landscape is very beautiful."
+  },
+  "62b5b5ea-0f59-45b7-d235-7f39f7ad8bc3": {
+    "id": "62b5b5ea-0f59-45b7-d235-7f39f7ad8bc3",
+    "de": "Link",
+    "en": "link",
+    "article": "der",
+    "exampleDE": "Ich schicke dir einen Link zu Deutschübungen.",
+    "exampleEN": "I will send you a link to German exercises."
+  },
+  "090cd34d-5605-2e72-a3ef-3f8b1ffc7b1d": {
+    "id": "090cd34d-5605-2e72-a3ef-3f8b1ffc7b1d",
+    "de": "Löffel",
+    "en": "spoon",
+    "article": "der",
+    "exampleDE": "Bitte bringen Sie mir einen Löffel.",
+    "exampleEN": "Please bring me a spoon."
+  },
+  "3331f199-fc59-c7aa-65f7-06cd5eee1957": {
+    "id": "3331f199-fc59-c7aa-65f7-06cd5eee1957",
+    "de": "Lokal",
+    "en": "pub / tavern / restaurant",
+    "article": "das",
+    "exampleDE": "Gibt es hier in der Nähe ein gutes Lokal?",
+    "exampleEN": "Is there a good place nearby?"
+  },
+  "93ea48da-58e4-b0a7-ce64-5a35de9c4c1c": {
+    "id": "93ea48da-58e4-b0a7-ce64-5a35de9c4c1c",
+    "de": "Lüge",
+    "en": "lie",
+    "article": "die",
+    "exampleDE": "Das stimmt nicht! Das ist eine Lüge!",
+    "exampleEN": "That's not true! That's a lie!"
+  },
+  "b91d8463-5254-6ccd-4e8b-7aceca488eb1": {
+    "id": "b91d8463-5254-6ccd-4e8b-7aceca488eb1",
+    "de": "Laptop",
+    "en": "laptop",
+    "article": "der",
+    "exampleDE": "Ich brauche einen neuen Laptop.",
+    "exampleEN": "I need a new laptop."
+  },
+  "4cdb4342-39ad-df32-19c3-3ef9bba78ae2": {
+    "id": "4cdb4342-39ad-df32-19c3-3ef9bba78ae2",
+    "de": "Lust",
+    "en": "desire / delight / lust",
+    "article": "die",
+    "exampleDE": "Gehen wir heute Abend ins Kino? - Nein, ich habe keine Lust.",
+    "exampleEN": "Are we going to the cinema tonight? - No, I do not feel like it."
+  },
+  "f9cb714e-cbc8-cb55-a117-33a961cd10fe": {
+    "id": "f9cb714e-cbc8-cb55-a117-33a961cd10fe",
+    "de": "Leben",
+    "en": "Life",
+    "article": "das",
+    "exampleDE": "Hier in London ist das Leben teuer.",
+    "exampleEN": "Here in London life is expensive."
+  },
+  "160c0ad4-747d-684f-99bd-8a3f2bf5d11e": {
+    "id": "160c0ad4-747d-684f-99bd-8a3f2bf5d11e",
+    "de": "Lebensmittel",
+    "en": "foods / groceries",
+    "article": "die",
+    "exampleDE": "Lebensmittel bekommen Sie im Supermarkt.",
+    "exampleEN": "Food is available at the supermarket."
+  },
+  "fc46cd10-8c99-81f5-9c86-46d7fe99f263": {
+    "id": "fc46cd10-8c99-81f5-9c86-46d7fe99f263",
+    "de": "Mädchen",
+    "en": "girl",
+    "article": "das",
+    "exampleDE": "Familie Kurz bekommt ein Baby. - Junge oder Mädchen?",
+    "exampleEN": "Family Short gets a baby. - Boy or girl?"
+  },
+  "03e8233d-835b-0cbe-1fa0-3cade1275c54": {
+    "id": "03e8233d-835b-0cbe-1fa0-3cade1275c54",
+    "de": "Magen",
+    "en": "stomach",
+    "article": "der",
+    "exampleDE": "Mein Magen tut weh.",
+    "exampleEN": "My stomach hurts."
+  },
+  "c4d6d2a8-d6d5-c380-b334-59d40d1635de": {
+    "id": "c4d6d2a8-d6d5-c380-b334-59d40d1635de",
+    "de": "Mailbox",
+    "en": "mailbox",
+    "article": "die",
+    "exampleDE": "Hier ist die Mailbox von Susanne König.",
+    "exampleEN": "This is the mailbox of Susanne König."
+  },
+  "997d3cbd-4237-5ce4-4bff-6fc6bd11fe58": {
+    "id": "997d3cbd-4237-5ce4-4bff-6fc6bd11fe58",
+    "de": "Mal",
+    "en": "time / mark",
+    "article": "das",
+    "exampleDE": "Das erste Mal war ich vor fünf Jahren in England.",
+    "exampleEN": "The first time I was in England five years ago."
+  },
+  "45c99da3-cc83-1fe5-38eb-4aceecfacada": {
+    "id": "45c99da3-cc83-1fe5-38eb-4aceecfacada",
+    "de": "Mann",
+    "en": "man",
+    "article": "der",
+    "exampleDE": "Mein Mann ist Polizist.",
+    "exampleEN": "My husband is a cop."
+  },
+  "45a9b91b-4a48-e080-dbed-fda9ecb4da23": {
+    "id": "45a9b91b-4a48-e080-dbed-fda9ecb4da23",
+    "de": "Mannschaft",
+    "en": "team",
+    "article": "die",
+    "exampleDE": "Meine Lieblingsmannschaft hat 1 zu 0 verloren.",
+    "exampleEN": "My favorite team lost 1 to 0."
+  },
+  "0c6ac591-8ded-bd13-cf1f-e09ffb5d6f81": {
+    "id": "0c6ac591-8ded-bd13-cf1f-e09ffb5d6f81",
+    "de": "Mantel",
+    "en": "coat",
+    "article": "der",
+    "exampleDE": "Es ist kalt. Zieh deinen Mantel an!",
+    "exampleEN": "It is cold. Put on your coat!"
+  },
+  "ec4d2e7a-2d19-a72e-d110-f485efe2bb51": {
+    "id": "ec4d2e7a-2d19-a72e-d110-f485efe2bb51",
+    "de": "Markt",
+    "en": "market",
+    "article": "der",
+    "exampleDE": "Ich gehe heute auf den Markt.",
+    "exampleEN": "I'm going to market today."
+  },
+  "adc9d666-aee3-d9db-d04a-3c2abb66ec99": {
+    "id": "adc9d666-aee3-d9db-d04a-3c2abb66ec99",
+    "de": "Leute",
+    "en": "people",
+    "article": "die",
+    "exampleDE": "Auf der Party sind viele Leute.",
+    "exampleEN": "At the party are many people."
+  },
+  "36151b67-ea3a-b245-bd6f-042e29ebdcd8": {
+    "id": "36151b67-ea3a-b245-bd6f-042e29ebdcd8",
+    "de": "Licht",
+    "en": "light",
+    "article": "das",
+    "exampleDE": "Es ist so dunkel. Mach bitte das Licht an!",
+    "exampleEN": "It is so dark. Please turn on the light!"
+  },
+  "88463cdc-a4c8-a962-98c5-c7ca3b9d51a8": {
+    "id": "88463cdc-a4c8-a962-98c5-c7ca3b9d51a8",
+    "de": "Maschine",
+    "en": "machine",
+    "article": "die",
+    "exampleDE": "Die Waschmaschine funktioniert sehr gut.",
+    "exampleEN": "The washing machine worked very well."
+  },
+  "0d4b5c9a-a663-3971-4fde-bf30c90e5e79": {
+    "id": "0d4b5c9a-a663-3971-4fde-bf30c90e5e79",
+    "de": "Medikament",
+    "en": "drug",
+    "article": "das",
+    "exampleDE": "Nehmen Sie dieses Medikament dreimal pro Tag!",
+    "exampleEN": "Take this medicine three times a day!"
+  },
+  "7e38eb02-fbbc-6b2d-d485-0a1cf0f98571": {
+    "id": "7e38eb02-fbbc-6b2d-d485-0a1cf0f98571",
+    "de": "Meer",
+    "en": "sea",
+    "article": "das",
+    "exampleDE": "Wir machen Urlaub am Meer.",
+    "exampleEN": "We make holidays by the sea."
+  },
+  "313ee949-2a76-00ec-187e-e1c87a78fd9f": {
+    "id": "313ee949-2a76-00ec-187e-e1c87a78fd9f",
+    "de": "Lied",
+    "en": "song",
+    "article": "das",
+    "exampleDE": "Zum Geburtstag singen wir dir ein Lied.",
+    "exampleEN": "For the birthday we sing you a song."
+  },
+  "0f237a45-8f02-3d5f-99c2-bb651c64614f": {
+    "id": "0f237a45-8f02-3d5f-99c2-bb651c64614f",
+    "de": "Meinung",
+    "en": "opinion",
+    "article": "die",
+    "exampleDE": "Meine Meinung zu dem Thema ist: …",
+    "exampleEN": "My opinion on the topic is: ..."
+  },
+  "7fb66277-0924-4928-979f-074a3a27af54": {
+    "id": "7fb66277-0924-4928-979f-074a3a27af54",
+    "de": "Menge",
+    "en": "amount",
+    "article": "die",
+    "exampleDE": "Wir haben noch eine Menge Zeit.",
+    "exampleEN": "We still have a lot of time."
+  },
+  "4389e243-4c7b-bd79-2b4b-d9089ae1bdcf": {
+    "id": "4389e243-4c7b-bd79-2b4b-d9089ae1bdcf",
+    "de": "Mensch",
+    "en": "human",
+    "article": "der",
+    "exampleDE": "Die Menschen sind hier ein bisschen anders als im Süden.",
+    "exampleEN": "The people here are a bit different than in the South."
+  },
+  "52b01372-ca79-7e56-6d69-94d161b0a064": {
+    "id": "52b01372-ca79-7e56-6d69-94d161b0a064",
+    "de": "Moment",
+    "en": "moment",
+    "article": "der",
+    "exampleDE": "Einen Moment, bitte.",
+    "exampleEN": "One moment please."
+  },
+  "551c843b-ba25-e297-b62a-3ef45ca5ca13": {
+    "id": "551c843b-ba25-e297-b62a-3ef45ca5ca13",
+    "de": "Motor",
+    "en": "engine",
+    "article": "der",
+    "exampleDE": "Der Motor ist kaputt. Das Auto fährt nicht mehr.",
+    "exampleEN": "The engine is broken. The car no longer drives."
+  },
+  "d8c4e7b5-497a-8d4f-2923-d57b6f71d909": {
+    "id": "d8c4e7b5-497a-8d4f-2923-d57b6f71d909",
+    "de": "Motorroller",
+    "en": "scooter",
+    "article": "der",
+    "exampleDE": "Oskar fährt mit dem Motorroller zur Arbeit.",
+    "exampleEN": "Oskar goes to work with the scooter."
+  },
+  "ad75a726-6a89-df3b-726d-dfb04a16ceaf": {
+    "id": "ad75a726-6a89-df3b-726d-dfb04a16ceaf",
+    "de": "Müll",
+    "en": "rubbish",
+    "article": "der",
+    "exampleDE": "Bringst du bitte den Müll raus?",
+    "exampleEN": "Will you bring the garbage out?"
+  },
+  "88350bab-5087-016b-eb14-7379d2d64d7f": {
+    "id": "88350bab-5087-016b-eb14-7379d2d64d7f",
+    "de": "Messe",
+    "en": "fair",
+    "article": "die",
+    "exampleDE": "Kommst du mit zur Buchmesse nach Frankfurt?",
+    "exampleEN": "Are you coming to the book fair in Frankfurt?"
+  },
+  "9caef158-8f0a-435c-31ec-0b50d83f466c": {
+    "id": "9caef158-8f0a-435c-31ec-0b50d83f466c",
+    "de": "Messer",
+    "en": "knife",
+    "article": "das",
+    "exampleDE": "Das Messer schneidet nicht gut.",
+    "exampleEN": "The knife does not cut well."
+  },
+  "85015f14-0dbc-1084-3f5e-8acdac3e323d": {
+    "id": "85015f14-0dbc-1084-3f5e-8acdac3e323d",
+    "de": "Miete",
+    "en": "rental fee",
+    "article": "die",
+    "exampleDE": "Wie viel Miete bezahlst du für deine Wohnung?",
+    "exampleEN": "How much rent do you pay for your apartment?"
+  },
+  "c5a36cd6-318a-392c-0e03-22b8fbc1e2be": {
+    "id": "c5a36cd6-318a-392c-0e03-22b8fbc1e2be",
+    "de": "Mund",
+    "en": "mouth",
+    "article": "der",
+    "exampleDE": "Öffnen Sie bitte den Mund. Ich möchte in Ihren Hals sehen.",
+    "exampleEN": "Please open your mouth. I want to see in your throat."
+  },
+  "61c35151-9fc9-fd59-b7f0-03e32ad7e131": {
+    "id": "61c35151-9fc9-fd59-b7f0-03e32ad7e131",
+    "de": "Museum",
+    "en": "museum",
+    "article": "das",
+    "exampleDE": "Im Kunstmuseum gibt es eine neue Ausstellung.",
+    "exampleEN": "There is a new exhibition in the Kunstmuseum."
+  },
+  "9e7f26f7-66cd-dd2f-59a9-84b50cf5fe01": {
+    "id": "9e7f26f7-66cd-dd2f-59a9-84b50cf5fe01",
+    "de": "Musik",
+    "en": "music",
+    "article": "die",
+    "exampleDE": "Wie findest du die Musik?",
+    "exampleEN": "Do you like the music?"
+  },
+  "bb80f910-d74d-8d54-13a9-cdb0b85b3456": {
+    "id": "bb80f910-d74d-8d54-13a9-cdb0b85b3456",
+    "de": "Milch",
+    "en": "milk",
+    "article": "die",
+    "exampleDE": "Die Milch steht im Kühlschrank.",
+    "exampleEN": "The milk is in the fridge."
+  },
+  "bc9a5333-9f58-1ea6-7c07-b735b092f925": {
+    "id": "bc9a5333-9f58-1ea6-7c07-b735b092f925",
+    "de": "Mütze",
+    "en": "cap",
+    "article": "die",
+    "exampleDE": "Haben Sie rote Mützen?",
+    "exampleEN": "Do you have red caps?"
+  },
+  "1ff5b0b7-0ed5-e754-f6da-666e7193c29e": {
+    "id": "1ff5b0b7-0ed5-e754-f6da-666e7193c29e",
+    "de": "Mineralwasser",
+    "en": "mineral water",
+    "article": "das",
+    "exampleDE": "Ein Glas Mineralwasser, bitte.",
+    "exampleEN": "A glass of mineral water, please."
+  },
+  "250dfd54-5130-a2a6-d01b-31bb0d41f444": {
+    "id": "250dfd54-5130-a2a6-d01b-31bb0d41f444",
+    "de": "Nachbar",
+    "en": "male neighbor",
+    "article": "der",
+    "exampleDE": "Mein Nachbar kommt aus Brasilien.",
+    "exampleEN": "My neighbor comes from Brazil."
+  },
+  "465c65a9-0af1-6c70-4b62-4aa036a26ec9": {
+    "id": "465c65a9-0af1-6c70-4b62-4aa036a26ec9",
+    "de": "Nachbarin",
+    "en": "female neighbor",
+    "article": "die",
+    "exampleDE": "Meine Nachbarin ist Italienerin.",
+    "exampleEN": "My neighbor is an Italian."
+  },
+  "4549f4a9-944e-b807-6965-5ac27dd01cd2": {
+    "id": "4549f4a9-944e-b807-6965-5ac27dd01cd2",
+    "de": "Nachricht",
+    "en": "message",
+    "article": "die",
+    "exampleDE": "Ich sehe abends immer die Nachrichten im Fernsehen.",
+    "exampleEN": "I always watch the news on TV."
+  },
+  "27e29631-7c2b-b504-5f91-5ff3ce1f483b": {
+    "id": "27e29631-7c2b-b504-5f91-5ff3ce1f483b",
+    "de": "Mitarbeiter",
+    "en": "employee",
+    "article": "der",
+    "exampleDE": "Unsere Firma hat sieben Mitarbeiter.",
+    "exampleEN": "Our company has seven employees."
+  },
+  "60d483f4-d44f-c292-b13c-da8a853d1f4a": {
+    "id": "60d483f4-d44f-c292-b13c-da8a853d1f4a",
+    "de": "Mittagessen",
+    "en": "lunch",
+    "article": "das",
+    "exampleDE": "Um zwölf Uhr gibt es Mittagessen.",
+    "exampleEN": "At noon there is lunch."
+  },
+  "1cfc47eb-f827-7de1-6dc6-a08468ca736e": {
+    "id": "1cfc47eb-f827-7de1-6dc6-a08468ca736e",
+    "de": "Nähe",
+    "en": "proximity / closeness",
+    "article": "die",
+    "exampleDE": "Die Post ist in der Nähe vom Bahnhof.",
+    "exampleEN": "The post office is near the station."
+  },
+  "6000b3c8-dcb8-f8f2-167c-ee72f1c7fa0c": {
+    "id": "6000b3c8-dcb8-f8f2-167c-ee72f1c7fa0c",
+    "de": "Mitte",
+    "en": "center",
+    "article": "die",
+    "exampleDE": "Den Schrank stellen wir an die Wand, den Tisch in die Mitte.",
+    "exampleEN": "We put the cupboard on the wall, the table in the middle."
+  },
+  "9872cb19-6166-d443-687f-283d43b8cbbe": {
+    "id": "9872cb19-6166-d443-687f-283d43b8cbbe",
+    "de": "Name",
+    "en": "name",
+    "article": "der",
+    "exampleDE": "Wie ist Ihr Name?",
+    "exampleEN": "What's your name?"
+  },
+  "0272abd7-aad7-30bf-33d1-aae96e672dde": {
+    "id": "0272abd7-aad7-30bf-33d1-aae96e672dde",
+    "de": "Mittel",
+    "en": "medium",
+    "article": "das",
+    "exampleDE": "Haben Sie ein Mittel gegen Magenschmerzen?",
+    "exampleEN": "Do you have a remedy for stomach pain?"
+  },
+  "a91b7d1e-b5d0-d609-c8bb-d3d1a98544ae": {
+    "id": "a91b7d1e-b5d0-d609-c8bb-d3d1a98544ae",
+    "de": "Möbel",
+    "en": "furniture",
+    "article": "die",
+    "exampleDE": "Eure Möbel sind sehr schön.",
+    "exampleEN": "Your furniture is very nice."
+  },
+  "89b34d61-1d2a-58bc-dc4a-2c2b29c10a4e": {
+    "id": "89b34d61-1d2a-58bc-dc4a-2c2b29c10a4e",
+    "de": "Mobiltelefon",
+    "en": "mobile phone",
+    "article": "das",
+    "exampleDE": "Wie kann ich Sie erreichen? Haben Sie ein Mobiltelefon?",
+    "exampleEN": "How can I get in contact with you? Do you have a mobile phone?"
+  },
+  "8f816610-b427-6b6a-265b-3d848eb224b9": {
+    "id": "8f816610-b427-6b6a-265b-3d848eb224b9",
+    "de": "Natur",
+    "en": "nature",
+    "article": "die",
+    "exampleDE": "Ich bin gern draußen in der Natur.",
+    "exampleEN": "I like to be outdoors in nature."
+  },
+  "870f502b-f453-8215-0387-915e76b77fe8": {
+    "id": "870f502b-f453-8215-0387-915e76b77fe8",
+    "de": "Mode",
+    "en": "Fashion",
+    "article": "die",
+    "exampleDE": "Wie findest du die neue Mode?",
+    "exampleEN": "How do you like the new fashion?"
+  },
+  "9072c621-4a51-2317-7720-56f0de3e7dd1": {
+    "id": "9072c621-4a51-2317-7720-56f0de3e7dd1",
+    "de": "Ohr",
+    "en": "ear",
+    "article": "das",
+    "exampleDE": "Ich habe Ohrenschmerzen.",
+    "exampleEN": "My ears hurt."
+  },
+  "b546ccf9-4a91-cc92-17bd-1cae9e858c55": {
+    "id": "b546ccf9-4a91-cc92-17bd-1cae9e858c55",
+    "de": "Öl",
+    "en": "oil",
+    "article": "das",
+    "exampleDE": "Machen wir den Salat mit Öl?",
+    "exampleEN": "Do we make the salad with oil?"
+  },
+  "9ef471dc-f042-0e1f-4212-a74b2a1e84bd": {
+    "id": "9ef471dc-f042-0e1f-4212-a74b2a1e84bd",
+    "de": "Orange",
+    "en": "orange",
+    "article": "die",
+    "exampleDE": "Ich esse gern Orangen.",
+    "exampleEN": "I like to eat oranges."
+  },
+  "039eed27-f4ac-2705-67cc-97bc6ad556c1": {
+    "id": "039eed27-f4ac-2705-67cc-97bc6ad556c1",
+    "de": "Ordnung",
+    "en": "order",
+    "article": "die",
+    "exampleDE": "Er hat seine Hausaufgabe gut gemacht. Das ist alles in Ordnung.",
+    "exampleEN": "He did his homework well. That's all right."
+  },
+  "8adce779-8a10-5b9a-516f-765b129f1902": {
+    "id": "8adce779-8a10-5b9a-516f-765b129f1902",
+    "de": "Ort",
+    "en": "place",
+    "article": "der",
+    "exampleDE": "Vergessen Sie Ort und Datum nicht, wenn Sie einen Brief schreiben.",
+    "exampleEN": "Do not forget your location and date when you write a letter."
+  },
+  "03d5938d-5d54-2801-88ff-815776c07909": {
+    "id": "03d5938d-5d54-2801-88ff-815776c07909",
+    "de": "Note",
+    "en": "grade",
+    "article": "die",
+    "exampleDE": "Eva hat immer sehr gute Noten in Deutsch.",
+    "exampleEN": "Eva always has very good grades in German."
+  },
+  "bcc079cf-3f43-85f9-5015-e7a62f5375f9": {
+    "id": "bcc079cf-3f43-85f9-5015-e7a62f5375f9",
+    "de": "Notiz",
+    "en": "note",
+    "article": "die",
+    "exampleDE": "Schreib mir bitte eine Notiz.",
+    "exampleEN": "Please write me a note."
+  },
+  "8d0ef065-4d84-ce8b-e22e-e551277652dc": {
+    "id": "8d0ef065-4d84-ce8b-e22e-e551277652dc",
+    "de": "Paar",
+    "en": "Pair",
+    "article": "das",
+    "exampleDE": "Romeo und Julia sind ein Paar.",
+    "exampleEN": "Romeo and Juliet are a couple."
+  },
+  "c774545e-8628-d92d-af83-a8f9ae2b2ebb": {
+    "id": "c774545e-8628-d92d-af83-a8f9ae2b2ebb",
+    "de": "Nudel",
+    "en": "noodle",
+    "article": "die",
+    "exampleDE": "Möchten Sie lieber Reis oder Nudeln? - Lieber Nudeln, bitte.",
+    "exampleEN": "Would you rather have rice or noodles? - Dear noodles, please."
+  },
+  "25baae41-c323-97ea-fff7-346a9a901e47": {
+    "id": "25baae41-c323-97ea-fff7-346a9a901e47",
+    "de": "Nummer",
+    "en": "number",
+    "article": "die",
+    "exampleDE": "Sie haben Zimmer Nummer zwölf.",
+    "exampleEN": "They have room number twelve."
+  },
+  "d2b084b9-65d4-6322-5fbb-395fa93caf62": {
+    "id": "d2b084b9-65d4-6322-5fbb-395fa93caf62",
+    "de": "Paket",
+    "en": "package",
+    "article": "das",
+    "exampleDE": "Bringst du bitte das Paket zur Post?",
+    "exampleEN": "Will you bring the parcel to the post office?"
+  },
+  "a5903f56-a774-06b0-4eb0-3355ab1af17d": {
+    "id": "a5903f56-a774-06b0-4eb0-3355ab1af17d",
+    "de": "Papier",
+    "en": "paper",
+    "article": "das",
+    "exampleDE": "Hier sind Papier und Bleistift.",
+    "exampleEN": "Here are paper and pencil."
+  },
+  "97ed2c56-dee7-5033-2b43-6a9f7d3cf473": {
+    "id": "97ed2c56-dee7-5033-2b43-6a9f7d3cf473",
+    "de": "Papiere",
+    "en": "papers, documents",
+    "article": "die",
+    "exampleDE": "Haben Sie Ihre Papiere dabei?",
+    "exampleEN": "Do you have your papers?"
+  },
+  "6a437191-4408-64d0-356e-6a6d35744fdf": {
+    "id": "6a437191-4408-64d0-356e-6a6d35744fdf",
+    "de": "Parfüm",
+    "en": "perfume",
+    "article": "das",
+    "exampleDE": "Ich suche ein Parfum als Geschenk für meine Frau.",
+    "exampleEN": "I am looking for a perfume as a present for my wife."
+  },
+  "e923c325-c339-edf9-bb0f-8e675307df8f": {
+    "id": "e923c325-c339-edf9-bb0f-8e675307df8f",
+    "de": "Park",
+    "en": "park",
+    "article": "der",
+    "exampleDE": "Ich gehe gern im Park spazieren.",
+    "exampleEN": "I like walking in the park."
+  },
+  "0a02f819-4d1f-7ba4-d7e3-b1677dc08dd8": {
+    "id": "0a02f819-4d1f-7ba4-d7e3-b1677dc08dd8",
+    "de": "Partner",
+    "en": "male partner",
+    "article": "der",
+    "exampleDE": "Roland ist meine Partner.",
+    "exampleEN": "Roland is my partner."
+  },
+  "22937d16-212d-7f8a-d480-793c5f85b322": {
+    "id": "22937d16-212d-7f8a-d480-793c5f85b322",
+    "de": "Partnerin",
+    "en": "female partner",
+    "article": "die",
+    "exampleDE": "Veronika ist meine Partnerin.",
+    "exampleEN": "Veronika is my partner."
+  },
+  "f15aa92b-80f8-e776-1c9a-57d893109d2e": {
+    "id": "f15aa92b-80f8-e776-1c9a-57d893109d2e",
+    "de": "Party",
+    "en": "party",
+    "article": "die",
+    "exampleDE": "Heute Abend machen wir eine Party.",
+    "exampleEN": "Tonight we will have a party."
+  },
+  "42acdbf3-88b4-90e4-8135-ee4bf674a62e": {
+    "id": "42acdbf3-88b4-90e4-8135-ee4bf674a62e",
+    "de": "Pass",
+    "en": "passport",
+    "article": "der",
+    "exampleDE": "Am Flughafen brauchst du deinen Pass.",
+    "exampleEN": "At the airport you need your passport."
+  },
+  "e02ff40c-e83a-1275-fc58-2fa98ea8256c": {
+    "id": "e02ff40c-e83a-1275-fc58-2fa98ea8256c",
+    "de": "Obst",
+    "en": "fruit",
+    "article": "das",
+    "exampleDE": "Obst kaufe ich immer auf dem Markt. Heute kaufe ich Äpfel und Orangen.",
+    "exampleEN": "I always buy fruit in the market. Today I buy apples and oranges."
+  },
+  "1619b86a-1646-5b29-6423-6f4c9c05697f": {
+    "id": "1619b86a-1646-5b29-6423-6f4c9c05697f",
+    "de": "Passwort",
+    "en": "password",
+    "article": "das",
+    "exampleDE": "Bitte schreiben Sie Ihr Passwort.",
+    "exampleEN": "Please write your password."
+  },
+  "e31086ab-8b03-e573-3b66-708494271e02": {
+    "id": "e31086ab-8b03-e573-3b66-708494271e02",
+    "de": "Projekt",
+    "en": "project",
+    "article": "das",
+    "exampleDE": "Wir machen ein Projekt über Sehenswürdigkeiten in unserer Stadt.",
+    "exampleEN": "We make a project about sights in our city."
+  },
+  "82a74fa1-8e63-5f19-609c-22e551be4463": {
+    "id": "82a74fa1-8e63-5f19-609c-22e551be4463",
+    "de": "Pause",
+    "en": "pause",
+    "article": "die",
+    "exampleDE": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause.",
+    "exampleEN": "From 12.00 to 12.30 we have lunch break."
+  },
+  "d2bc0db6-54a4-65e9-22c2-18e398c1e013": {
+    "id": "d2bc0db6-54a4-65e9-22c2-18e398c1e013",
+    "de": "Prospekt",
+    "en": "brochure",
+    "article": "der",
+    "exampleDE": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.",
+    "exampleEN": "Please send me a brochure from your hotel."
+  },
+  "e014c7c5-f6a8-b6d5-4008-849dad679436": {
+    "id": "e014c7c5-f6a8-b6d5-4008-849dad679436",
+    "de": "Person",
+    "en": "person",
+    "article": "die",
+    "exampleDE": "Eintritt pro Person: 5 Euro.",
+    "exampleEN": "Entry per person: 5 Euro."
+  },
+  "81545826-edd8-e424-e396-adb493f7e11c": {
+    "id": "81545826-edd8-e424-e396-adb493f7e11c",
+    "de": "Pferd",
+    "en": "horse",
+    "article": "das",
+    "exampleDE": "Amira liebt Pferde. Sie reitet seit zehn Jahren.",
+    "exampleEN": "Amira loves horses. She has been riding for ten years."
+  },
+  "b2eaf50c-12cc-03b9-864e-a15044c55c1c": {
+    "id": "b2eaf50c-12cc-03b9-864e-a15044c55c1c",
+    "de": "Pflanze",
+    "en": "plant",
+    "article": "die",
+    "exampleDE": "Können Sie sich bitte um unsere Pflanzen kümmern? Wir sind nächste Woche im Urlaub.",
+    "exampleEN": "Can you please take care of our plants? We are next week on vacation."
+  },
+  "5fc1b03c-3001-f5c5-9b2b-13711f313f37": {
+    "id": "5fc1b03c-3001-f5c5-9b2b-13711f313f37",
+    "de": "Prüfung",
+    "en": "exam",
+    "article": "die",
+    "exampleDE": "Ich habe die Prüfung bestanden.",
+    "exampleEN": "I passed the exam."
+  },
+  "76ef3d00-f45f-f506-1dc8-8eb26be8c51d": {
+    "id": "76ef3d00-f45f-f506-1dc8-8eb26be8c51d",
+    "de": "Pullover",
+    "en": "pullover",
+    "article": "der",
+    "exampleDE": "Ich muss mir einen Pullover kaufen.",
+    "exampleEN": "I need to buy a sweater."
+  },
+  "14c3931f-dab7-b251-77a8-7e88941e22c0": {
+    "id": "14c3931f-dab7-b251-77a8-7e88941e22c0",
+    "de": "Pizza",
+    "en": "pizza",
+    "article": "die",
+    "exampleDE": "Mein Lieblingsessen ist Pizza.",
+    "exampleEN": "My favorite food is pizza."
+  },
+  "23a7119c-041e-a016-8fa7-6b0c18f06f33": {
+    "id": "23a7119c-041e-a016-8fa7-6b0c18f06f33",
+    "de": "Plakat",
+    "en": "poster",
+    "article": "das",
+    "exampleDE": "Wir machen im Unterricht ein Plakat zum Thema „Essen und Trinken“.",
+    "exampleEN": "We are teaching a poster about the topic \"food and drink\"."
+  },
+  "292cd8f4-22a2-ee27-3677-3d896023ea4e": {
+    "id": "292cd8f4-22a2-ee27-3677-3d896023ea4e",
+    "de": "Plan",
+    "en": "plan",
+    "article": "der",
+    "exampleDE": "Ich kaufe mir einen Stadtplan.",
+    "exampleEN": "I buy a map."
+  },
+  "5f4b6c32-d108-5451-eb79-780049952bd2": {
+    "id": "5f4b6c32-d108-5451-eb79-780049952bd2",
+    "de": "Platz",
+    "en": "place",
+    "article": "der",
+    "exampleDE": "Hier ist noch ein Platz frei.",
+    "exampleEN": "Here is still a place free."
+  },
+  "f03ca972-fb12-282b-5f7b-aab748f14140": {
+    "id": "f03ca972-fb12-282b-5f7b-aab748f14140",
+    "de": "Qualität",
+    "en": "quality",
+    "article": "die",
+    "exampleDE": "Dieser Fernseher hat eine gute Qualität.",
+    "exampleEN": "This TV has a good quality."
+  },
+  "e7633ad0-4ae3-6630-fc46-b5e9fbfb283e": {
+    "id": "e7633ad0-4ae3-6630-fc46-b5e9fbfb283e",
+    "de": "Quiz",
+    "en": "quiz",
+    "article": "das",
+    "exampleDE": "Er schaut gern Quizsendungen an.",
+    "exampleEN": "He likes to watch quizzes."
+  },
+  "086c8eb4-bf8b-d6b7-53a0-8b5e6fb89d4e": {
+    "id": "086c8eb4-bf8b-d6b7-53a0-8b5e6fb89d4e",
+    "de": "Polizei",
+    "en": "police",
+    "article": "die",
+    "exampleDE": "Rufen Sie die Polizei!",
+    "exampleEN": "Call the police!"
+  },
+  "d5696e6d-749c-74de-e1a0-7d7658cdff98": {
+    "id": "d5696e6d-749c-74de-e1a0-7d7658cdff98",
+    "de": "Pommes frites",
+    "en": "French fries",
+    "article": "die",
+    "exampleDE": "Die Kinder essen Bratwurst mit Pommes frites.",
+    "exampleEN": "The children eat bratwurst with fries."
+  },
+  "ace009de-6a76-9c99-a553-7dfa7973c54a": {
+    "id": "ace009de-6a76-9c99-a553-7dfa7973c54a",
+    "de": "Radio",
+    "en": "radio",
+    "article": "das",
+    "exampleDE": "Ich höre im Auto gern Radio.",
+    "exampleEN": "I like listening to the radio in the car."
+  },
+  "bf9249f8-b6b4-5fc3-0557-6eb4ef53f95d": {
+    "id": "bf9249f8-b6b4-5fc3-0557-6eb4ef53f95d",
+    "de": "Portion",
+    "en": "portion",
+    "article": "die",
+    "exampleDE": "Ich nehme eine kleine Portion Eis.",
+    "exampleEN": "I take a small portion of ice."
+  },
+  "240b104a-9c0f-23eb-37aa-3a416c7b11de": {
+    "id": "240b104a-9c0f-23eb-37aa-3a416c7b11de",
+    "de": "Post",
+    "en": "post",
+    "article": "die",
+    "exampleDE": "Entschuldigung, wo ist die Post?",
+    "exampleEN": "Excuse me, where is the post office?"
+  },
+  "4369f12f-4013-35ab-36d3-bdec05b64a58": {
+    "id": "4369f12f-4013-35ab-36d3-bdec05b64a58",
+    "de": "Poster",
+    "en": "poster",
+    "article": "das",
+    "exampleDE": "Das Poster hängt über dem Bett.",
+    "exampleEN": "The poster hangs over the bed."
+  },
+  "99536ea0-acab-7488-ad01-c8e7090832df": {
+    "id": "99536ea0-acab-7488-ad01-c8e7090832df",
+    "de": "Rathaus",
+    "en": "town hall",
+    "article": "das",
+    "exampleDE": "Das Formular bekommen Sie im Rathaus.",
+    "exampleEN": "You will receive the form in the town hall."
+  },
+  "6e692a79-4b45-57a4-0c0f-0374d6b732fa": {
+    "id": "6e692a79-4b45-57a4-0c0f-0374d6b732fa",
+    "de": "Postkarte",
+    "en": "postcard",
+    "article": "die",
+    "exampleDE": "Schreibst du mir eine Postkarte aus Kanada?",
+    "exampleEN": "Do you write me a postcard from Canada?"
+  },
+  "e9057bc8-4c3a-973b-8529-d2cedaccbcfc": {
+    "id": "e9057bc8-4c3a-973b-8529-d2cedaccbcfc",
+    "de": "Postleitzahl",
+    "en": "post code",
+    "article": "die",
+    "exampleDE": "Wie ist Ihre Postleitzahl?",
+    "exampleEN": "What is your postal code?"
+  },
+  "51cb4f0f-b88f-8418-d69f-8db6c5ed931e": {
+    "id": "51cb4f0f-b88f-8418-d69f-8db6c5ed931e",
+    "de": "Rätsel",
+    "en": "mystery",
+    "article": "das",
+    "exampleDE": "Das Rätsel ist schwierig! Ich weiß die Antwort nicht.",
+    "exampleEN": "The riddle is difficult! I do not know the answer."
+  },
+  "eeff9c65-9feb-6ece-6f0d-eeb8f83f09e6": {
+    "id": "eeff9c65-9feb-6ece-6f0d-eeb8f83f09e6",
+    "de": "Praktikum",
+    "en": "internship",
+    "article": "das",
+    "exampleDE": "Ich mache ein Praktikum bei Siemens.",
+    "exampleEN": "I am doing an internship at Siemens."
+  },
+  "a696843b-f34f-7069-23f7-2e9292d2bd0b": {
+    "id": "a696843b-f34f-7069-23f7-2e9292d2bd0b",
+    "de": "Raum",
+    "en": "room",
+    "article": "der",
+    "exampleDE": "Der Unterricht findet heute in Raum 332 statt.",
+    "exampleEN": "The lesson is now held in Room 332."
+  },
+  "c0322fdb-defb-4182-9e94-050ea08371ec": {
+    "id": "c0322fdb-defb-4182-9e94-050ea08371ec",
+    "de": "Praxis",
+    "en": "practice",
+    "article": "die",
+    "exampleDE": "Unsere Praxis ist ab acht Uhr geöffnet. Frau Doktor Weiß hat ab neun Uhr Sprechstunde.",
+    "exampleEN": "Our practice is open from eight o'clock. Frau Doctor Weiß has office hours from nine o'clock."
+  },
+  "37b1eaf1-9ef2-856f-86c3-c9c7316fcbbe": {
+    "id": "37b1eaf1-9ef2-856f-86c3-c9c7316fcbbe",
+    "de": "Rechnung",
+    "en": "bill",
+    "article": "die",
+    "exampleDE": "Schicken Sie die Rechnung an mich.",
+    "exampleEN": "Send the bill to me."
+  },
+  "33b23c27-6cdd-2996-fb55-22ff539c1af9": {
+    "id": "33b23c27-6cdd-2996-fb55-22ff539c1af9",
+    "de": "Preis",
+    "en": "price",
+    "article": "der",
+    "exampleDE": "Die Preise sind hier viel höher als bei uns.",
+    "exampleEN": "The prices are much higher here than with us."
+  },
+  "167defca-e34f-88d3-a3e3-fcc72fcaa8e9": {
+    "id": "167defca-e34f-88d3-a3e3-fcc72fcaa8e9",
+    "de": "Regen",
+    "en": "rain",
+    "article": "der",
+    "exampleDE": "Bei Regen gehe ich nicht aus dem Haus.",
+    "exampleEN": "I do not leave the house in the rain."
+  },
+  "acb3611e-e9fa-58ae-9904-1c2bb775f549": {
+    "id": "acb3611e-e9fa-58ae-9904-1c2bb775f549",
+    "de": "Problem",
+    "en": "problem",
+    "article": "das",
+    "exampleDE": "Ich habe ein Problem. Können Sie mir bitte helfen?",
+    "exampleEN": "I have a problem. Could you please help me?"
+  },
+  "9dcb2eb1-0442-2a0d-84ee-9a2c98dd06aa": {
+    "id": "9dcb2eb1-0442-2a0d-84ee-9a2c98dd06aa",
+    "de": "Reifen",
+    "en": "tire",
+    "article": "der",
+    "exampleDE": "Ich brauche neue Reifen für mein Auto.",
+    "exampleEN": "I need new tires for my car."
+  },
+  "d8ad157b-664e-3cbb-420d-6d7d32a40e8f": {
+    "id": "d8ad157b-664e-3cbb-420d-6d7d32a40e8f",
+    "de": "Produkt",
+    "en": "product",
+    "article": "das",
+    "exampleDE": "Unsere Produkte haben eine sehr hohe Qualität.",
+    "exampleEN": "Our products have a very high quality."
+  },
+  "3c5774c3-14a6-2410-a3db-4da9c4c4d098": {
+    "id": "3c5774c3-14a6-2410-a3db-4da9c4c4d098",
+    "de": "Reihe",
+    "en": "line / row / queue",
+    "article": "die",
+    "exampleDE": "Ich habe Karten für das Konzert. Wir sitzen in der dritten Reihe.",
+    "exampleEN": "I have tickets for the concert. We are sitting in the third row."
+  },
+  "e30b904e-67e7-d372-1be8-2daa66f36488": {
+    "id": "e30b904e-67e7-d372-1be8-2daa66f36488",
+    "de": "Programm",
+    "en": "program",
+    "article": "das",
+    "exampleDE": "Dieses Programm im Radio interessiert mich nicht.",
+    "exampleEN": "I am not interested in this radio program."
+  },
+  "20e8ceeb-da41-cb4c-8228-eea07861dff9": {
+    "id": "20e8ceeb-da41-cb4c-8228-eea07861dff9",
+    "de": "Reinigung",
+    "en": "cleaning",
+    "article": "die",
+    "exampleDE": "Bringst du bitte die Bluse in die Reinigung? Man darf sie nicht in der Waschmaschine waschen.",
+    "exampleEN": "Will you bring the blouse into the cleaning? You can not wash them in the washing machine."
+  },
+  "9e9f74e8-9652-cc58-ff5c-d8672ea56f7a": {
+    "id": "9e9f74e8-9652-cc58-ff5c-d8672ea56f7a",
+    "de": "Reis",
+    "en": "rice",
+    "article": "der",
+    "exampleDE": "Ich esse gern Reis mit Gemüse und Fisch.",
+    "exampleEN": "I like to eat rice with vegetables and fish."
+  },
+  "2c932f06-26ea-ae6f-c60a-e10ae2078b08": {
+    "id": "2c932f06-26ea-ae6f-c60a-e10ae2078b08",
+    "de": "Reise",
+    "en": "travel",
+    "article": "die",
+    "exampleDE": "Wir machen eine Reise nach Österreich.",
+    "exampleEN": "We make a trip to Austria."
+  },
+  "e94a07c1-22b1-d047-d5b8-c73ecfefbc9a": {
+    "id": "e94a07c1-22b1-d047-d5b8-c73ecfefbc9a",
+    "de": "Reisebüro",
+    "en": "travel agency",
+    "article": "das",
+    "exampleDE": "Wir buchen die Reise im Reisebüro.",
+    "exampleEN": "We book the trip in the travel agency."
+  },
+  "1cdb6f78-ed06-daf5-a4d3-2ce81d723ddf": {
+    "id": "1cdb6f78-ed06-daf5-a4d3-2ce81d723ddf",
+    "de": "Reiseführer",
+    "en": "travel guide",
+    "article": "der",
+    "exampleDE": "Ich kaufe mir einen Reiseführer von Berlin.",
+    "exampleEN": "I buy a guide from Berlin."
+  },
+  "5c2e6de6-98b2-b251-f6bf-79bb5b8a1f99": {
+    "id": "5c2e6de6-98b2-b251-f6bf-79bb5b8a1f99",
+    "de": "Rundgang",
+    "en": "round tour / circut",
+    "article": "der",
+    "exampleDE": "Der Rundgang durch das Schloss beginnt in wenigen Minuten.",
+    "exampleEN": "The tour of the castle begins in a few minutes."
+  },
+  "6d5a07b5-54f7-775e-9f71-f34153e0d625": {
+    "id": "6d5a07b5-54f7-775e-9f71-f34153e0d625",
+    "de": "Sache",
+    "en": "thing",
+    "article": "die",
+    "exampleDE": "Ihr könnt eure Sachen im Hotel lassen.",
+    "exampleEN": "You can leave your stuff in the hotel."
+  },
+  "50cc82ec-e50a-14ba-e3c7-d2dfa7928071": {
+    "id": "50cc82ec-e50a-14ba-e3c7-d2dfa7928071",
+    "de": "Saft",
+    "en": "juice",
+    "article": "der",
+    "exampleDE": "Möchtest du einen Apfelsaft?",
+    "exampleEN": "Would you like an apple juice?"
+  },
+  "b9c5e661-eabd-da10-997b-18148200868a": {
+    "id": "b9c5e661-eabd-da10-997b-18148200868a",
+    "de": "Rentner",
+    "en": "male pensioner",
+    "article": "der",
+    "exampleDE": "Mein Onkel arbeitet nicht mehr. Er ist Rentner.",
+    "exampleEN": "My uncle is no longer working. He is a pensioner."
+  },
+  "d466361b-f3dc-d556-0220-d1517a72505e": {
+    "id": "d466361b-f3dc-d556-0220-d1517a72505e",
+    "de": "Rentnerin",
+    "en": "female pensioner",
+    "article": "die",
+    "exampleDE": "Mein Tante arbeitet nicht mehr. Sie ist Rentnerin.",
+    "exampleEN": "My aunt is no longer working. She is a pensioner."
+  },
+  "e92f75e8-e9d3-96a3-95a1-61cef9312a7c": {
+    "id": "e92f75e8-e9d3-96a3-95a1-61cef9312a7c",
+    "de": "Salat",
+    "en": "salad",
+    "article": "der",
+    "exampleDE": "Wie schmeckt dir der Salat?",
+    "exampleEN": "How do you like the salad?"
+  },
+  "7b95a92a-0248-1e2b-e77b-2a3fbbc2f200": {
+    "id": "7b95a92a-0248-1e2b-e77b-2a3fbbc2f200",
+    "de": "Salz",
+    "en": "salt",
+    "article": "das",
+    "exampleDE": "Entschuldigung, kann ich bitte Salz haben?",
+    "exampleEN": "Excuse me, can I have salt?"
+  },
+  "1c7feeba-d228-eb2b-c33f-4ed1689f750a": {
+    "id": "1c7feeba-d228-eb2b-c33f-4ed1689f750a",
+    "de": "Reparatur",
+    "en": "repair",
+    "article": "die",
+    "exampleDE": "Die Reparatur ist sehr teuer.",
+    "exampleEN": "The repair is very expensive."
+  },
+  "9f5551c5-c802-cda4-6590-a47b704b67ca": {
+    "id": "9f5551c5-c802-cda4-6590-a47b704b67ca",
+    "de": "Satz",
+    "en": "sentence",
+    "article": "der",
+    "exampleDE": "Den letzten Satz verstehe ich nicht.",
+    "exampleEN": "I do not understand the last sentence."
+  },
+  "a1df6477-817e-c50b-e903-0745d952ec22": {
+    "id": "a1df6477-817e-c50b-e903-0745d952ec22",
+    "de": "Rest",
+    "en": "rest",
+    "article": "der",
+    "exampleDE": "Hier sind 50 Euro. Den Rest gebe ich dir später.",
+    "exampleEN": "Here are 50 euros. I'll give you the rest later."
+  },
+  "ec77021d-2061-eccc-f20e-2e5234fe29b6": {
+    "id": "ec77021d-2061-eccc-f20e-2e5234fe29b6",
+    "de": "Restaurant",
+    "en": "restaurant",
+    "article": "das",
+    "exampleDE": "Wir essen heute in einem Restaurant.",
+    "exampleEN": "Today we eat in a restaurant."
+  },
+  "2e889ee9-4009-b787-8389-51d1f5f126a9": {
+    "id": "2e889ee9-4009-b787-8389-51d1f5f126a9",
+    "de": "Rezept",
+    "en": "recipe",
+    "article": "das",
+    "exampleDE": "Dieser Kuchen schmeckt super! Kannst du mir bitte das Rezept geben?",
+    "exampleEN": "This cake tastes great! Can you give me the recipe, please?"
+  },
+  "3c0ae6bb-9d3e-3f01-c4ad-2bdace691124": {
+    "id": "3c0ae6bb-9d3e-3f01-c4ad-2bdace691124",
+    "de": "Schalter",
+    "en": "switch",
+    "article": "der",
+    "exampleDE": "Gehen Sie bitte zum Schalter drei!",
+    "exampleEN": "Please go to the switch three!"
+  },
+  "e219f548-53e7-911a-ea6c-7f00a7954b83": {
+    "id": "e219f548-53e7-911a-ea6c-7f00a7954b83",
+    "de": "Rezeption",
+    "en": "reception",
+    "article": "die",
+    "exampleDE": "Geben Sie bitte den Schlüssel an der Rezeption ab.",
+    "exampleEN": "Please leave the key at the reception."
+  },
+  "aca8a453-6fe6-3b28-0bd0-39280a058a54": {
+    "id": "aca8a453-6fe6-3b28-0bd0-39280a058a54",
+    "de": "Rind",
+    "en": "beef",
+    "article": "das",
+    "exampleDE": "Ich esse nur Fleisch vom Rind.",
+    "exampleEN": "I only eat beef."
+  },
+  "abd22b25-f376-4f2c-1174-231af898da4f": {
+    "id": "abd22b25-f376-4f2c-1174-231af898da4f",
+    "de": "Ring",
+    "en": "ring",
+    "article": "der",
+    "exampleDE": "Ich habe meinen Ring verloren.",
+    "exampleEN": "I lost my ring."
+  },
+  "60fe3464-dc33-5c2c-5e4e-0945ddb7c2fd": {
+    "id": "60fe3464-dc33-5c2c-5e4e-0945ddb7c2fd",
+    "de": "Rock",
+    "en": "skirt",
+    "article": "der",
+    "exampleDE": "Der Rock ist zu eng.",
+    "exampleEN": "The skirt is too tight."
+  },
+  "92a42dc9-21c5-4c04-c7f9-ff9bb733476a": {
+    "id": "92a42dc9-21c5-4c04-c7f9-ff9bb733476a",
+    "de": "Schere",
+    "en": "scissors",
+    "article": "die",
+    "exampleDE": "Die Schere schneidet nicht gut. Hast du eine andere?",
+    "exampleEN": "The scissors do not work well. Do you have another?"
+  },
+  "0bff5b96-8e0d-c0cf-0fd8-5ec238cfd357": {
+    "id": "0bff5b96-8e0d-c0cf-0fd8-5ec238cfd357",
+    "de": "Rose",
+    "en": "rose",
+    "article": "die",
+    "exampleDE": "Er schenkt seiner Freundin rote Rosen zum Geburtstag.",
+    "exampleEN": "He gives his girlfriends red roses for his birthday."
+  },
+  "b8f50b08-cced-a41e-f711-7d9f03d18164": {
+    "id": "b8f50b08-cced-a41e-f711-7d9f03d18164",
+    "de": "Rücken",
+    "en": "back",
+    "article": "der",
+    "exampleDE": "Mein Rücken tut mir weh.",
+    "exampleEN": "My back hurts."
+  },
+  "aa013436-62cb-5fd9-1960-29f48472689e": {
+    "id": "aa013436-62cb-5fd9-1960-29f48472689e",
+    "de": "Schiff",
+    "en": "ship",
+    "article": "das",
+    "exampleDE": "Wir fahren mit dem Schiff von Basel nach Köln.",
+    "exampleEN": "We take the boat from Basel to Cologne."
+  },
+  "789fa964-c2da-0c74-647b-4cad953954d2": {
+    "id": "789fa964-c2da-0c74-647b-4cad953954d2",
+    "de": "Rucksack",
+    "en": "backpack",
+    "article": "der",
+    "exampleDE": "Ich nehme lieber einen Rucksack als einen Koffer mit.",
+    "exampleEN": "I'd rather take a backpack than a suitcase."
+  },
+  "e8567273-e173-5c14-1221-6428b1b4da9e": {
+    "id": "e8567273-e173-5c14-1221-6428b1b4da9e",
+    "de": "Schild",
+    "en": "sign",
+    "article": "das",
+    "exampleDE": "Haben Sie das Schild nicht gesehen?",
+    "exampleEN": "Have not you seen the sign?"
+  },
+  "b60cd25b-be12-9073-532e-8b6bd32ccc8a": {
+    "id": "b60cd25b-be12-9073-532e-8b6bd32ccc8a",
+    "de": "Ruhe",
+    "en": "rest",
+    "article": "die",
+    "exampleDE": "Ruhe, bitte! Hier in der Bibliothek darf man nicht laut sprechen.",
+    "exampleEN": "Silence Please! Here in the library one can not speak aloud."
+  },
+  "af3c20fa-d097-566b-dab6-6e8fb31a185e": {
+    "id": "af3c20fa-d097-566b-dab6-6e8fb31a185e",
+    "de": "Schirm",
+    "en": "umbrella",
+    "article": "der",
+    "exampleDE": "Nimm den Schirm mit, es regnet.",
+    "exampleEN": "Take the umbrella, it's raining."
+  },
+  "52ee14c1-aa22-c57e-760c-60feeab56e36": {
+    "id": "52ee14c1-aa22-c57e-760c-60feeab56e36",
+    "de": "Schlafzimmer",
+    "en": "bedroom",
+    "article": "das",
+    "exampleDE": "Hier ist das Schlafzimmer.",
+    "exampleEN": "Here is the bedroom."
+  },
+  "5bead6f1-75d9-1c05-cab0-f543f36c397d": {
+    "id": "5bead6f1-75d9-1c05-cab0-f543f36c397d",
+    "de": "Schüler",
+    "en": "male student / pupil",
+    "article": "der",
+    "exampleDE": "In meinem Kurs sind acht Schülerinnen und fünf Schüler.",
+    "exampleEN": "In my course are eight students and five students."
+  },
+  "9f7851ed-07b0-5678-191a-77c433ddb116": {
+    "id": "9f7851ed-07b0-5678-191a-77c433ddb116",
+    "de": "Schülerin",
+    "en": "female student / pupil",
+    "article": "die",
+    "exampleDE": "In meinem Kurs sind drei Schülerinnen.",
+    "exampleEN": "In my course are three schoolgirls."
+  },
+  "e03e9121-d413-9702-0da5-9c44e38f25dc": {
+    "id": "e03e9121-d413-9702-0da5-9c44e38f25dc",
+    "de": "Schwein",
+    "en": "pig",
+    "article": "das",
+    "exampleDE": "Ich esse kein Schweinefleisch.",
+    "exampleEN": "I do not eat pork."
+  },
+  "ec61645d-b60c-81da-e815-e1396fd544a5": {
+    "id": "ec61645d-b60c-81da-e815-e1396fd544a5",
+    "de": "Schloss",
+    "en": "lock / castle",
+    "article": "das",
+    "exampleDE": "Am Wochenende besichtigen wir Schloss Neuschwanstein.",
+    "exampleEN": "On the weekend we visit Neuschwanstein Castle."
+  },
+  "5e6a3365-d80b-a0c5-f20d-8725390e5d2f": {
+    "id": "5e6a3365-d80b-a0c5-f20d-8725390e5d2f",
+    "de": "Schwimmbad",
+    "en": "pool",
+    "article": "das",
+    "exampleDE": "Kommst du mit ins Schwimmbad?",
+    "exampleEN": "Are you coming to the pool?"
+  },
+  "be614ecf-3767-475d-7d09-053b7919d719": {
+    "id": "be614ecf-3767-475d-7d09-053b7919d719",
+    "de": "Schluss",
+    "en": "ending / the end",
+    "article": "der",
+    "exampleDE": "Zum Schluss nochmals herzlichen Dank.",
+    "exampleEN": "Finally, thank you very much once again."
+  },
+  "3fc2f522-d7a5-f9fe-3404-02d7de1c4981": {
+    "id": "3fc2f522-d7a5-f9fe-3404-02d7de1c4981",
+    "de": "See (Teich)",
+    "en": "lake (pond)",
+    "article": "der",
+    "exampleDE": "Morgen fahren wir mal an einen See schwimmen.",
+    "exampleEN": "Tomorrow we'll go to a lake."
+  },
+  "b3260f2d-161c-dd74-a8ac-cb01273c5b00": {
+    "id": "b3260f2d-161c-dd74-a8ac-cb01273c5b00",
+    "de": "Schlüssel",
+    "en": "key",
+    "article": "der",
+    "exampleDE": "Ich gebe Ihnen noch den Zimmerschlüssel.",
+    "exampleEN": "I'll give you the room key."
+  },
+  "05c61592-9afc-fc09-94ad-afa6ccf3475a": {
+    "id": "05c61592-9afc-fc09-94ad-afa6ccf3475a",
+    "de": "See (Meer)",
+    "en": "sea",
+    "article": "die",
+    "exampleDE": "Die See ist heute ruhig.",
+    "exampleEN": "The sea is quiet today."
+  },
+  "c9cb552a-fecc-ea2b-7117-627f2b42f2da": {
+    "id": "c9cb552a-fecc-ea2b-7117-627f2b42f2da",
+    "de": "Schmerz",
+    "en": "pain",
+    "article": "der",
+    "exampleDE": "Haben Sie Schmerzen?",
+    "exampleEN": "Do you have pain?"
+  },
+  "5f12d205-503d-a78b-d932-906af75c9d2d": {
+    "id": "5f12d205-503d-a78b-d932-906af75c9d2d",
+    "de": "Schnee",
+    "en": "snow",
+    "article": "der",
+    "exampleDE": "In den Bergen liegt viel Schnee.",
+    "exampleEN": "There is lots of snow in the mountains."
+  },
+  "27099513-a3d6-a30b-9623-5881cd6cbd58": {
+    "id": "27099513-a3d6-a30b-9623-5881cd6cbd58",
+    "de": "Sehenswürdigkeit",
+    "en": "point of interest",
+    "article": "die",
+    "exampleDE": "Welche Sehenswürdigkeiten gibt es in Frankfurt?",
+    "exampleEN": "What sights are there in Frankfurt?"
+  },
+  "452989fb-576e-aa2b-7eb1-88a5e9c30390": {
+    "id": "452989fb-576e-aa2b-7eb1-88a5e9c30390",
+    "de": "Seife",
+    "en": "soap",
+    "article": "die",
+    "exampleDE": "Hier gibt es keine Seife.",
+    "exampleEN": "There is no soap."
+  },
+  "bd3379d5-62b7-e9ac-4eaf-36cf83fab552": {
+    "id": "bd3379d5-62b7-e9ac-4eaf-36cf83fab552",
+    "de": "Schokolade",
+    "en": "chocolate",
+    "article": "die",
+    "exampleDE": "Julia liebt Schokolade.",
+    "exampleEN": "Julia loves chocolate."
+  },
+  "42fdec40-df38-be00-f9f4-357533c5a927": {
+    "id": "42fdec40-df38-be00-f9f4-357533c5a927",
+    "de": "Schrank",
+    "en": "cupboard / closet",
+    "article": "der",
+    "exampleDE": "Die Gläser stehen im Schrank.",
+    "exampleEN": "The glasses are in the cupboard."
+  },
+  "30fc1031-e6b9-675f-b063-a68915a9d1cb": {
+    "id": "30fc1031-e6b9-675f-b063-a68915a9d1cb",
+    "de": "Seite",
+    "en": "page",
+    "article": "die",
+    "exampleDE": "Öffnen Sie das Kursbuch auf Seite 20.",
+    "exampleEN": "Open the course book on page 20."
+  },
+  "407d7bfb-6cde-ed79-0ee5-d45437d0be6e": {
+    "id": "407d7bfb-6cde-ed79-0ee5-d45437d0be6e",
+    "de": "Sendung",
+    "en": "program / show / broadcast",
+    "article": "die",
+    "exampleDE": "Welche Sendungen schaust du gern an? - Ich mag Sportsendungen.",
+    "exampleEN": "What do you like to watch? - I like sports."
+  },
+  "f7c508c1-ad15-3fa0-50a4-d2a06b09ffe7": {
+    "id": "f7c508c1-ad15-3fa0-50a4-d2a06b09ffe7",
+    "de": "Schuh",
+    "en": "shoe",
+    "article": "der",
+    "exampleDE": "Zieh die Schuhe aus!",
+    "exampleEN": "Take your shoes off!"
+  },
+  "8feb98bc-3bdb-8c13-82b5-947dcfb19715": {
+    "id": "8feb98bc-3bdb-8c13-82b5-947dcfb19715",
+    "de": "Service",
+    "en": "service",
+    "article": "der",
+    "exampleDE": "Ich bin mit dem Service in der Werkstatt sehr zufrieden.",
+    "exampleEN": "I am very satisfied with the service in the workshop."
+  },
+  "0443eaf7-10f9-0621-00ec-356a5b25c499": {
+    "id": "0443eaf7-10f9-0621-00ec-356a5b25c499",
+    "de": "Schule",
+    "en": "school",
+    "article": "die",
+    "exampleDE": "Meine Tochter geht schon in die Schule.",
+    "exampleEN": "My daughter is already going to school."
+  },
+  "4a130ba9-2f35-573a-4412-0b29daf43afd": {
+    "id": "4a130ba9-2f35-573a-4412-0b29daf43afd",
+    "de": "Sport",
+    "en": "sport",
+    "article": "der",
+    "exampleDE": "Ich mache viel Sport.",
+    "exampleEN": "I do a lot of sport."
+  },
+  "eb406c35-0b85-2263-79f2-bce960700f85": {
+    "id": "eb406c35-0b85-2263-79f2-bce960700f85",
+    "de": "Situation",
+    "en": "situation",
+    "article": "die",
+    "exampleDE": "Ich bin in einer schwierigen Situation. Ich weiß nicht, was ich tun soll.",
+    "exampleEN": "I'm in a difficult situation. I do not know what to do."
+  },
+  "159f8040-3b5f-764e-bcc3-e21531cb5287": {
+    "id": "159f8040-3b5f-764e-bcc3-e21531cb5287",
+    "de": "Sportplatz",
+    "en": "sports ground",
+    "article": "der",
+    "exampleDE": "Das Fußballtraining ist um 17 Uhr auf dem Sportplatz.",
+    "exampleEN": "The football training is at 5 pm on the sports field."
+  },
+  "c2d1e849-2bbe-b2ef-bae1-99e9a89cee21": {
+    "id": "c2d1e849-2bbe-b2ef-bae1-99e9a89cee21",
+    "de": "Sprache",
+    "en": "language",
+    "article": "die",
+    "exampleDE": "Welche Sprachen sprechen Sie?",
+    "exampleEN": "Which languages do you speak?"
+  },
+  "a869f011-4fb5-a6a7-6189-45722e39fb59": {
+    "id": "a869f011-4fb5-a6a7-6189-45722e39fb59",
+    "de": "Ski",
+    "en": "ski",
+    "article": "der",
+    "exampleDE": "Gehen wir am Wochenende Ski fahren?",
+    "exampleEN": "Are we going skiing on weekends?"
+  },
+  "49521dd0-4b5b-6f95-562a-8aea65aaea1e": {
+    "id": "49521dd0-4b5b-6f95-562a-8aea65aaea1e",
+    "de": "Sprechstunde",
+    "en": "consultation hour",
+    "article": "die",
+    "exampleDE": "Frau Doktor Weiß hat von 9:00 bis 12:30 Uhr Sprechstunde.",
+    "exampleEN": "Frau Doktor Weiß has office hours from 9:00 am to 12:30 pm."
+  },
+  "da956fa2-d3d3-49cc-b3e8-cec62d2f39a7": {
+    "id": "da956fa2-d3d3-49cc-b3e8-cec62d2f39a7",
+    "de": "Stadt",
+    "en": "city",
+    "article": "die",
+    "exampleDE": "Heidelberg ist eine alte Stadt.",
+    "exampleEN": "Heidelberg is an old city."
+  },
+  "4d711aaf-636d-77d6-f4e1-5ea307302259": {
+    "id": "4d711aaf-636d-77d6-f4e1-5ea307302259",
+    "de": "Sofa",
+    "en": "sofa",
+    "article": "das",
+    "exampleDE": "Das Sofa ist bequem.",
+    "exampleEN": "The sofa is comfortable."
+  },
+  "04f899c6-d5c2-2668-a1e2-769d0394ca56": {
+    "id": "04f899c6-d5c2-2668-a1e2-769d0394ca56",
+    "de": "Stadtplan",
+    "en": "map / city map",
+    "article": "der",
+    "exampleDE": "Haben Sie einen Stadtplan von Salzburg?",
+    "exampleEN": "Do you have a map of Salzburg?"
+  },
+  "978821eb-83df-3c2f-15a6-1a1bd34261cb": {
+    "id": "978821eb-83df-3c2f-15a6-1a1bd34261cb",
+    "de": "Star",
+    "en": "star",
+    "article": "der",
+    "exampleDE": "Diese Sängerin ist ein Star in Deutschland.",
+    "exampleEN": "This singer is a star in Germany."
+  },
+  "f355dba8-33fd-a3ae-ea01-a06925fd45ec": {
+    "id": "f355dba8-33fd-a3ae-ea01-a06925fd45ec",
+    "de": "Sonne",
+    "en": "sun",
+    "article": "die",
+    "exampleDE": "Die Sonne scheint.",
+    "exampleEN": "The sun is shining."
+  },
+  "a14bfcd9-5649-8eba-1f78-76958f17c975": {
+    "id": "a14bfcd9-5649-8eba-1f78-76958f17c975",
+    "de": "Stelle",
+    "en": "location",
+    "article": "die",
+    "exampleDE": "Ich habe eine neue Stelle. Ich arbeite jetzt bei Mercedes.",
+    "exampleEN": "I have a new job. I'm working for Mercedes now."
+  },
+  "64d29f26-07c7-2bd6-4d7c-d9473997a369": {
+    "id": "64d29f26-07c7-2bd6-4d7c-d9473997a369",
+    "de": "Spaß",
+    "en": "fun",
+    "article": "der",
+    "exampleDE": "Meine Arbeit macht mir Spaß.",
+    "exampleEN": "I enjoy my work."
+  },
+  "4dcdb585-a2b2-8060-2f55-cfb2f9dbdade": {
+    "id": "4dcdb585-a2b2-8060-2f55-cfb2f9dbdade",
+    "de": "Stiefel",
+    "en": "boots",
+    "article": "der",
+    "exampleDE": "Wie viel kosten die roten Stiefel?",
+    "exampleEN": "How much do the red boots cost?"
+  },
+  "dd6f76a6-22b0-1b65-401b-a9b605498ebd": {
+    "id": "dd6f76a6-22b0-1b65-401b-a9b605498ebd",
+    "de": "Stift",
+    "en": "pen",
+    "article": "der",
+    "exampleDE": "Kannst du mir bitte einen Stift geben? - Was brauchst du? Einen Farbstift oder einen Bleistift oder einen Kugelschreiber?",
+    "exampleEN": "Can you give me a pen, please? - What do you need? A pencil or a pen?"
+  },
+  "e9e0c3cd-85fa-9cef-a9ac-370d6315f332": {
+    "id": "e9e0c3cd-85fa-9cef-a9ac-370d6315f332",
+    "de": "Stipendium",
+    "en": "scholarship",
+    "article": "das",
+    "exampleDE": "Wenn ich ein gutes Zeugnis habe, bekomme ich ein Stipendium.",
+    "exampleEN": "If I have a good testimony, I get a scholarship."
+  },
+  "d523f865-9ec6-57da-ab6f-d7119342d6ef": {
+    "id": "d523f865-9ec6-57da-ab6f-d7119342d6ef",
+    "de": "Stock",
+    "en": "floor",
+    "article": "der",
+    "exampleDE": "Unsere Wohnung liegt im ersten Stock.",
+    "exampleEN": "Our apartment is on the first floor."
+  },
+  "4e73d37b-02e2-239b-ddd0-dae45611b60a": {
+    "id": "4e73d37b-02e2-239b-ddd0-dae45611b60a",
+    "de": "Stockwerk",
+    "en": "level / floor",
+    "article": "das",
+    "exampleDE": "Das Gebäude hat zwanzig Stockwerke.",
+    "exampleEN": "The building has twenty floors."
+  },
+  "62f3c138-43d8-1c26-1e4e-30f2c4329e4f": {
+    "id": "62f3c138-43d8-1c26-1e4e-30f2c4329e4f",
+    "de": "Spaziergang",
+    "en": "walk",
+    "article": "der",
+    "exampleDE": "Abends mache ich immer einen Spaziergang.",
+    "exampleEN": "In the evening I always go for a walk."
+  },
+  "7cb4cdca-1530-d0ae-694a-59998e8902dd": {
+    "id": "7cb4cdca-1530-d0ae-694a-59998e8902dd",
+    "de": "Strand",
+    "en": "beach",
+    "article": "der",
+    "exampleDE": "Im Urlaub bin ich am liebsten am Strand.",
+    "exampleEN": "On holiday I prefer the beach."
+  },
+  "c39166a9-dc20-52e6-cdce-ccab2f41c066": {
+    "id": "c39166a9-dc20-52e6-cdce-ccab2f41c066",
+    "de": "Straße",
+    "en": "road",
+    "article": "die",
+    "exampleDE": "In welcher Straße wohnen Sie?",
+    "exampleEN": "In which street do you live?"
+  },
+  "b659c48f-8337-ae27-b67e-c5ac75606bca": {
+    "id": "b659c48f-8337-ae27-b67e-c5ac75606bca",
+    "de": "Straßenbahn",
+    "en": "tram",
+    "article": "die",
+    "exampleDE": "Fahren wir mit der Straßenbahn oder mit der U-Bahn?",
+    "exampleEN": "Are we taking the tram or subway?"
+  },
+  "3e0d3d46-9f7c-e102-c158-4b3e319b2ce4": {
+    "id": "3e0d3d46-9f7c-e102-c158-4b3e319b2ce4",
+    "de": "Speisekarte",
+    "en": "menu",
+    "article": "die",
+    "exampleDE": "Entschuldigung, bringen Sie uns bitte die Speisekarte.",
+    "exampleEN": "Excuse me, please bring us the menu."
+  },
+  "e4b10454-182d-9631-347e-901640d73709": {
+    "id": "e4b10454-182d-9631-347e-901640d73709",
+    "de": "Spiel",
+    "en": "game",
+    "article": "das",
+    "exampleDE": "Welche Kartenspiele kennen Sie?",
+    "exampleEN": "What card games do you know?"
+  },
+  "5d9aee35-b8a7-37cd-780b-25e7250af2a6": {
+    "id": "5d9aee35-b8a7-37cd-780b-25e7250af2a6",
+    "de": "Stress",
+    "en": "stress",
+    "article": "der",
+    "exampleDE": "Ich habe bei der Arbeit viel Stress.",
+    "exampleEN": "I have a lot of stress at work."
+  },
+  "4eecd0d8-3609-5d77-5769-69c2bc6d7b91": {
+    "id": "4eecd0d8-3609-5d77-5769-69c2bc6d7b91",
+    "de": "Stück",
+    "en": "piece",
+    "article": "das",
+    "exampleDE": "Möchten Sie noch ein Stück Kuchen?",
+    "exampleEN": "Would you like another piece of cake?"
+  },
+  "23a3e608-022f-38ec-ac4e-fd9df7cc338b": {
+    "id": "23a3e608-022f-38ec-ac4e-fd9df7cc338b",
+    "de": "Telefon",
+    "en": "phone",
+    "article": "das",
+    "exampleDE": "Darf ich bitte Ihr Telefon benutzen?",
+    "exampleEN": "Can I use your phone?"
+  },
+  "fd628ef1-4c3c-6768-7197-669160ff190a": {
+    "id": "fd628ef1-4c3c-6768-7197-669160ff190a",
+    "de": "Student",
+    "en": "male student",
+    "article": "der",
+    "exampleDE": "Ich bin Student.",
+    "exampleEN": "I am student."
+  },
+  "7c62d39d-6647-76bd-c6c0-395c20d78f14": {
+    "id": "7c62d39d-6647-76bd-c6c0-395c20d78f14",
+    "de": "Studentin",
+    "en": "female student",
+    "article": "die",
+    "exampleDE": "Ich bin Studentin.",
+    "exampleEN": "I am a student."
+  },
+  "06f02ca5-0df7-5249-665a-0b120abd8a9e": {
+    "id": "06f02ca5-0df7-5249-665a-0b120abd8a9e",
+    "de": "Teller",
+    "en": "plate",
+    "article": "der",
+    "exampleDE": "Möchtest du noch einen Teller Suppe?",
+    "exampleEN": "Would you like another plate of soup?"
+  },
+  "dcc827a3-ce6a-90e0-f311-248874bb9dcc": {
+    "id": "dcc827a3-ce6a-90e0-f311-248874bb9dcc",
+    "de": "Tennis",
+    "en": "tennis",
+    "article": "das",
+    "exampleDE": "Steffi spielt sehr gut Tennis.",
+    "exampleEN": "Steffi plays tennis very well."
+  },
+  "5fb6bfce-6bab-e3b2-ddbc-36d0ef37cc02": {
+    "id": "5fb6bfce-6bab-e3b2-ddbc-36d0ef37cc02",
+    "de": "Studium",
+    "en": "studies / academic studies",
+    "article": "das",
+    "exampleDE": "Das Studium dauert drei Jahre.",
+    "exampleEN": "The course lasts three years."
+  },
+  "8e23f50e-2e85-33b5-d4fa-a14ae07756c7": {
+    "id": "8e23f50e-2e85-33b5-d4fa-a14ae07756c7",
+    "de": "Stuhl",
+    "en": "chair",
+    "article": "der",
+    "exampleDE": "Ist der Stuhl frei?",
+    "exampleEN": "Is the chair free?"
+  },
+  "1313e1e0-d718-9a52-5e25-85cc3e64ece4": {
+    "id": "1313e1e0-d718-9a52-5e25-85cc3e64ece4",
+    "de": "Termin",
+    "en": "meeting",
+    "article": "der",
+    "exampleDE": "Am besten machen wir sofort einen Termin.",
+    "exampleEN": "We can make an appointment immediately."
+  },
+  "481cd661-2898-e759-eac6-0e1ff05de4a4": {
+    "id": "481cd661-2898-e759-eac6-0e1ff05de4a4",
+    "de": "Text",
+    "en": "text",
+    "article": "der",
+    "exampleDE": "Lesen Sie bitte den Text.",
+    "exampleEN": "Please read the text."
+  },
+  "34fd9888-46eb-c3f1-b42d-a8e43b7bb99e": {
+    "id": "34fd9888-46eb-c3f1-b42d-a8e43b7bb99e",
+    "de": "Theater",
+    "en": "theatre",
+    "article": "das",
+    "exampleDE": "Ich gehe nicht gern ins Theater.",
+    "exampleEN": "I do not like going to the theater."
+  },
+  "afb4b9a8-311a-5a4a-3f90-16d57f87d8df": {
+    "id": "afb4b9a8-311a-5a4a-3f90-16d57f87d8df",
+    "de": "Thema",
+    "en": "subject / topic",
+    "article": "das",
+    "exampleDE": "Heute heißt unser Thema: „Essen und Trinken“.",
+    "exampleEN": "Today our theme is \"food and drink\"."
+  },
+  "2f976fb5-668a-4c42-e0c1-802980527007": {
+    "id": "2f976fb5-668a-4c42-e0c1-802980527007",
+    "de": "Ticket",
+    "en": "ticket",
+    "article": "das",
+    "exampleDE": "Wie viel kostet das Ticket?",
+    "exampleEN": "How much is the ticket?"
+  },
+  "8a713dc0-56b4-8b6a-999e-12ecf4d26fca": {
+    "id": "8a713dc0-56b4-8b6a-999e-12ecf4d26fca",
+    "de": "Supermarkt",
+    "en": "supermarket",
+    "article": "der",
+    "exampleDE": "Ich kaufe oft im Supermarkt ein.",
+    "exampleEN": "I often buy in the supermarket."
+  },
+  "1a1f7a21-4a6e-9adb-f634-22f0a1a774ad": {
+    "id": "1a1f7a21-4a6e-9adb-f634-22f0a1a774ad",
+    "de": "Suppe",
+    "en": "soup",
+    "article": "die",
+    "exampleDE": "Schmeckt dir die Suppe?",
+    "exampleEN": "Do you like the soup?"
+  },
+  "08c3ce5d-54fe-68db-c13f-242faca84299": {
+    "id": "08c3ce5d-54fe-68db-c13f-242faca84299",
+    "de": "Tier",
+    "en": "animal",
+    "article": "das",
+    "exampleDE": "Wir dürfen keine Tiere in der Wohnung haben.",
+    "exampleEN": "We must not have any animals in the apartment."
+  },
+  "dd06c608-9437-1d29-78dd-5d4971373b82": {
+    "id": "dd06c608-9437-1d29-78dd-5d4971373b82",
+    "de": "Tipp",
+    "en": "tip",
+    "article": "der",
+    "exampleDE": "Kannst du mir einen guten Tipp geben?",
+    "exampleEN": "Can you give me a good tip?"
+  },
+  "6e93552b-2dbb-2026-cdec-1103d4b87f8c": {
+    "id": "6e93552b-2dbb-2026-cdec-1103d4b87f8c",
+    "de": "Tisch",
+    "en": "table",
+    "article": "der",
+    "exampleDE": "Das Essen steht schon auf dem Tisch.",
+    "exampleEN": "The food is already on the table."
+  },
+  "d42ee8f8-8ada-0c9b-7f13-a4b77f82022a": {
+    "id": "d42ee8f8-8ada-0c9b-7f13-a4b77f82022a",
+    "de": "Titel",
+    "en": "title",
+    "article": "der",
+    "exampleDE": "Wie heißt der Film? - Ich weiß den Titel nicht mehr.",
+    "exampleEN": "What is the title of the movie? - I do not know the title anymore."
+  },
+  "d879e9d5-6373-d824-33a7-fa3a1684f4c3": {
+    "id": "d879e9d5-6373-d824-33a7-fa3a1684f4c3",
+    "de": "Süßigkeiten",
+    "en": "sweets",
+    "article": "die",
+    "exampleDE": "Welche Süßigkeiten isst du am liebsten? - Schokolade und Eis.",
+    "exampleEN": "What sweets do you like most? - Chocolate and ice cream."
+  },
+  "c902e3df-7ad4-1e41-9de0-4db0ffb06ac5": {
+    "id": "c902e3df-7ad4-1e41-9de0-4db0ffb06ac5",
+    "de": "Toilette",
+    "en": "toilet",
+    "article": "die",
+    "exampleDE": "Wo ist die Toilette, bitte?",
+    "exampleEN": "where is the toilet, please?"
+  },
+  "8eceb7cb-c865-d4c1-b4bc-245f13ed46d2": {
+    "id": "8eceb7cb-c865-d4c1-b4bc-245f13ed46d2",
+    "de": "Tomate",
+    "en": "tomato",
+    "article": "die",
+    "exampleDE": "Die Tomate ist noch grün.",
+    "exampleEN": "The tomato is still green."
+  },
+  "34a4098e-f367-72d6-6b82-b8c149bfdd59": {
+    "id": "34a4098e-f367-72d6-6b82-b8c149bfdd59",
+    "de": "Topf",
+    "en": "pot",
+    "article": "der",
+    "exampleDE": "Hast du keinen größeren Topf? Ich möchte Kartoffeln kochen.",
+    "exampleEN": "Do not you have a bigger pot? I want to cook potatoes."
+  },
+  "ee65c273-1ae7-7b45-588a-4688a3c09c70": {
+    "id": "ee65c273-1ae7-7b45-588a-4688a3c09c70",
+    "de": "Tablet",
+    "en": "tablet",
+    "article": "das",
+    "exampleDE": "Hast du ein Tablet? - Nein, ich habe einen Laptop und ein Handy.",
+    "exampleEN": "Do you have a tablet? - No, I have a laptop and a cell phone."
+  },
+  "115f6f1f-7715-b7b6-44a5-02b55dfdcc77": {
+    "id": "115f6f1f-7715-b7b6-44a5-02b55dfdcc77",
+    "de": "Tablette",
+    "en": "pill / tablet",
+    "article": "die",
+    "exampleDE": "Du sollst am Abend zwei Tabletten nehmen.",
+    "exampleEN": "You should take two tablets in the evening."
+  },
+  "ae964084-670b-7001-2c21-ae601eca8228": {
+    "id": "ae964084-670b-7001-2c21-ae601eca8228",
+    "de": "Torte",
+    "en": "cake",
+    "article": "die",
+    "exampleDE": "Zum Geburtstag backe ich dir eine Torte.",
+    "exampleEN": "For the birthday I'll bake you a cake."
+  },
+  "0f23685a-71f9-5e8c-8481-ef4d0c90cfbf": {
+    "id": "0f23685a-71f9-5e8c-8481-ef4d0c90cfbf",
+    "de": "Tafel",
+    "en": "whiteboard",
+    "article": "die",
+    "exampleDE": "Der Lehrer schreibt das neue Wort an die Tafel.",
+    "exampleEN": "The teacher writes the new word to the board."
+  },
+  "a88c7e74-c00b-d5af-7bfe-e0b1f843bd9a": {
+    "id": "a88c7e74-c00b-d5af-7bfe-e0b1f843bd9a",
+    "de": "Tour",
+    "en": "trip",
+    "article": "die",
+    "exampleDE": "Wo kann ich eine Stadttour buchen?",
+    "exampleEN": "Where can I book a city tour?"
+  },
+  "5a674359-f6bd-2174-5a78-1b8addcdae0a": {
+    "id": "5a674359-f6bd-2174-5a78-1b8addcdae0a",
+    "de": "Tasche",
+    "en": "bag",
+    "article": "die",
+    "exampleDE": "Ich habe die Schlüssel in der Tasche.",
+    "exampleEN": "I have the keys in my pocket."
+  },
+  "88748cd3-977e-5565-b4a9-45d5df332999": {
+    "id": "88748cd3-977e-5565-b4a9-45d5df332999",
+    "de": "Tourist",
+    "en": "male tourist",
+    "article": "der",
+    "exampleDE": "Im Sommer kommen viele Touristen in diese Stadt.",
+    "exampleEN": "In the summer many tourists come to this city."
+  },
+  "4fe25ed6-b37c-3318-6efd-92d23f72cfae": {
+    "id": "4fe25ed6-b37c-3318-6efd-92d23f72cfae",
+    "de": "Touristin",
+    "en": "female tourist",
+    "article": "die",
+    "exampleDE": "Die Touristin trägt ein schönes Kleid.",
+    "exampleEN": "The tourist is wearing a beautiful dress."
+  },
+  "4247656c-cf7a-7f4b-c1b0-37903922328e": {
+    "id": "4247656c-cf7a-7f4b-c1b0-37903922328e",
+    "de": "Taschengeld",
+    "en": "pocket money",
+    "article": "das",
+    "exampleDE": "Wie viel Taschengeld bekommen deine Kinder?",
+    "exampleEN": "How much money will your children get?"
+  },
+  "087f9b28-7e9f-f011-ef83-b9a7ddbc0a47": {
+    "id": "087f9b28-7e9f-f011-ef83-b9a7ddbc0a47",
+    "de": "Tasse",
+    "en": "cup",
+    "article": "die",
+    "exampleDE": "Möchten Sie eine Tasse Kaffee?",
+    "exampleEN": "Would you like a cup of coffee?"
+  },
+  "18aa8bd2-6483-4e40-5351-6b84113a4a1a": {
+    "id": "18aa8bd2-6483-4e40-5351-6b84113a4a1a",
+    "de": "Taxi",
+    "en": "taxi",
+    "article": "das",
+    "exampleDE": "Bitte rufen Sie mir ein Taxi.",
+    "exampleEN": "Please call me a taxi."
+  },
+  "d85c54a0-8af4-3a80-a18e-78b8ee6b7477": {
+    "id": "d85c54a0-8af4-3a80-a18e-78b8ee6b7477",
+    "de": "Training",
+    "en": "training",
+    "article": "das",
+    "exampleDE": "Das Training ist immer dienstags.",
+    "exampleEN": "The training is always on Tuesdays."
+  },
+  "00701276-a742-799b-3c98-72b60fbcb298": {
+    "id": "00701276-a742-799b-3c98-72b60fbcb298",
+    "de": "Traum",
+    "en": "dream",
+    "article": "der",
+    "exampleDE": "Ich möchte eine eigene Firma, das ist mein Traum.",
+    "exampleEN": "I want my own company, that is my dream."
+  },
+  "04fe20f8-5369-edfb-3842-204d91346cf3": {
+    "id": "04fe20f8-5369-edfb-3842-204d91346cf3",
+    "de": "Team",
+    "en": "team",
+    "article": "das",
+    "exampleDE": "Ich arbeite gern in einem Team.",
+    "exampleEN": "I like working in a team."
+  },
+  "2b2e09c2-92a8-1c2e-83fb-1b486daef4dd": {
+    "id": "2b2e09c2-92a8-1c2e-83fb-1b486daef4dd",
+    "de": "Tee",
+    "en": "tea",
+    "article": "der",
+    "exampleDE": "Ich trinke morgens immer Tee.",
+    "exampleEN": "I always drink tea in the morning."
+  },
+  "3e6c28fd-9d40-031f-b089-ce89ce1aa5a4": {
+    "id": "3e6c28fd-9d40-031f-b089-ce89ce1aa5a4",
+    "de": "Treppe",
+    "en": "stairway",
+    "article": "die",
+    "exampleDE": "Ich nehme die Treppe, nicht den Aufzug.",
+    "exampleEN": "I take the stairs, not the elevator."
+  },
+  "554130cf-622b-60c0-cde4-5e0a6198bce2": {
+    "id": "554130cf-622b-60c0-cde4-5e0a6198bce2",
+    "de": "Unfall",
+    "en": "accident",
+    "article": "der",
+    "exampleDE": "Ich hatte gestern einen Unfall.",
+    "exampleEN": "I had an accident yesterday."
+  },
+  "a68c7b5c-a3a3-b53e-8ad8-a7767883d646": {
+    "id": "a68c7b5c-a3a3-b53e-8ad8-a7767883d646",
+    "de": "Universität",
+    "en": "university",
+    "article": "die",
+    "exampleDE": "Er studiert an der Universität Freiburg.",
+    "exampleEN": "He studied at the University of Freiburg."
+  },
+  "0a156bf7-6866-2bff-8f40-561eae22f4a9": {
+    "id": "0a156bf7-6866-2bff-8f40-561eae22f4a9",
+    "de": "T-Shirt",
+    "en": "T-Shirt",
+    "article": "das",
+    "exampleDE": "Haben Sie dieses T-Shirt auch in M?",
+    "exampleEN": "Do you have this shirt in M?"
+  },
+  "dcf6442f-112e-602a-db6d-828d2d463578": {
+    "id": "dcf6442f-112e-602a-db6d-828d2d463578",
+    "de": "Tür",
+    "en": "door",
+    "article": "die",
+    "exampleDE": "Mach bitte die Tür zu!",
+    "exampleEN": "Please close the door!"
+  },
+  "8afd34af-d02d-3293-2fa2-6e356ecc2263": {
+    "id": "8afd34af-d02d-3293-2fa2-6e356ecc2263",
+    "de": "Unterkunft",
+    "en": "accommodation",
+    "article": "die",
+    "exampleDE": "Ich suche noch eine Unterkunft in Basel. Kennst du ein günstiges Hotel?",
+    "exampleEN": "I'm looking for a place to stay in Basel. Do you know a cheap hotel?"
+  },
+  "863bc975-e12e-bc42-d2ca-ce140ebb1c3c": {
+    "id": "863bc975-e12e-bc42-d2ca-ce140ebb1c3c",
+    "de": "Unterricht",
+    "en": "class",
+    "article": "der",
+    "exampleDE": "Der Unterricht dauert bis 19 Uhr.",
+    "exampleEN": "The lesson lasts until 7 pm."
+  },
+  "792d4ea5-3ede-e186-f587-5244210f5541": {
+    "id": "792d4ea5-3ede-e186-f587-5244210f5541",
+    "de": "Unterschied",
+    "en": "difference",
+    "article": "der",
+    "exampleDE": "Was ist der Unterschied zwischen den beiden Kursen? - Die Kurse sind gleich. Es gibt keinen Unterschied.",
+    "exampleEN": "What is the difference between the two courses? - The courses are the same. There is no difference."
+  },
+  "5769f95a-5877-e7d5-5a36-49b2897da37d": {
+    "id": "5769f95a-5877-e7d5-5a36-49b2897da37d",
+    "de": "Unterschrift",
+    "en": "signature",
+    "article": "die",
+    "exampleDE": "Hier fehlt noch Ihre Unterschrift.",
+    "exampleEN": "Your signature is still missing here."
+  },
+  "6188265c-a607-248a-3bc9-f428665b9a9b": {
+    "id": "6188265c-a607-248a-3bc9-f428665b9a9b",
+    "de": "Urlaub",
+    "en": "vacation",
+    "article": "der",
+    "exampleDE": "Ich nehme im September Urlaub.",
+    "exampleEN": "I'll take a holiday in September."
+  },
+  "b3cd155c-1a2e-02a8-9562-a3b61eda7765": {
+    "id": "b3cd155c-1a2e-02a8-9562-a3b61eda7765",
+    "de": "Übersetzung",
+    "en": "translation",
+    "article": "die",
+    "exampleDE": "Ich brauche eine Übersetzung von meinem Zeugnis.",
+    "exampleEN": "I need a translation of my testimony."
+  },
+  "0d641cfa-b717-ec96-ad6b-59f6598a996f": {
+    "id": "0d641cfa-b717-ec96-ad6b-59f6598a996f",
+    "de": "Uhr",
+    "en": "Clock",
+    "article": "die",
+    "exampleDE": "Es ist vier Uhr.",
+    "exampleEN": "It's four o'clock."
+  },
+  "e95bf488-03c0-b190-6454-be05d450101d": {
+    "id": "e95bf488-03c0-b190-6454-be05d450101d",
+    "de": "Veranstaltung",
+    "en": "event",
+    "article": "die",
+    "exampleDE": "Am Samstag ist unser Restaurant geschlossen. Wir haben eine Veranstaltung.",
+    "exampleEN": "On Saturday our restaurant is closed. We have an event."
+  },
+  "80663714-5fb2-d71d-114b-5a75ecc6811a": {
+    "id": "80663714-5fb2-d71d-114b-5a75ecc6811a",
+    "de": "Verein",
+    "en": "union / club",
+    "article": "der",
+    "exampleDE": "Er ist seit vielen Jahren im Verein.",
+    "exampleEN": "He has been in the club for many years."
+  },
+  "17a2e9eb-1c7d-f407-996c-25013a1274bd": {
+    "id": "17a2e9eb-1c7d-f407-996c-25013a1274bd",
+    "de": "Umzug",
+    "en": "move",
+    "article": "der",
+    "exampleDE": "Der Umzug ist nächste Woche.",
+    "exampleEN": "The move is next week."
+  },
+  "086aeecb-eb51-6e5a-01b9-8bbbd4533d6a": {
+    "id": "086aeecb-eb51-6e5a-01b9-8bbbd4533d6a",
+    "de": "Volleyball",
+    "en": "volleyball",
+    "article": "der",
+    "exampleDE": "Ich spiele gern Volleyball.",
+    "exampleEN": "I like to play volleyball."
+  },
+  "461fb2bb-d79e-2fa5-fb99-4f4f6e723bd8": {
+    "id": "461fb2bb-d79e-2fa5-fb99-4f4f6e723bd8",
+    "de": "Verkehr",
+    "en": "traffic",
+    "article": "der",
+    "exampleDE": "Morgens gibt es hier immer viel Verkehr.",
+    "exampleEN": "In the morning there is always plenty of traffic."
+  },
+  "fcb77652-992e-2943-9c4f-80b6db42966c": {
+    "id": "fcb77652-992e-2943-9c4f-80b6db42966c",
+    "de": "Verkehrsmittel",
+    "en": "means of transport",
+    "article": "das",
+    "exampleDE": "Welche Verkehrsmittel benutzen Sie oft?",
+    "exampleEN": "Which means of transport do you use often?"
+  },
+  "bd55e7ec-8cc3-b229-6651-55ea684f1b1b": {
+    "id": "bd55e7ec-8cc3-b229-6651-55ea684f1b1b",
+    "de": "Vorname",
+    "en": "first given name",
+    "article": "der",
+    "exampleDE": "Ich heiße Müller, mein Vorname ist Eva.",
+    "exampleEN": "My name is Müller, my first name is Eva."
+  },
+  "c51d92bf-ca29-0ace-ad31-e118ebdce3f4": {
+    "id": "c51d92bf-ca29-0ace-ad31-e118ebdce3f4",
+    "de": "Vorschlag",
+    "en": "suggestion",
+    "article": "der",
+    "exampleDE": "Was machen wir am Wochenende? Hast du einen guten Vorschlag? - Wir können ins Kino gehen.",
+    "exampleEN": "What are we going to do at the weekend? Do you have a good suggestion? - We can go to the cinema."
+  },
+  "7321550e-4fc5-f229-f3a8-23664c0774db": {
+    "id": "7321550e-4fc5-f229-f3a8-23664c0774db",
+    "de": "Vermieter",
+    "en": "landlord",
+    "article": "der",
+    "exampleDE": "Unser Vermieter ist nett.",
+    "exampleEN": "Our landlord is nice."
+  },
+  "d03ec2ac-1c2d-707f-a960-ead6d1c6ae39": {
+    "id": "d03ec2ac-1c2d-707f-a960-ead6d1c6ae39",
+    "de": "Vermieterin",
+    "en": "landlady",
+    "article": "die",
+    "exampleDE": "Usere Vermiterin ist schon sehr alt.",
+    "exampleEN": "Our account manager is already very old."
+  },
+  "822510d9-bc45-828f-7fa7-17986fd59331": {
+    "id": "822510d9-bc45-828f-7fa7-17986fd59331",
+    "de": "Wagen",
+    "en": "car / carriage / wagon",
+    "article": "der",
+    "exampleDE": "Wo steht Ihr Wagen?",
+    "exampleEN": "Where is your car?"
+  },
+  "0eef8773-ad07-5d49-c541-9d6be80f4455": {
+    "id": "0eef8773-ad07-5d49-c541-9d6be80f4455",
+    "de": "Verspätung",
+    "en": "delay",
+    "article": "die",
+    "exampleDE": "Unser Zug hat leider 15 Minuten Verspätung.",
+    "exampleEN": "Our train unfortunately has a 15 minute delay."
+  },
+  "623fab2c-19ad-7772-7809-1583a8b89d12": {
+    "id": "623fab2c-19ad-7772-7809-1583a8b89d12",
+    "de": "Wald",
+    "en": "forest",
+    "article": "der",
+    "exampleDE": "Im Wald ist es ruhig.",
+    "exampleEN": "In the forest it is quiet."
+  },
+  "4d8f9880-f1cb-33cc-f000-145ef18c242e": {
+    "id": "4d8f9880-f1cb-33cc-f000-145ef18c242e",
+    "de": "Vertrag",
+    "en": "contract",
+    "article": "der",
+    "exampleDE": "Ich muss den Vertrag noch unterschreiben.",
+    "exampleEN": "I have to sign the contract."
+  },
+  "5eefc1e7-c646-d7aa-3b21-68c965a33f22": {
+    "id": "5eefc1e7-c646-d7aa-3b21-68c965a33f22",
+    "de": "Vogel",
+    "en": "bird",
+    "article": "der",
+    "exampleDE": "Nadine mag Vögel.",
+    "exampleEN": "Nadine likes birds."
+  },
+  "2dac429b-25ff-09f2-47ba-0165ff1639c9": {
+    "id": "2dac429b-25ff-09f2-47ba-0165ff1639c9",
+    "de": "Wäsche",
+    "en": "cloths / laundry",
+    "article": "die",
+    "exampleDE": "Ich muss noch Wäsche waschen.",
+    "exampleEN": "I have to wash clothes."
+  },
+  "874d402b-5756-466a-d9be-3f00494db51a": {
+    "id": "874d402b-5756-466a-d9be-3f00494db51a",
+    "de": "Wasser",
+    "en": "water",
+    "article": "das",
+    "exampleDE": "Ein Glas Wasser, bitte.",
+    "exampleEN": "A glass of water, please."
+  },
+  "46e160cb-6901-ca0f-b0ce-fd145441f0e3": {
+    "id": "46e160cb-6901-ca0f-b0ce-fd145441f0e3",
+    "de": "Werkstatt",
+    "en": "workshop",
+    "article": "die",
+    "exampleDE": "Mein Auto ist kaputt. Es ist in der Werkstatt.",
+    "exampleEN": "My car is broken. It's in the workshop."
+  },
+  "271db88a-32f1-186a-77c5-500ccd25c656": {
+    "id": "271db88a-32f1-186a-77c5-500ccd25c656",
+    "de": "Wettbewerb",
+    "en": "competition",
+    "article": "der",
+    "exampleDE": "Mein Sohn hat bei einem Wettbewerb gewonnen.",
+    "exampleEN": "My son won in a competition."
+  },
+  "9a1aa817-9d6f-1326-1241-9575b19ac981": {
+    "id": "9a1aa817-9d6f-1326-1241-9575b19ac981",
+    "de": "Wetter",
+    "en": "weather",
+    "article": "das",
+    "exampleDE": "Heute ist das Wetter gut: Es ist sonnig und warm.",
+    "exampleEN": "Today the weather is good: it is sunny and warm."
+  },
+  "cda5fd18-65a2-885a-ee52-d0fd1db0b858": {
+    "id": "cda5fd18-65a2-885a-ee52-d0fd1db0b858",
+    "de": "Webseite",
+    "en": "website",
+    "article": "die",
+    "exampleDE": "Es gibt viele Webseiten mit Grammatikübungen.",
+    "exampleEN": "There are many websites with grammar exercises."
+  },
+  "23af7e1b-e73f-f6d6-8204-6e7d0b18dc22": {
+    "id": "23af7e1b-e73f-f6d6-8204-6e7d0b18dc22",
+    "de": "Weg",
+    "en": "path",
+    "article": "der",
+    "exampleDE": "Das ist der kürzeste Weg.",
+    "exampleEN": "This is the shortest way."
+  },
+  "0f2aa2ff-5091-f4ec-f6c7-b1ba949b6aab": {
+    "id": "0f2aa2ff-5091-f4ec-f6c7-b1ba949b6aab",
+    "de": "Wiederhören",
+    "en": "Goodbye (on the phone)",
+    "article": "das",
+    "exampleDE": "Wir müssen jetzt Schluss machen. Also auf Wiederhören!",
+    "exampleEN": "We have to put an end to this. So listen again!"
+  },
+  "40ec02b1-04a4-b234-598a-9d322306ecba": {
+    "id": "40ec02b1-04a4-b234-598a-9d322306ecba",
+    "de": "Wiedersehen",
+    "en": "Goodbye (in person) / meet again",
+    "article": "das",
+    "exampleDE": "Auf Wiedersehen!",
+    "exampleEN": "Goodbye!"
+  },
+  "627d62f7-fbe0-8a70-7227-8187a20b155a": {
+    "id": "627d62f7-fbe0-8a70-7227-8187a20b155a",
+    "de": "Wind",
+    "en": "wind",
+    "article": "der",
+    "exampleDE": "Der Wind ist kalt.",
+    "exampleEN": "The wind is cold."
+  },
+  "9f6a0080-bf02-0225-9e22-69ded33aafb2": {
+    "id": "9f6a0080-bf02-0225-9e22-69ded33aafb2",
+    "de": "Wein",
+    "en": "wine",
+    "article": "der",
+    "exampleDE": "Nein danke, ich möchte keinen Wein.",
+    "exampleEN": "No thanks, I do not want any wine."
+  },
+  "ae9073d9-a9f9-fc0b-d74b-69c3632041ef": {
+    "id": "ae9073d9-a9f9-fc0b-d74b-69c3632041ef",
+    "de": "Witz",
+    "en": "joke",
+    "article": "der",
+    "exampleDE": "Wir haben Witze erzählt und viel gelacht.",
+    "exampleEN": "We told jokes and laughed a lot."
+  },
+  "2b0394eb-6862-1dcf-dbf2-7d2daf8795f8": {
+    "id": "2b0394eb-6862-1dcf-dbf2-7d2daf8795f8",
+    "de": "Welt",
+    "en": "world",
+    "article": "die",
+    "exampleDE": "Ich möchte gern einmal um die Welt reisen.",
+    "exampleEN": "I would like to travel around the world."
+  },
+  "caa4dc3d-7c4f-c1b5-0941-ab1cf24dd7d7": {
+    "id": "caa4dc3d-7c4f-c1b5-0941-ab1cf24dd7d7",
+    "de": "Wohnung",
+    "en": "flat / appartment",
+    "article": "die",
+    "exampleDE": "Haben Sie schon einen neue Wohnung gefunden?",
+    "exampleEN": "Have you already found a new apartment?"
+  },
+  "721a8c70-bc98-dc39-ee44-70e96a4b02db": {
+    "id": "721a8c70-bc98-dc39-ee44-70e96a4b02db",
+    "de": "Wohnzimmer",
+    "en": "living room",
+    "article": "das",
+    "exampleDE": "Die Kinder sitzen im Wohnzimmer und sehen fern.",
+    "exampleEN": "The children sit in the living room and watch TV."
+  },
+  "41995f50-ea77-32b4-6e62-d768e288e7fe": {
+    "id": "41995f50-ea77-32b4-6e62-d768e288e7fe",
+    "de": "Wolke",
+    "en": "cloud",
+    "article": "die",
+    "exampleDE": "Heute gibt es viele Wolken.",
+    "exampleEN": "Today there are many clouds."
+  },
+  "987860d9-628f-fb6d-8add-6ae08ef27398": {
+    "id": "987860d9-628f-fb6d-8add-6ae08ef27398",
+    "de": "Zimmer",
+    "en": "room",
+    "article": "das",
+    "exampleDE": "Das Zimmer ist am größten.",
+    "exampleEN": "The room is the largest."
+  },
+  "ffd389e9-31b8-d0c4-c830-76abd9e4500a": {
+    "id": "ffd389e9-31b8-d0c4-c830-76abd9e4500a",
+    "de": "Zirkus",
+    "en": "circus",
+    "article": "der",
+    "exampleDE": "Heute gehen wir mit den Kindern in den Zirkus.",
+    "exampleEN": "Today we go with the children to the circus."
+  },
+  "6bc37099-801f-84c1-8c02-e0d0114aaabe": {
+    "id": "6bc37099-801f-84c1-8c02-e0d0114aaabe",
+    "de": "Workshop",
+    "en": "seminar / workshop",
+    "article": "der",
+    "exampleDE": "Das war ein toller Workshop. Ich habe viel gelernt.",
+    "exampleEN": "This was a great workshop. I learned a lot."
+  },
+  "380d11d1-b19b-b802-67ab-af5124d89ea0": {
+    "id": "380d11d1-b19b-b802-67ab-af5124d89ea0",
+    "de": "Zitrone",
+    "en": "lemon",
+    "article": "die",
+    "exampleDE": "Ich trinke den Tee mit Zitrone.",
+    "exampleEN": "I drink the tea with lemon."
+  },
+  "467171ad-65cf-aff7-ffab-d5b5a870b79e": {
+    "id": "467171ad-65cf-aff7-ffab-d5b5a870b79e",
+    "de": "Zoo",
+    "en": "zoo",
+    "article": "der",
+    "exampleDE": "Am Sonntag gehen wir in den Zoo.",
+    "exampleEN": "On Sunday we go to the zoo."
+  },
+  "3a3746c1-43b8-679c-449d-f23e26303b01": {
+    "id": "3a3746c1-43b8-679c-449d-f23e26303b01",
+    "de": "Wort",
+    "en": "word",
+    "article": "das",
+    "exampleDE": "Ich kenne das Wort nicht.",
+    "exampleEN": "I do not know the word."
+  },
+  "89d74c97-4eb1-0c19-19de-d3cf78d27a18": {
+    "id": "89d74c97-4eb1-0c19-19de-d3cf78d27a18",
+    "de": "Wunsch",
+    "en": "wish",
+    "article": "der",
+    "exampleDE": "Haben Sie noch einen Wunsch?",
+    "exampleEN": "Anything else you like?"
+  },
+  "b280ad82-1a59-c449-e2a8-d65613b69e59": {
+    "id": "b280ad82-1a59-c449-e2a8-d65613b69e59",
+    "de": "Zucker",
+    "en": "sugar",
+    "article": "der",
+    "exampleDE": "Trinken Sie den Tee mit oder ohne Zucker?",
+    "exampleEN": "Do you drink tea with or without sugar?"
+  },
+  "fe82e2c8-d891-7647-6c48-e181d09eb166": {
+    "id": "fe82e2c8-d891-7647-6c48-e181d09eb166",
+    "de": "Wurst",
+    "en": "sausage",
+    "article": "die",
+    "exampleDE": "Eine Wurst mit Pommes frites, bitte.",
+    "exampleEN": "A sausage with fries, please."
+  },
+  "70d8b66a-1fd3-9564-378c-f916a3459060": {
+    "id": "70d8b66a-1fd3-9564-378c-f916a3459060",
+    "de": "Zug",
+    "en": "train",
+    "article": "der",
+    "exampleDE": "Ich fahre gern mit dem Zug.",
+    "exampleEN": "I like to go by train."
+  },
+  "ed912b71-f7e7-560c-acbd-76dd36a6ab39": {
+    "id": "ed912b71-f7e7-560c-acbd-76dd36a6ab39",
+    "de": "Zahl",
+    "en": "number",
+    "article": "die",
+    "exampleDE": "Können Sie die Zahl bitte wiederholen?",
+    "exampleEN": "Can you repeat the number please?"
+  },
+  "5a5c18b9-5795-fe15-e670-41d89e42c2a7": {
+    "id": "5a5c18b9-5795-fe15-e670-41d89e42c2a7",
+    "de": "Zahn",
+    "en": "tooth",
+    "article": "der",
+    "exampleDE": "Der Zahn tut mir schon seit einer Woche weh.",
+    "exampleEN": "The tooth has been hurting me for a week."
+  },
+  "6588d822-7c8b-b540-2cce-11bf218addaa": {
+    "id": "6588d822-7c8b-b540-2cce-11bf218addaa",
+    "de": "Zeit",
+    "en": "time",
+    "article": "die",
+    "exampleDE": "Ich habe heute keine Zeit.",
+    "exampleEN": "I do not have time today."
+  },
+  "8f2f5dfe-a3f6-429c-f2ce-7d2a22e76b04": {
+    "id": "8f2f5dfe-a3f6-429c-f2ce-7d2a22e76b04",
+    "de": "Zeitschrift",
+    "en": "magazine",
+    "article": "die",
+    "exampleDE": "Diese Zeitschrift kauft Andrea jede Woche.",
+    "exampleEN": "Andrea purchases this magazine every week."
+  },
+  "dff52c8e-1a1a-e5a9-1309-0ea34e21948e": {
+    "id": "dff52c8e-1a1a-e5a9-1309-0ea34e21948e",
+    "de": "Zeitung",
+    "en": "newspaper",
+    "article": "die",
+    "exampleDE": "Ich lese manchmal Zeitung.",
+    "exampleEN": "I sometimes read newspapers."
+  },
+  "de74f833-ee4a-17f5-9168-e8d09725fa78": {
+    "id": "de74f833-ee4a-17f5-9168-e8d09725fa78",
+    "de": "Zelt",
+    "en": "tent",
+    "article": "das",
+    "exampleDE": "Im Sommer schlafen wir manchmal im Zelt.",
+    "exampleEN": "In the summer we sometimes sleep in the tent."
+  },
+  "6e3acf95-a168-0890-ce48-cc686daa0abd": {
+    "id": "6e3acf95-a168-0890-ce48-cc686daa0abd",
+    "de": "Zentrum",
+    "en": "center",
+    "article": "das",
+    "exampleDE": "Der Bahnhof ist im Stadtzentrum.",
+    "exampleEN": "The station is in the city center."
+  },
+  "2108f93b-4bd3-98cb-4fae-8c8cc5c879e4": {
+    "id": "2108f93b-4bd3-98cb-4fae-8c8cc5c879e4",
+    "de": "Zettel",
+    "en": "note",
+    "article": "der",
+    "exampleDE": "Hast du einen Zettel für mich? Ich muss etwas notieren.",
+    "exampleEN": "Do you have a note for me? I have to write down something."
+  },
+  "c6ebe4e7-1f71-1a8d-11d3-aa9d6c0e52da": {
+    "id": "c6ebe4e7-1f71-1a8d-11d3-aa9d6c0e52da",
+    "de": "Zeugnis",
+    "en": "certificate / school report",
+    "article": "das",
+    "exampleDE": "Morgen bekommen die Kinder ihr Zeugnis.",
+    "exampleEN": "Tomorrow the children will get their testimony."
+  },
+  "6c52a27c-d65b-9dbe-1628-0d67e90cb4b0": {
+    "id": "6c52a27c-d65b-9dbe-1628-0d67e90cb4b0",
+    "de": "Ziel",
+    "en": "aim / target",
+    "article": "das",
+    "exampleDE": "John läuft sehr schnell. Er war als erster am Ziel.",
+    "exampleEN": "John is running very fast. He was the first."
+  }
+}
